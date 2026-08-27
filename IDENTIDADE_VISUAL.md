@@ -6,6 +6,8 @@ Pasta do projeto: `D:\IABRACADABRA\0058 - Família Pires\Infops livro\4 - Geneal
 Fotos: `D:\IABRACADABRA\0058 - Família Pires\Fotos do Livro` (também existe uma pasta antiga `Novas Fotos`, checar as duas)
 Repositório git: `https://github.com/Randolfoai/familia-pires-genealogia` (branch `main`)
 
+> **Nota sobre trocar de computador**: o repositório git cobre só a pasta `Infops livro\4 - Genealogia` (os SVGs/PDFs e este guia). A pasta de fotos (`Fotos do Livro` / `Novas Fotos`) fica **fora** do repositório e **não** é versionada — ela precisa ser levada separadamente. O usuário leva o diretório local de trabalho inteiro zipado (inclui a pasta de fotos) ao trocar de computador; ao chegar lá, extrair mantendo a mesma estrutura de pastas (`D:\IABRACADABRA\0058 - Família Pires\...`) para que os caminhos usados nos scripts continuem batendo sem precisar ajustar nada. Se o caminho no novo computador for diferente, avisar explicitamente para os caminhos serem atualizados.
+
 ---
 
 ## 1. Estrutura geral do SVG
