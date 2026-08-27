@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 276.0">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8.2px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 10px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 12.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.8px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.8px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(15 18.0)"><tspan x="0" y="0">Netos de Inês e José de Barros e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 37.8)"><tspan x="0" y="0">Filhos de Raime e Mactha</tspan></text>
+  <path class="ln" d="M28.8,41.0v18.4"/>
+  <line class="ln" x1="28.8" y1="48.0" x2="43.4" y2="48.0"/>
+  <rect class="box" x="43.4" y="43.4" width="256.9" height="9.2"/>
+  <text transform="translate(53.2 50.7)"><tspan class="nm" x="0" y="0">Inês Maria de Castro Garção Oliveira</tspan><tspan class="sp"> / Antônio José de Oliveira Neto</tspan></text>
+  <line class="ln" x1="28.8" y1="59.5" x2="43.4" y2="59.5"/>
+  <rect class="box" x="43.4" y="54.9" width="256.9" height="9.2"/>
+  <text transform="translate(53.2 62.2)"><tspan class="nm" x="0" y="0">Larissa de Castro Garção Sampaio</tspan><tspan class="sp"> / Sandro Costa Sampaio</tspan></text>
+  <text class="hdr" transform="translate(20 73.5)"><tspan x="0" y="0">Filhos de Leila e Arnaldo</tspan></text>
+  <path class="ln" d="M28.8,76.8v41.5"/>
+  <line class="ln" x1="28.8" y1="83.7" x2="43.4" y2="83.7"/>
+  <rect class="box" x="43.4" y="79.1" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 86.4)"><tspan x="0" y="0">Lorena de Oliveira Garção Marques</tspan></text>
+  <line class="ln" x1="28.8" y1="95.2" x2="43.4" y2="95.2"/>
+  <rect class="box" x="43.4" y="90.6" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 97.9)"><tspan x="0" y="0">Márcia de Oliveira Garção Marques</tspan></text>
+  <line class="ln" x1="28.8" y1="106.7" x2="43.4" y2="106.7"/>
+  <rect class="box" x="43.4" y="102.2" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 109.4)"><tspan x="0" y="0">Bruno de Oliveira Garção Marques</tspan></text>
+  <line class="ln" x1="28.8" y1="118.3" x2="43.4" y2="118.3"/>
+  <rect class="box" x="43.4" y="113.7" width="256.9" height="9.2"/>
+  <text transform="translate(53.2 121.0)"><tspan class="nm" x="0" y="0">Denise Garção de Oliveira M. Guimarãe</tspan><tspan class="sp"> / Braz Guimarães</tspan></text>
+  <text class="hdr" transform="translate(20 132.3)"><tspan x="0" y="0">Filhos de Lívia</tspan></text>
+  <path class="ln" d="M28.8,135.5v6.9"/>
+  <line class="ln" x1="28.8" y1="142.5" x2="43.4" y2="142.5"/>
+  <rect class="box" x="43.4" y="137.9" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 145.2)"><tspan x="0" y="0">Alessandro Rogério Barros Rezende</tspan></text>
+  <text class="sec" transform="translate(20 158.8)"><tspan x="0" y="0">Bisnetos de Inês e José de Barros</tspan></text>
+  <text class="hdr" transform="translate(20 166.0)"><tspan x="0" y="0">Netos de Raime e Mactha</tspan></text>
+  <path class="ln" d="M28.8,169.2v87.6"/>
+  <line class="ln" x1="28.8" y1="176.1" x2="43.4" y2="176.1"/>
+  <rect class="box" x="43.4" y="171.5" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 178.8)"><tspan x="0" y="0">Fernando Cavalcante de Castro Garção</tspan></text>
+  <line class="ln" x1="28.8" y1="187.7" x2="43.4" y2="187.7"/>
+  <rect class="box" x="43.4" y="183.1" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 190.4)"><tspan x="0" y="0">Felipe Antônio G. de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="199.2" x2="43.4" y2="199.2"/>
+  <rect class="box" x="43.4" y="194.6" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 201.9)"><tspan x="0" y="0">Anna Luiza de Castro G. de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="210.7" x2="43.4" y2="210.7"/>
+  <rect class="box" x="43.4" y="206.1" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 213.4)"><tspan x="0" y="0">Ana Júlia Garção Sampaio</tspan></text>
+  <line class="ln" x1="28.8" y1="222.2" x2="43.4" y2="222.2"/>
+  <rect class="box" x="43.4" y="217.6" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 224.9)"><tspan x="0" y="0">Rafael Garção Marques Guimarães</tspan></text>
+  <line class="ln" x1="28.8" y1="233.7" x2="43.4" y2="233.7"/>
+  <rect class="box" x="43.4" y="229.1" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 236.4)"><tspan x="0" y="0">Ester Garção</tspan></text>
+  <line class="ln" x1="28.8" y1="245.3" x2="43.4" y2="245.3"/>
+  <rect class="box" x="43.4" y="240.7" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 248.0)"><tspan x="0" y="0">Laura Vaz Garção Marques</tspan></text>
+  <line class="ln" x1="28.8" y1="256.8" x2="43.4" y2="256.8"/>
+  <rect class="box" x="43.4" y="252.2" width="256.9" height="9.2"/>
+  <text class="nm" transform="translate(53.2 259.5)"><tspan x="0" y="0">Luan Potrick Rezende</tspan></text>
+</svg>

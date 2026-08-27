@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320.3 336">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st0, .st1 {
+        stroke-width: .7px;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st3 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st4 {
+        font-family: AGaramondPro-Italic, 'Adobe Garamond Pro';
+        font-size: 7.5px;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st4, .st7 {
+        font-style: italic;
+      }
+
+      .st5 {
+        font-size: 9.5px;
+      }
+
+      .st5, .st7, .st8 {
+        font-weight: 700;
+      }
+
+      .st5, .st8 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st1, .st9, .st2 {
+        fill: none;
+      }
+
+      .st10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st2 {
+        stroke-width: 1.2px;
+      }
+
+      .st11 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st12 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st7 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+      }
+
+      .st7, .st8 {
+        font-size: 9px;
+      }
+
+      .st13 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st14 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st9" x="17.6" y="265.3" width="40.3" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st9" x="67.9" y="265.3" width="35.8" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st9" x="113.7" y="265.3" width="37.2" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st9" x="160.9" y="265.3" width="39.2" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st9" x="210.1" y="265.3" width="44.7" height="50"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st9" x="264.8" y="265.3" width="37.9" height="50"/>
+    </clipPath>
+  </defs>
+  <rect class="st0" x="78.2" y="18" width="76" height="17"/>
+  <g class="st6">
+    <text class="st5" transform="translate(86.2 29.7)"><tspan x="0" y="0">Josina</tspan></text>
+  </g>
+  <rect class="st0" x="166.2" y="18" width="76" height="17"/>
+  <g class="st6">
+    <text class="st5" transform="translate(174.2 29.7)"><tspan x="0" y="0">Manoel</tspan></text>
+  </g>
+  <path class="st2" d="M116.2,35v4l44,4"/>
+  <path class="st2" d="M204.2,35v4l-44,4"/>
+  <path class="st2" d="M160.2,42v10H28.8v183.6"/>
+  <g>
+    <line class="st2" x1="28.8" y1="72.7" x2="43.4" y2="72.7"/>
+    <rect class="st0" x="43.4" y="64.4" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 75.4)"><tspan x="0" y="0">Conceição Pires de Castro</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="99.8" x2="43.4" y2="99.8"/>
+    <rect class="st0" x="43.4" y="91.5" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 102.5)"><tspan x="0" y="0">Pedro Pires de Castro</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="127" x2="43.4" y2="127"/>
+    <rect class="st0" x="43.4" y="118.7" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 129.7)"><tspan x="0" y="0">Galdina Pires de Castro</tspan></text>
+      <text class="st7" transform="translate(139.9 129.7)"><tspan x="0" y="0" xml:space="preserve"> (Santa)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="154.1" x2="43.4" y2="154.1"/>
+    <rect class="st0" x="43.4" y="145.8" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 156.8)"><tspan x="0" y="0">Sebastião Pires de Castro</tspan></text>
+      <text class="st7" transform="translate(144.8 156.8)"><tspan x="0" y="0" xml:space="preserve"> (Louro)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="181.3" x2="43.4" y2="181.3"/>
+    <rect class="st0" x="43.4" y="173" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 183.9)"><tspan x="0" y="0">Donatila Pires de Castro</tspan></text>
+      <text class="st7" transform="translate(143 183.9)"><tspan x="0" y="0" xml:space="preserve"> (Dona)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="208.4" x2="43.4" y2="208.4"/>
+    <rect class="st0" x="43.4" y="200.1" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 211)"><tspan x="0" y="0">Maria Pires de Castro</tspan></text>
+      <text class="st7" transform="translate(132.4 211)"><tspan x="0" y="0" xml:space="preserve"> (Nicota)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st2" x1="28.8" y1="235.6" x2="43.4" y2="235.6"/>
+    <rect class="st0" x="43.4" y="227.3" width="256.9" height="16.5"/>
+    <g class="st6">
+      <text class="st8" transform="translate(53.2 238.2)"><tspan x="0" y="0">José Pires de Castro</tspan></text>
+      <text class="st7" transform="translate(125.3 238.2)"><tspan x="0" y="0" xml:space="preserve"> (gêmeos de Maria e faleceu ainda bebê)</tspan></text>
+    </g>
+  </g>
+  <rect class="st1" x="17.6" y="265.3" width="40.3" height="50"/>
+  <g class="st14">
+    <image class="st6" width="1220" height="1514" transform="translate(17.6 265.3) scale(0)" xlink:href="genogramafilhosjosinamanoel-1.png"/>
+  </g>
+  <rect class="st1" x="67.9" y="265.3" width="35.8" height="50"/>
+  <g class="st10">
+    <image class="st6" width="375" height="524" transform="translate(67.9 265.3) scale(0)" xlink:href="genogramafilhosjosinamanoel-2.png"/>
+  </g>
+  <rect class="st1" x="113.7" y="265.3" width="37.2" height="50"/>
+  <g class="st13">
+    <image class="st6" width="639" height="859" transform="translate(113.7 265.3) scale(0)" xlink:href="genogramafilhosjosinamanoel-3.png"/>
+  </g>
+  <rect class="st1" x="160.9" y="265.3" width="39.2" height="50"/>
+  <g class="st12">
+    <image class="st6" width="534" height="681" transform="translate(160.9 265.3) scale(0)" xlink:href="genogramafilhosjosinamanoel-4.png"/>
+  </g>
+  <rect class="st1" x="210.1" y="265.3" width="44.7" height="50"/>
+  <g class="st3">
+    <image class="st6" width="662" height="741" transform="translate(210.1 265.3) scale(0)" xlink:href="genogramafilhosjosinamanoel-5.png"/>
+  </g>
+  <rect class="st1" x="264.8" y="265.3" width="37.9" height="50"/>
+  <g class="st11">
+    <image class="st6" width="156" height="206" transform="translate(264.8 265.3) scale(.2)" xlink:href="genogramafilhosjosinamanoel-6.png"/>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(23.9 324.3)"><tspan x="0" y="0">Conceição</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(78 324.3)"><tspan x="0" y="0">Pedro</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(120.8 324.3)"><tspan x="0" y="0">Galdina</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(167.8 324.3)"><tspan x="0" y="0">Sebastião</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(220 324.3)"><tspan x="0" y="0">Donatila</tspan></text>
+  </g>
+  <g class="st6">
+    <text class="st4" transform="translate(274.8 324.3)"><tspan x="0" y="0">Maria</tspan></text>
+  </g>
+</svg>

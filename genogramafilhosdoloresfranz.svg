@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 80.0">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9px; font-weight: 700; }
+      .note { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 9px; font-style: italic; }
+      .box { fill: #fff; stroke: #000; stroke-width: .7px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.2px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <rect class="box" x="76.2" y="14.0" width="78" height="18"/>
+  <text class="cb" transform="translate(84.2 26.5)"><tspan x="0" y="0">Dolores</tspan></text>
+  <rect class="box" x="166.2" y="14.0" width="78" height="18"/>
+  <text class="cb" transform="translate(174.2 26.5)"><tspan x="0" y="0">Franz</tspan></text>
+  <path class="ln" d="M115.2,32.0 v4 l45.0,4"/>
+  <path class="ln" d="M205.2,32.0 v4 l-45.0,4"/>
+  <text class="note" transform="translate(160.2 64.0)" text-anchor="middle"><tspan x="0" y="0">Não tiveram filhos</tspan></text>
+</svg>
