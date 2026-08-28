@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 204.6">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="hdr" transform="translate(20 14.0)"><tspan x="0" y="0">Filhos de Orlando e Maninha</tspan></text>
+  <path class="ln" d="M28.8,17.0v40.1"/>
+  <line class="ln" x1="28.8" y1="23.5" x2="43.4" y2="23.5"/>
+  <rect class="box" x="43.4" y="18.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 26.2)"><tspan x="0" y="0">Marcelo Alves Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="34.8" x2="43.4" y2="34.8"/>
+  <rect class="box" x="43.4" y="30.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 37.5)"><tspan x="0" y="0">Wanderson Alves Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="45.9" x2="43.4" y2="45.9"/>
+  <rect class="box" x="43.4" y="41.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 48.6)"><tspan x="0" y="0">Jessica Alves Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="57.1" x2="43.4" y2="57.1"/>
+  <rect class="box" x="43.4" y="52.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 59.8)"><tspan x="0" y="0">Juciele Alves Pires</tspan></text>
+  <text class="sec" transform="translate(20 71.8)"><tspan x="0" y="0">Bisnetos de Gerim e Raimunda</tspan></text>
+  <path class="ln" d="M28.8,74.8v42.2"/>
+  <line class="ln" x1="28.8" y1="117.0" x2="43.4" y2="117.0"/>
+  <rect class="box" x="43.4" y="76.7" width="256.9" height="80.5"/>
+  <text class="nm" transform="translate(53.2 85.2)"><tspan x="0" y="0">Bárbara Pires Teles, Rhasçanna Queroz, Eduardo Henrique, Rosana Coelho,</tspan></text>
+  <text class="nm" transform="translate(53.2 92.2)"><tspan x="0" y="0">Rosely Coelho, Roniel Coelho, João Vitor Silva, Maria Vitória Silva, Lara</tspan></text>
+  <text class="nm" transform="translate(53.2 99.2)"><tspan x="0" y="0">Vitória, Otávio, Nícolas, Nicole, Noemí, Heloisa, Cecília, Artur,</tspan></text>
+  <text class="nm" transform="translate(53.2 106.2)"><tspan x="0" y="0">Bernardo, Sofia, Ludimila, Matheus, Guilherme, Gustavo, Lara, Enzo Lucas,</tspan></text>
+  <text class="nm" transform="translate(53.2 113.2)"><tspan x="0" y="0">Piêtro Lucas, Melinda Vitória, Gabriel, Lícia Raquel, Laura, Miguel, Rayka</tspan></text>
+  <text class="nm" transform="translate(53.2 120.2)"><tspan x="0" y="0">Rebeca, Maria Alice, Jiovanna, Lorenzzo, Saile, Pedro Lucas, João Alan,</tspan></text>
+  <text class="nm" transform="translate(53.2 127.2)"><tspan x="0" y="0">Vinícius, Victor Gabriel, Heitor, João Miguel, Ramon, Isabella, Luiz</tspan></text>
+  <text class="nm" transform="translate(53.2 134.2)"><tspan x="0" y="0">Felipe, Nicoly, Hellena, Henrique, Miguel, Theo, Arthur, Felipe, Ana</tspan></text>
+  <text class="nm" transform="translate(53.2 141.2)"><tspan x="0" y="0">Cecília, Noah Gabriel, Eloá Gabriele, Ângelo Gabriel, Tayná Gabrielly,</tspan></text>
+  <text class="nm" transform="translate(53.2 148.2)"><tspan x="0" y="0">Gabriel, Kaio, Isabelly, Nathália e João Pedro.</tspan></text>
+  <text class="sec" transform="translate(20 167.2)"><tspan x="0" y="0">Trinetos de Gerim e Raimunda</tspan></text>
+  <path class="ln" d="M28.8,170.2v10.7"/>
+  <line class="ln" x1="28.8" y1="180.8" x2="43.4" y2="180.8"/>
+  <rect class="box" x="43.4" y="172.1" width="256.9" height="17.5"/>
+  <text class="nm" transform="translate(53.2 180.6)"><tspan x="0" y="0">Theo Pires Brussolo Ferreira e Pedro Pires Brussolo Ferreira.</tspan></text>
+</svg>
