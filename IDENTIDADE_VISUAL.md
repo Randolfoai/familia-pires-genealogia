@@ -136,7 +136,27 @@ Quando o conteúdo não cabe numa altura só, o usuário pede pra dividir em N a
 3. Um **cabeçalho de seção** (ex: "Bisnetos de X e Y") nunca fica sozinho no fim de uma parte — sempre grudado com o primeiro mini-grupo que vem depois.
 4. Cada parte usa a MESMA constante de estilo/espaçamento das outras (consistência visual entre elas).
 5. A(s) parte(s) intermediária(s) usam a altura fixa pedida (ex: 17,3833cm); a **última parte usa a altura real do conteúdo restante**, não a altura fixa (a menos que o usuário peça o contrário).
-6. Quando uma seção não tem subgrupos nomeados e mesmo assim é grande demais pra uma parte (ex: uma lista corrida de 50+ trinetos sem divisão por família), quebrar em **chunks de tamanho fixo** (ex.: 15 nomes cada) e deixar cada chunk repetir o mesmo cabeçalho da seção — isso não é uma "continuação" (não usa essa palavra), é só o nome real da seção se repetindo, e permite que o empacotador automático funcione sem lógica especial.
+6. Quando uma seção não tem subgrupos nomeados e mesmo assim é grande demais pra uma parte (ex: uma lista corrida de 50+ trinetos sem divisão por família), quebrar em **chunks de tamanho fixo** (ex.: 15-16 nomes cada) e deixar cada chunk repetir o mesmo cabeçalho da seção — isso não é uma "continuação" (não usa essa palavra), é só o nome real da seção se repetindo, e permite que o empacotador automático funcione sem lógica especial.
+
+### 6.1 Quando o usuário manda um PDF em vez de texto colado
+
+A ferramenta de leitura padrão não renderiza páginas de PDF (falta `pdftoppm`/poppler no ambiente). Solução que funciona:
+```bash
+pip install pdfplumber pypdfium2
+```
+```python
+import pypdfium2 as pdfium
+pdf = pdfium.PdfDocument("arquivo.pdf")
+for i in range(len(pdf)):
+    pdf[i].render(scale=2.5).to_pil().save(f"pagina_{i+1}.png")
+```
+Depois olhar cada PNG gerado com a ferramenta de leitura de imagem.
+
+**Reconstruindo a ordem de leitura em documentos de 2 colunas (comum em PDFs exportados do Word):** usar `pdfplumber` pra pegar a posição x/y de cada palavra (`page.extract_words()`), separar por `x0 < largura_da_página/2` (coluna esquerda vs direita) e agrupar por `top` arredondado (linha). A ordem de leitura correta normalmente é **coluna esquerda inteira de cima a baixo, DEPOIS coluna direita inteira de cima a baixo**, como uma revista — não misturar as duas por altura.
+
+**Exceção**: quando a seção é uma LISTA FLAT sem subcabeçalhos (tipo Bisnetos/Trinetos sem divisão por família), o Word às vezes formata como uma TABELA de 2 colunas paralelas em vez de fluxo sequencial — nesse caso a ordem certa é **par a par** (linha 1 esquerda, linha 1 direita, linha 2 esquerda, linha 2 direita...). Um sinal de que é esse o caso: a frase final da lista atravessa as duas colunas (ex: "...Fernandes Pires e" numa coluna terminando na outra com "Marcos Vinícius M. Pires." e ponto final — o "e" de enumeração antes do último item aparecendo dividido entre as colunas é o indício).
+
+**Cabeçalho órfão por quebra de coluna**: às vezes um cabeçalho de mini-grupo (ex: "Filho de X e Y") fica sozinho no fim de uma coluna, sem nomes embaixo, e os nomes aparecem sem cabeçalho no topo da coluna seguinte — é um artefato de paginação do Word, não falta de dados. Pistas pra identificar a quem pertencem: sobrenomes batendo com o cônjuge do cabeçalho órfão. **Sempre confirmar com o usuário antes de assumir**, mesmo com boas pistas.
 
 **Técnica de geração recomendada para séries grandes**: em vez de calcular posições manualmente, modelar cada grupo/seção como um **bloco atômico** com uma altura (`content_h`) e um espaço-antes (`gap_normal`), e usar um **algoritmo guloso** que empilha blocos na página atual e abre uma nova página quando o próximo bloco não couber no orçamento (altura da página menos ~15pt de margem). Ver scripts de referência na seção 8.
 
