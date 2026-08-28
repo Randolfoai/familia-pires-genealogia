@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 204.6">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 207.6">
   <defs>
     <style>
       .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
@@ -40,8 +40,11 @@
   <text class="nm" transform="translate(53.2 141.2)"><tspan x="0" y="0">Cecília, Noah Gabriel, Eloá Gabriele, Ângelo Gabriel, Tayná Gabrielly,</tspan></text>
   <text class="nm" transform="translate(53.2 148.2)"><tspan x="0" y="0">Gabriel, Kaio, Isabelly, Nathália e João Pedro.</tspan></text>
   <text class="sec" transform="translate(20 167.2)"><tspan x="0" y="0">Trinetos de Gerim e Raimunda</tspan></text>
-  <path class="ln" d="M28.8,170.2v10.7"/>
-  <line class="ln" x1="28.8" y1="180.8" x2="43.4" y2="180.8"/>
-  <rect class="box" x="43.4" y="172.1" width="256.9" height="17.5"/>
-  <text class="nm" transform="translate(53.2 180.6)"><tspan x="0" y="0">Theo Pires Brussolo Ferreira e Pedro Pires Brussolo Ferreira.</tspan></text>
+  <path class="ln" d="M28.8,170.2v17.8"/>
+  <line class="ln" x1="28.8" y1="176.8" x2="43.4" y2="176.8"/>
+  <rect class="box" x="43.4" y="172.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 179.4)"><tspan x="0" y="0">Theo Pires Brussolo Ferreira</tspan></text>
+  <line class="ln" x1="28.8" y1="188.0" x2="43.4" y2="188.0"/>
+  <rect class="box" x="43.4" y="183.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 190.7)"><tspan x="0" y="0">Pedro Pires Brussolo Ferreira</tspan></text>
 </svg>
