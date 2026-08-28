@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 432.8">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 9px; font-style: italic; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 12.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 32.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Vercília e Antônio</tspan></text>
+  <text class="hdr" transform="translate(20 70.0)"><tspan x="0" y="0">Filhos de Antônio e Maria de Jesus</tspan></text>
+  <path class="ln" d="M28.8,86.0v325.6"/>
+  <line class="ln" x1="28.8" y1="110.4" x2="43.4" y2="110.4"/>
+  <rect class="box" x="43.4" y="97.2" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 113.4)"><tspan x="0" y="0">Maria de Fátima</tspan></text>
+  <line class="ln" x1="28.8" y1="148.0" x2="43.4" y2="148.0"/>
+  <rect class="box" x="43.4" y="134.8" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 151.0)"><tspan x="0" y="0">Domingos de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="185.7" x2="43.4" y2="185.7"/>
+  <rect class="box" x="43.4" y="172.4" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 188.7)"><tspan x="0" y="0">Ivanilde de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="223.3" x2="43.4" y2="223.3"/>
+  <rect class="box" x="43.4" y="210.1" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 226.3)"><tspan x="0" y="0">João Neto</tspan></text>
+  <line class="ln" x1="28.8" y1="261.0" x2="43.4" y2="261.0"/>
+  <rect class="box" x="43.4" y="247.7" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 264.0)"><tspan x="0" y="0">José de Aribamar</tspan></text>
+  <line class="ln" x1="28.8" y1="298.6" x2="43.4" y2="298.6"/>
+  <rect class="box" x="43.4" y="285.4" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 301.6)"><tspan x="0" y="0">Maria José</tspan></text>
+  <line class="ln" x1="28.8" y1="336.3" x2="43.4" y2="336.3"/>
+  <rect class="box" x="43.4" y="323.0" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 339.3)"><tspan x="0" y="0">Maria Francisca</tspan></text>
+  <line class="ln" x1="28.8" y1="373.9" x2="43.4" y2="373.9"/>
+  <rect class="box" x="43.4" y="360.7" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 376.9)"><tspan x="0" y="0">Antônio Filho</tspan></text>
+  <line class="ln" x1="28.8" y1="411.6" x2="43.4" y2="411.6"/>
+  <rect class="box" x="43.4" y="398.3" width="256.9" height="26.5"/>
+  <text class="nm" transform="translate(53.2 414.6)"><tspan x="0" y="0">Raimundo Nonato</tspan></text>
+</svg>
