@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Isaura e Antônio e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 34.0)"><tspan x="0" y="0">Filhos de Aniceto e Tereza</tspan></text>
+  <path class="ln" d="M28.8,37.0v96.2"/>
+  <line class="ln" x1="28.8" y1="43.5" x2="43.4" y2="43.5"/>
+  <rect class="box" x="43.4" y="38.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 46.2)"><tspan class="nm" x="0" y="0">Daniel Barbosa Pires</tspan><tspan class="sp"> / Deusl</tspan></text>
+  <line class="ln" x1="28.8" y1="54.8" x2="43.4" y2="54.8"/>
+  <rect class="box" x="43.4" y="50.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 57.5)"><tspan x="0" y="0">Maria Zélia Barbosa Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="66.0" x2="43.4" y2="66.0"/>
+  <rect class="box" x="43.4" y="61.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 68.7)"><tspan x="0" y="0">Dejaci Barbosa Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="77.2" x2="43.4" y2="77.2"/>
+  <rect class="box" x="43.4" y="72.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 79.9)"><tspan x="0" y="0">Antônio Pires Barbosa Neto</tspan></text>
+  <line class="ln" x1="28.8" y1="88.4" x2="43.4" y2="88.4"/>
+  <rect class="box" x="43.4" y="83.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 91.1)"><tspan class="nm" x="0" y="0">Niltácio Pires Barbosa Sobrinho</tspan><tspan class="sp"> / Sônia Rodriguês</tspan></text>
+  <line class="ln" x1="28.8" y1="99.6" x2="43.4" y2="99.6"/>
+  <rect class="box" x="43.4" y="94.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 102.3)"><tspan x="0" y="0">Pedro Osmar Barbosa Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="110.8" x2="43.4" y2="110.8"/>
+  <rect class="box" x="43.4" y="106.1" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 113.5)"><tspan class="nm" x="0" y="0">Floriza Barbosa Pires</tspan><tspan class="sp"> / Acásio</tspan></text>
+  <line class="ln" x1="28.8" y1="122.0" x2="43.4" y2="122.0"/>
+  <rect class="box" x="43.4" y="117.3" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 124.7)"><tspan class="nm" x="0" y="0">Nemésio Barbosa Pires</tspan><tspan class="sp"> / Rosa</tspan></text>
+  <line class="ln" x1="28.8" y1="133.2" x2="43.4" y2="133.2"/>
+  <rect class="box" x="43.4" y="128.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 135.9)"><tspan class="nm" x="0" y="0">José Maria Pires</tspan><tspan class="sp"> (filho só do Aniceto)</tspan></text>
+  <text class="hdr" transform="translate(20 145.4)"><tspan x="0" y="0">Filhos de Merita e Cantidio</tspan></text>
+  <path class="ln" d="M28.8,148.4v85.0"/>
+  <line class="ln" x1="28.8" y1="155.0" x2="43.4" y2="155.0"/>
+  <rect class="box" x="43.4" y="150.3" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 157.7)"><tspan class="nm" x="0" y="0">Nadi Araújo Silva</tspan><tspan class="sp"> / Carlos Roberto Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="166.2" x2="43.4" y2="166.2"/>
+  <rect class="box" x="43.4" y="161.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 168.9)"><tspan class="nm" x="0" y="0">José Araújo da Silva</tspan><tspan class="sp"> / Iraci Tomaz da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="177.4" x2="43.4" y2="177.4"/>
+  <rect class="box" x="43.4" y="172.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 180.1)"><tspan x="0" y="0">Maria Lêda Araújo da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="188.6" x2="43.4" y2="188.6"/>
+  <rect class="box" x="43.4" y="183.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 191.3)"><tspan class="nm" x="0" y="0">Moacir Araújo da Silva</tspan><tspan class="sp"> / Marly Rodriguês</tspan></text>
+  <line class="ln" x1="28.8" y1="199.8" x2="43.4" y2="199.8"/>
+  <rect class="box" x="43.4" y="195.1" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 202.5)"><tspan class="nm" x="0" y="0">Isaura Araújo Pereira</tspan><tspan class="sp"> / José de Arimateia de P. Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="211.0" x2="43.4" y2="211.0"/>
+  <rect class="box" x="43.4" y="206.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 213.7)"><tspan x="0" y="0">Eneida Araújo da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="222.2" x2="43.4" y2="222.2"/>
+  <rect class="box" x="43.4" y="217.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 224.9)"><tspan class="nm" x="0" y="0">Antônio Pires Araújo Neto</tspan><tspan class="sp"> / Alda R. Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="233.4" x2="43.4" y2="233.4"/>
+  <rect class="box" x="43.4" y="228.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 236.1)"><tspan class="nm" x="0" y="0">Valdi Araújo da Silva</tspan><tspan class="sp"> / Elizete dos Santos Oliveira</tspan></text>
+  <text class="hdr" transform="translate(20 245.6)"><tspan x="0" y="0">Filhos de Anália e Olavo</tspan></text>
+  <path class="ln" d="M28.8,248.6v84.9"/>
+  <line class="ln" x1="28.8" y1="255.2" x2="43.4" y2="255.2"/>
+  <rect class="box" x="43.4" y="250.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 257.9)"><tspan x="0" y="0">Maria de Jesus</tspan></text>
+  <line class="ln" x1="28.8" y1="266.4" x2="43.4" y2="266.4"/>
+  <rect class="box" x="43.4" y="261.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 269.1)"><tspan class="nm" x="0" y="0">Neuzim Pires</tspan><tspan class="sp"> / Maria de Jesus</tspan></text>
+  <line class="ln" x1="28.8" y1="277.6" x2="43.4" y2="277.6"/>
+  <rect class="box" x="43.4" y="272.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 280.3)"><tspan class="nm" x="0" y="0">Neuzimar Pires Carvalho</tspan><tspan class="sp"> / Gracilene</tspan></text>
+  <line class="ln" x1="28.8" y1="288.8" x2="43.4" y2="288.8"/>
+  <rect class="box" x="43.4" y="284.1" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 291.5)"><tspan class="nm" x="0" y="0">Neusa Pires de Carvalho</tspan><tspan class="sp"> / Gisolon</tspan></text>
+  <line class="ln" x1="28.8" y1="300.0" x2="43.4" y2="300.0"/>
+  <rect class="box" x="43.4" y="295.3" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 302.7)"><tspan class="nm" x="0" y="0">Antônio A. Pires Fernandes</tspan><tspan class="sp"> / Elisângela</tspan></text>
+  <line class="ln" x1="28.8" y1="311.2" x2="43.4" y2="311.2"/>
+  <rect class="box" x="43.4" y="306.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 313.9)"><tspan class="nm" x="0" y="0">Zuleide Pires Fernandes</tspan><tspan class="sp"> / João Barbosa</tspan></text>
+  <line class="ln" x1="28.8" y1="322.4" x2="43.4" y2="322.4"/>
+  <rect class="box" x="43.4" y="317.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 325.1)"><tspan class="nm" x="0" y="0">Neurival Pires Fernandes</tspan><tspan class="sp"> / Maria Tavares Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="333.6" x2="43.4" y2="333.6"/>
+  <rect class="box" x="43.4" y="328.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 336.3)"><tspan class="nm" x="0" y="0">Neuzely Pires Fernandes</tspan><tspan class="sp"> / Onofre Barreira Nogueira</tspan></text>
+  <text class="hdr" transform="translate(20 345.8)"><tspan x="0" y="0">Filhos de José e Raimunda</tspan></text>
+  <path class="ln" d="M28.8,348.8v118.5"/>
+  <line class="ln" x1="28.8" y1="355.4" x2="43.4" y2="355.4"/>
+  <rect class="box" x="43.4" y="350.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 358.1)"><tspan class="nm" x="0" y="0">Idelfonso Lopes Pires</tspan><tspan class="sp"> / Maria de Jesus</tspan></text>
+  <line class="ln" x1="28.8" y1="366.6" x2="43.4" y2="366.6"/>
+  <rect class="box" x="43.4" y="361.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 369.3)"><tspan class="nm" x="0" y="0">Jaime Lopes Pires</tspan><tspan class="sp"> / Luzia</tspan></text>
+  <line class="ln" x1="28.8" y1="377.8" x2="43.4" y2="377.8"/>
+  <rect class="box" x="43.4" y="373.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 380.5)"><tspan x="0" y="0">Idelmam Lopes Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="389.0" x2="43.4" y2="389.0"/>
+  <rect class="box" x="43.4" y="384.3" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 391.7)"><tspan class="nm" x="0" y="0">Idelmar Lopes Pires</tspan><tspan class="sp"> / Adriana</tspan></text>
+  <line class="ln" x1="28.8" y1="400.2" x2="43.4" y2="400.2"/>
+  <rect class="box" x="43.4" y="395.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 402.9)"><tspan class="nm" x="0" y="0">Ildiomar Lopes Pires</tspan><tspan class="sp"> / Eronice</tspan></text>
+  <line class="ln" x1="28.8" y1="411.4" x2="43.4" y2="411.4"/>
+  <rect class="box" x="43.4" y="406.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 414.1)"><tspan class="nm" x="0" y="0">Dominga Lopes Pires</tspan><tspan class="sp"> / Emival</tspan></text>
+  <line class="ln" x1="28.8" y1="422.6" x2="43.4" y2="422.6"/>
+  <rect class="box" x="43.4" y="417.9" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 425.2)"><tspan class="nm" x="0" y="0">Ilson Lopes Pires</tspan><tspan class="sp"> / Irani Oliveira Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="433.8" x2="43.4" y2="433.8"/>
+  <rect class="box" x="43.4" y="429.1" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 436.4)"><tspan class="nm" x="0" y="0">Idelson Lopes Pires</tspan><tspan class="sp"> / Joana Ferreira Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="444.9" x2="43.4" y2="444.9"/>
+  <rect class="box" x="43.4" y="440.3" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 447.6)"><tspan class="nm" x="0" y="0">Idelvan Lopes Pires</tspan><tspan class="sp"> / Elizaine Camargo Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="456.1" x2="43.4" y2="456.1"/>
+  <rect class="box" x="43.4" y="451.5" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 458.8)"><tspan class="nm" x="0" y="0">Idelmo Lopes Pires</tspan><tspan class="sp"> / Adelcimar</tspan></text>
+  <line class="ln" x1="28.8" y1="467.3" x2="43.4" y2="467.3"/>
+  <rect class="box" x="43.4" y="462.7" width="256.9" height="9.3"/>
+  <text transform="translate(53.2 470.0)"><tspan class="nm" x="0" y="0">Etelvina L. Pires do Nascimento</tspan><tspan class="sp"> / Raimundo F. Nascimento</tspan></text>
+</svg>
