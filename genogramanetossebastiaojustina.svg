@@ -1,64 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 491.8">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 9px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 10.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 13px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 8.6px; font-weight: 700; }
-      .ls { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 8.6px; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .7px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.2px; stroke-miterlimit: 11.3; }
+      .st0 {
+        fill: #fff;
+        stroke-width: .7px;
+      }
+
+      .st0, .st1 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st2 {
+        font-size: 13px;
+      }
+
+      .st2, .st3, .st4, .st5, .st6 {
+        isolation: isolate;
+      }
+
+      .st2, .st3, .st5, .st6 {
+        font-weight: 700;
+      }
+
+      .st2, .st3, .st6 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st3 {
+        font-size: 8.6px;
+      }
+
+      .st1 {
+        fill: none;
+        stroke-width: 1.2px;
+      }
+
+      .st5 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-size: 9px;
+        font-style: italic;
+      }
+
+      .st6 {
+        font-size: 10.8px;
+      }
     </style>
   </defs>
-  <text class="ttl" transform="translate(160.2 18.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Sebastião e Justina</tspan></text>
-  <text class="hdr" transform="translate(20 40.0)"><tspan x="0" y="0">Filhos de Agenor e Fátima</tspan></text>
-  <path class="ln" d="M28.8,43.2v67.6"/>
-  <line class="ln" x1="28.8" y1="61.7" x2="43.4" y2="61.7"/>
-  <rect class="box" x="43.4" y="55.7" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 64.6)"><tspan x="0" y="0">Daniela Pires Coelho</tspan></text>
-  <line class="ln" x1="28.8" y1="86.3" x2="43.4" y2="86.3"/>
-  <rect class="box" x="43.4" y="80.3" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 89.2)"><tspan x="0" y="0">Daiane Pires Coelho</tspan></text>
-  <line class="ln" x1="28.8" y1="110.8" x2="43.4" y2="110.8"/>
-  <rect class="box" x="43.4" y="104.8" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 113.7)"><tspan x="0" y="0">Darlene Pires Coelho</tspan></text>
-  <text class="hdr" transform="translate(20 140.7)"><tspan x="0" y="0">Filhos de Rosinha e Pepe</tspan></text>
-  <path class="ln" d="M28.8,143.9v67.6"/>
-  <line class="ln" x1="28.8" y1="162.5" x2="43.4" y2="162.5"/>
-  <rect class="box" x="43.4" y="156.5" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 165.4)"><tspan x="0" y="0">Leonardo Pires Diegues</tspan></text>
-  <line class="ln" x1="28.8" y1="187.0" x2="43.4" y2="187.0"/>
-  <rect class="box" x="43.4" y="181.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 189.9)"><tspan x="0" y="0">Gustavo Pires Diegues</tspan></text>
-  <line class="ln" x1="28.8" y1="211.5" x2="43.4" y2="211.5"/>
-  <rect class="box" x="43.4" y="205.5" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 214.4)"><tspan x="0" y="0">Luiz Felipe Pires Diegues</tspan></text>
-  <text class="hdr" transform="translate(20 241.4)"><tspan x="0" y="0">Filhos de Teresinha</tspan></text>
-  <path class="ln" d="M28.8,244.6v43.1"/>
-  <line class="ln" x1="28.8" y1="263.2" x2="43.4" y2="263.2"/>
-  <rect class="box" x="43.4" y="257.2" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 266.1)"><tspan x="0" y="0">Rodrigo Pires Maranhão</tspan></text>
-  <line class="ln" x1="28.8" y1="287.7" x2="43.4" y2="287.7"/>
-  <rect class="box" x="43.4" y="281.7" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 290.6)"><tspan x="0" y="0">Brenno Pires Maranhão</tspan></text>
-  <text class="hdr" transform="translate(20 317.6)"><tspan x="0" y="0">Filhos de Pedro e Carmelina</tspan></text>
-  <path class="ln" d="M28.8,320.8v43.1"/>
-  <line class="ln" x1="28.8" y1="339.4" x2="43.4" y2="339.4"/>
-  <rect class="box" x="43.4" y="333.4" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 342.3)"><tspan x="0" y="0">Priscila Pires Andrade</tspan></text>
-  <line class="ln" x1="28.8" y1="363.9" x2="43.4" y2="363.9"/>
-  <rect class="box" x="43.4" y="357.9" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 366.8)"><tspan x="0" y="0">Karine Pires Andrade</tspan></text>
-  <text class="sec" transform="translate(20 397.8)"><tspan x="0" y="0">Bisnetos de Sebastião e Justina</tspan></text>
-  <path class="ln" d="M28.8,401.2v22.8"/>
-  <line class="ln" x1="28.8" y1="424.0" x2="43.4" y2="424.0"/>
-  <rect class="box" x="43.4" y="413.7" width="256.9" height="20.5"/>
-  <text class="ls" transform="translate(53.2 422.7)"><tspan x="0" y="0">Caetano, Fernanda, Carolina, Rodrigo, Rafael,</tspan></text>
-  <text class="ls" transform="translate(53.2 432.7)"><tspan x="0" y="0">Eduardo, Jayelon, Michael, Vitória e Thiago.</tspan></text>
-  <text class="sec" transform="translate(20 462.1)"><tspan x="0" y="0">Trinetos de Sebastião e Justina</tspan></text>
-  <path class="ln" d="M28.8,465.5v17.8"/>
-  <line class="ln" x1="28.8" y1="483.3" x2="43.4" y2="483.3"/>
-  <rect class="box" x="43.4" y="478.1" width="256.9" height="10.5"/>
-  <text class="ls" transform="translate(53.2 487.1)"><tspan x="0" y="0">Júlia e Henrique.</tspan></text>
+  <g class="st4">
+    <text class="st2" transform="translate(86.5 18)"><tspan x="0" y="0">Netos de Sebastião e Justina</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(20 40)"><tspan x="0" y="0">Filhos de Agenor e Fátima</tspan></text>
+  </g>
+  <path class="st1" d="M28.8,43.2v67.6"/>
+  <line class="st1" x1="28.8" y1="61.7" x2="43.4" y2="61.7"/>
+  <rect class="st0" x="43.4" y="55.7" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 64.6)"><tspan x="0" y="0">Daniela Pires Coelho</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="86.3" x2="43.4" y2="86.3"/>
+  <rect class="st0" x="43.4" y="80.3" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 89.2)"><tspan x="0" y="0">Daiane Pires Coelho</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="110.8" x2="43.4" y2="110.8"/>
+  <rect class="st0" x="43.4" y="104.8" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 113.7)"><tspan x="0" y="0">Darlene Pires Coelho</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(20 140.7)"><tspan x="0" y="0">Filhos de Rosinha e Pepe</tspan></text>
+  </g>
+  <path class="st1" d="M28.8,143.9v67.6"/>
+  <line class="st1" x1="28.8" y1="162.5" x2="43.4" y2="162.5"/>
+  <rect class="st0" x="43.4" y="156.5" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 165.4)"><tspan x="0" y="0">Leonardo Pires Diegues</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="187" x2="43.4" y2="187"/>
+  <rect class="st0" x="43.4" y="181" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 189.9)"><tspan x="0" y="0">Gustavo Pires Diegues</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="211.5" x2="43.4" y2="211.5"/>
+  <rect class="st0" x="43.4" y="205.5" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 214.4)"><tspan x="0" y="0">Luiz Felipe Pires Diegues</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(20 241.4)"><tspan x="0" y="0">Filhos de Teresinha</tspan></text>
+  </g>
+  <path class="st1" d="M28.8,244.6v43.1"/>
+  <line class="st1" x1="28.8" y1="263.2" x2="43.4" y2="263.2"/>
+  <rect class="st0" x="43.4" y="257.2" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 266.1)"><tspan x="0" y="0">Rodrigo Pires Maranhão</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="287.7" x2="43.4" y2="287.7"/>
+  <rect class="st0" x="43.4" y="281.7" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 290.6)"><tspan x="0" y="0">Brenno Pires Maranhão</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(20 317.6)"><tspan x="0" y="0">Filhos de Pedro e Carmelina</tspan></text>
+  </g>
+  <path class="st1" d="M28.8,320.8v43.1"/>
+  <line class="st1" x1="28.8" y1="339.4" x2="43.4" y2="339.4"/>
+  <rect class="st0" x="43.4" y="333.4" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 342.3)"><tspan x="0" y="0">Priscila Pires Andrade</tspan></text>
+  </g>
+  <line class="st1" x1="28.8" y1="363.9" x2="43.4" y2="363.9"/>
+  <rect class="st0" x="43.4" y="357.9" width="256.9" height="12"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 366.8)"><tspan x="0" y="0">Karine Pires Andrade</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st6" transform="translate(20 397.8)"><tspan x="0" y="0">Bisnetos de Sebastião e Justina</tspan></text>
+  </g>
+  <path class="st1" d="M28.8,401.2v22.8"/>
+  <line class="st1" x1="28.8" y1="424" x2="43.4" y2="424"/>
+  <rect class="st0" x="43.4" y="413.7" width="256.9" height="20.5"/>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 422.7)"><tspan x="0" y="0">Caetano, Fernanda, Carolina, Rodrigo, Rafael,</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st3" transform="translate(53.2 432.7)"><tspan x="0" y="0">Eduardo, Jayelon, Michael, Vitória e Thiago.</tspan></text>
+  </g>
+  <g>
+    <g class="st4">
+      <text class="st6" transform="translate(20 459.8)"><tspan x="0" y="0">Trinetos de Sebastião e Justina</tspan></text>
+    </g>
+    <path class="st1" d="M28.8,463.2v17.8"/>
+    <line class="st1" x1="28.8" y1="481" x2="43.4" y2="481"/>
+    <rect class="st0" x="43.4" y="475.8" width="256.9" height="10.5"/>
+    <g class="st4">
+      <text class="st3" transform="translate(53.2 484.8)"><tspan x="0" y="0">Júlia e Henrique.</tspan></text>
+    </g>
+  </g>
 </svg>
