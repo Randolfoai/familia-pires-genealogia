@@ -114,7 +114,13 @@ Não existe um valor fixo único — calibrar pela **densidade de linhas** do in
 
 Título: 12.5–13px. Cabeçalho de mini-grupo (itálico): 8–9px. Cabeçalho de seção (negrito): 10–11.5px. Legenda de foto: 6.5–8px (menor quanto mais fotos couberem lado a lado).
 
-**Regra de ouro para preencher a altura pedida**: depois de montar o SVG, sempre calcular `margem = altura_alvo - altura_do_conteúdo`. Se a margem sobrando for grande (ex: >60-80pt), o infográfico vai parecer "amontoado" mesmo com espaço de sobra — **aumentar ROW_GAP/GROUP_GAP/tamanho das fotos** para usar melhor o espaço, em vez de deixar em branco.
+**REGRA DE OURO para preencher a altura pedida (confirmada por edições do usuário no Illustrator em 2026-08-28):** depois de montar o SVG com constantes-base, sempre calcular `margem = altura_alvo - altura_do_conteúdo`. A margem final no rodapé deve ficar **pequena (~5-10pt), não folgada** — nunca aceitar uma margem de 30-80pt "porque cabe". Processo:
+1. Gerar uma primeira passada com espaçamento normal (tabela acima) e medir a margem sobrando.
+2. **Redistribuir TODA essa sobra de volta nos espaçamentos** — dividir a margem pelo número de gaps existentes (entre linhas, entre grupos, antes da foto, etc.) e somar essa fração a cada um deles — em vez de deixá-la acumulada só no final.
+3. O aumento não precisa ser uniforme entre todos os tipos de gap: nas séries observadas, o usuário aumentou proporcionalmente mais os **gaps entre grupos/seções** (chegando a quase dobrar, ex. 7.6→13.6pt) do que o espaçamento *dentro* de um mesmo grupo entre uma caixa e outra (que mudou pouco, ex. 1.9→2.5pt). Ou seja: prioridade de onde jogar a sobra: (1) gap antes da foto, (2) gap entre grupos/seções, (3) gap entre linhas dentro do mesmo grupo — só mexer no nível 3 se ainda sobrar muito depois de esticar os níveis 1 e 2.
+4. Recalcular e conferir que a margem final ficou pequena antes de entregar.
+
+**Título curto e centralizado**: quando o título do infográfico for curto (ex. "Netos de X e Y", sem o sufixo "...e seus respectivos cônjuges"), CENTRALIZAR horizontalmente (`text-anchor="middle"` ou x calculado pra centralizar) em vez de alinhar à esquerda em x=15 — confirmado numa edição do usuário. Títulos mais longos que já ocupam boa parte da largura podem continuar alinhados à esquerda.
 
 ## 6. Infográficos divididos em várias partes (séries)
 
