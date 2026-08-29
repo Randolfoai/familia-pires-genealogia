@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 162.9">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8.5px; font-style: italic; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 8px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 12.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Joaquim e Maria</tspan></text>
+  <text class="hdr" transform="translate(20 32.0)"><tspan x="0" y="0">Filhos de Bazilio e Izabel</tspan></text>
+  <path class="ln" d="M28.8,35.0v23.7"/>
+  <line class="ln" x1="28.8" y1="44.0" x2="43.4" y2="44.0"/>
+  <rect class="box" x="43.4" y="38.2" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 46.5)"><tspan x="0" y="0">Eduardo da Silva Campos (adotivo)</tspan></text>
+  <line class="ln" x1="28.8" y1="58.7" x2="43.4" y2="58.7"/>
+  <rect class="box" x="43.4" y="52.9" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 61.2)"><tspan x="0" y="0">José Maria da Silva Campos</tspan></text>
+  <text class="hdr" transform="translate(20 76.4)"><tspan x="0" y="0">Filhos de Maria e Eleizado</tspan></text>
+  <path class="ln" d="M28.8,79.4v67.8"/>
+  <line class="ln" x1="28.8" y1="88.4" x2="43.4" y2="88.4"/>
+  <rect class="box" x="43.4" y="82.6" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 90.9)"><tspan x="0" y="0">José Agripino Campos Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="103.1" x2="43.4" y2="103.1"/>
+  <rect class="box" x="43.4" y="97.3" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 105.6)"><tspan x="0" y="0">José Domingos Campos Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="117.8" x2="43.4" y2="117.8"/>
+  <rect class="box" x="43.4" y="112.0" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 120.3)"><tspan x="0" y="0">Doracy Campos Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="132.5" x2="43.4" y2="132.5"/>
+  <rect class="box" x="43.4" y="126.7" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 135.0)"><tspan x="0" y="0">Edson Campos Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="147.2" x2="43.4" y2="147.2"/>
+  <rect class="box" x="43.4" y="141.4" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 149.7)"><tspan x="0" y="0">Marilza Campos Silva</tspan></text>
+</svg>
