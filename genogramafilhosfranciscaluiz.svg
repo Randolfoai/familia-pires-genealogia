@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 57.0">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 6.6px; font-weight: 700; }
+      .cbi { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 6.0px; font-style: italic; font-weight: 700; }
+      .nm { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <rect class="box" x="76.2" y="8.0" width="80" height="15.0"/>
+  <text transform="translate(116.2 15.5)" text-anchor="middle"><tspan class="cb" x="0" y="0">Francisca</tspan><tspan class="cbi" x="0" y="7">(faleceu no parto)</tspan></text>
+  <rect class="box" x="164.2" y="8.0" width="80" height="15.0"/>
+  <text class="cb" transform="translate(204.2 17.9)" text-anchor="middle"><tspan x="0" y="0">Luiz</tspan></text>
+  <path class="ln" d="M116.2,23.0 v2 l44.0,2"/>
+  <path class="ln" d="M204.2,23.0 v2 l-44.0,2"/>
+  <line class="ln" x1="28.8" y1="40.5" x2="43.4" y2="40.5"/>
+  <rect class="box" x="43.4" y="34.0" width="256.9" height="13.0"/>
+  <text class="nm" transform="translate(53.2 42.8)"><tspan x="0" y="0">(criança sobrevivente, sem mais informações)</tspan></text>
+  <path class="ln" d="M160.2,26.0v5.0H28.8v11.5"/>
+</svg>
