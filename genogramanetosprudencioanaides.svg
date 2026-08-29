@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Prudêncio e Anaídes</tspan></text>
+  <text class="hdr" transform="translate(20 38.5)"><tspan x="0" y="0">Filhos de Gerson e Maria</tspan></text>
+  <path class="ln" d="M28.8,41.5v123.3"/>
+  <line class="ln" x1="28.8" y1="63.5" x2="43.4" y2="63.5"/>
+  <rect class="box" x="43.4" y="51.9" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 66.2)"><tspan x="0" y="0">Erasmo Pires de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="97.3" x2="43.4" y2="97.3"/>
+  <rect class="box" x="43.4" y="85.6" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 100.0)"><tspan x="0" y="0">Gercilene Pires de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="131.0" x2="43.4" y2="131.0"/>
+  <rect class="box" x="43.4" y="119.3" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 133.7)"><tspan x="0" y="0">Naíde Pires de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="164.8" x2="43.4" y2="164.8"/>
+  <rect class="box" x="43.4" y="153.1" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 167.5)"><tspan x="0" y="0">Luiz Pires de Castro (filho só do Gerson)</tspan></text>
+  <text class="hdr" transform="translate(20 188.6)"><tspan x="0" y="0">Filhos de Prudência e Francisco</tspan></text>
+  <path class="ln" d="M28.8,191.6v157.0"/>
+  <line class="ln" x1="28.8" y1="213.6" x2="43.4" y2="213.6"/>
+  <rect class="box" x="43.4" y="201.9" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 216.3)"><tspan x="0" y="0">Roberto Pires de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="247.3" x2="43.4" y2="247.3"/>
+  <rect class="box" x="43.4" y="235.6" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 250.0)"><tspan x="0" y="0">Rui Pires de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="281.1" x2="43.4" y2="281.1"/>
+  <rect class="box" x="43.4" y="269.4" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 283.8)"><tspan x="0" y="0">Francisco Oliveira Filho</tspan></text>
+  <line class="ln" x1="28.8" y1="314.8" x2="43.4" y2="314.8"/>
+  <rect class="box" x="43.4" y="303.1" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 317.5)"><tspan x="0" y="0">Marta Pires de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="348.6" x2="43.4" y2="348.6"/>
+  <rect class="box" x="43.4" y="336.9" width="256.9" height="23.4"/>
+  <text class="nm" transform="translate(53.2 351.3)"><tspan x="0" y="0">Marcos Pires de Castro</tspan></text>
+  <text class="sec" transform="translate(20 374.7)"><tspan x="0" y="0">Bisnetos de Prudêncio e Anaídes</tspan></text>
+  <path class="ln" d="M28.8,377.7v25.4"/>
+  <line class="ln" x1="28.8" y1="403.2" x2="43.4" y2="403.2"/>
+  <rect class="box" x="43.4" y="388.1" width="256.9" height="30.1"/>
+  <text class="nm" transform="translate(53.2 396.6)"><tspan x="0" y="0">Rainer, Renata, Rafaelle, Bruno, Luiz, Evellen, Poliana, Rana, Leonardo,</tspan></text>
+  <text class="nm" transform="translate(53.2 409.2)"><tspan x="0" y="0">Rafael, Mateus, Gerson Neto e Elena.</tspan></text>
+  <text class="sec" transform="translate(20 432.7)"><tspan x="0" y="0">Trinetos de Prudêncio e Anaídes</tspan></text>
+  <path class="ln" d="M28.8,435.7v19.1"/>
+  <line class="ln" x1="28.8" y1="454.8" x2="43.4" y2="454.8"/>
+  <rect class="box" x="43.4" y="446.1" width="256.9" height="17.5"/>
+  <text class="nm" transform="translate(53.2 454.6)"><tspan x="0" y="0">Maria Eduarda, Gabriel, Heitor, Rainer Júnior, Valentina e Bernardo.</tspan></text>
+</svg>
