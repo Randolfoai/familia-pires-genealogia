@@ -16,7 +16,7 @@
       .pbox { fill: none; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
     </style>
   </defs>
-  <g transform="translate(0 57.86)">
+  <g transform="translate(0 0)">
   <rect class="box" x="94.2" y="4.0" width="62" height="11.0"/>
   <text class="cb" transform="translate(125.2 12.1)" text-anchor="middle"><tspan x="0" y="0">Alderina</tspan></text>
   <rect class="box" x="164.2" y="4.0" width="62" height="11.0"/>
@@ -53,37 +53,37 @@
   <text class="cap1" transform="translate(204.8 182.8)" text-anchor="middle"><tspan x="0" y="0">Benildes Pires (Bento)</tspan></text>
   <text class="cap1" transform="translate(280.7 182.8)" text-anchor="middle"><tspan x="0" y="0">Manoel Pereira (Manim)</tspan></text>
   </g>
-  <text class="ttl" transform="translate(160.2 282.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Alderina e Firmo</tspan></text>
-  <text class="hdr" transform="translate(20 302.0)"><tspan x="0" y="0">Filhos de José e Anália</tspan></text>
-  <path class="ln" d="M28.8,305.0v107.3"/>
-  <line class="ln" x1="28.8" y1="311.5" x2="43.4" y2="311.5"/>
-  <rect class="box" x="43.4" y="306.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 314.2)"><tspan x="0" y="0">Valdecy Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="322.7" x2="43.4" y2="322.7"/>
-  <rect class="box" x="43.4" y="318.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 325.4)"><tspan x="0" y="0">João Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="333.9" x2="43.4" y2="333.9"/>
-  <rect class="box" x="43.4" y="329.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 336.6)"><tspan x="0" y="0">Aniceto Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="345.1" x2="43.4" y2="345.1"/>
-  <rect class="box" x="43.4" y="340.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 347.8)"><tspan x="0" y="0">José Pereira de Araújo Filho</tspan></text>
-  <line class="ln" x1="28.8" y1="356.3" x2="43.4" y2="356.3"/>
-  <rect class="box" x="43.4" y="351.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 359.0)"><tspan x="0" y="0">Raimundo Nonato Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="367.5" x2="43.4" y2="367.5"/>
-  <rect class="box" x="43.4" y="362.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 370.2)"><tspan x="0" y="0">Maria Benta Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="378.7" x2="43.4" y2="378.7"/>
-  <rect class="box" x="43.4" y="374.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 381.4)"><tspan x="0" y="0">Maria de Jesus Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="389.9" x2="43.4" y2="389.9"/>
-  <rect class="box" x="43.4" y="385.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 392.6)"><tspan x="0" y="0">Procópio Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="401.1" x2="43.4" y2="401.1"/>
-  <rect class="box" x="43.4" y="396.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 403.8)"><tspan x="0" y="0">Alderina Fonseca de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="412.3" x2="43.4" y2="412.3"/>
-  <rect class="box" x="43.4" y="407.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 415.0)"><tspan x="0" y="0">Elias Fonseca de Araújo</tspan></text>
+  <text class="ttl" transform="translate(160.2 192.8)" text-anchor="middle"><tspan x="0" y="0">Netos de Alderina e Firmo</tspan></text>
+  <text class="hdr" transform="translate(20 232.8)"><tspan x="0" y="0">Filhos de José e Anália</tspan></text>
+  <path class="ln" d="M28.8,235.8v174.6"/>
+  <line class="ln" x1="28.8" y1="247.4" x2="43.4" y2="247.4"/>
+  <rect class="box" x="43.4" y="240.8" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 250.1)"><tspan x="0" y="0">Valdecy Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="265.5" x2="43.4" y2="265.5"/>
+  <rect class="box" x="43.4" y="258.9" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 268.2)"><tspan x="0" y="0">João Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="283.6" x2="43.4" y2="283.6"/>
+  <rect class="box" x="43.4" y="277.1" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 286.3)"><tspan x="0" y="0">Aniceto Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="301.7" x2="43.4" y2="301.7"/>
+  <rect class="box" x="43.4" y="295.2" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 304.4)"><tspan x="0" y="0">José Pereira de Araújo Filho</tspan></text>
+  <line class="ln" x1="28.8" y1="319.9" x2="43.4" y2="319.9"/>
+  <rect class="box" x="43.4" y="313.3" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 322.6)"><tspan x="0" y="0">Raimundo Nonato Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="338.0" x2="43.4" y2="338.0"/>
+  <rect class="box" x="43.4" y="331.4" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 340.7)"><tspan x="0" y="0">Maria Benta Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="356.1" x2="43.4" y2="356.1"/>
+  <rect class="box" x="43.4" y="349.5" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 358.8)"><tspan x="0" y="0">Maria de Jesus Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="374.2" x2="43.4" y2="374.2"/>
+  <rect class="box" x="43.4" y="367.7" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 376.9)"><tspan x="0" y="0">Procópio Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="392.3" x2="43.4" y2="392.3"/>
+  <rect class="box" x="43.4" y="385.8" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 395.0)"><tspan x="0" y="0">Alderina Fonseca de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="410.4" x2="43.4" y2="410.4"/>
+  <rect class="box" x="43.4" y="403.9" width="256.9" height="13.1"/>
+  <text class="nm" transform="translate(53.2 413.1)"><tspan x="0" y="0">Elias Fonseca de Araújo</tspan></text>
 </svg>

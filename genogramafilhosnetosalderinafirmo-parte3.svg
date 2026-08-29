@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 320.3 490.4">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
   <defs>
     <style>
       .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
@@ -16,120 +16,64 @@
       .pbox { fill: none; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
     </style>
   </defs>
-  <text class="sec" transform="translate(20 26.6)"><tspan x="0" y="0">Bisnetos de Alderina e Firmo</tspan></text>
-  <text class="hdr" transform="translate(20 40.6)"><tspan x="0" y="0">Netos de José e Anália</tspan></text>
-  <path class="ln" d="M28.8,43.6v208.2"/>
-  <line class="ln" x1="28.8" y1="50.1" x2="43.4" y2="50.1"/>
-  <rect class="box" x="43.4" y="45.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 52.8)"><tspan x="0" y="0">Maria Sophia Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="61.3" x2="43.4" y2="61.3"/>
-  <rect class="box" x="43.4" y="56.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 64.0)"><tspan x="0" y="0">Wagemann Valadares</tspan></text>
-  <line class="ln" x1="28.8" y1="72.5" x2="43.4" y2="72.5"/>
-  <rect class="box" x="43.4" y="67.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 75.2)"><tspan x="0" y="0">Ana Paula S. Araújo Almeida</tspan></text>
-  <line class="ln" x1="28.8" y1="83.7" x2="43.4" y2="83.7"/>
-  <rect class="box" x="43.4" y="79.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 86.4)"><tspan x="0" y="0">Priscilla Santos de A. Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="94.9" x2="43.4" y2="94.9"/>
-  <rect class="box" x="43.4" y="90.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 97.6)"><tspan x="0" y="0">Leidiane de Souza Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="106.1" x2="43.4" y2="106.1"/>
-  <rect class="box" x="43.4" y="101.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 108.8)"><tspan x="0" y="0">Josivan de Souza Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="117.3" x2="43.4" y2="117.3"/>
-  <rect class="box" x="43.4" y="112.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 120.0)"><tspan x="0" y="0">Josiel Araújo de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="128.5" x2="43.4" y2="128.5"/>
-  <rect class="box" x="43.4" y="123.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 131.2)"><tspan x="0" y="0">Josiane Souza Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="139.7" x2="43.4" y2="139.7"/>
-  <rect class="box" x="43.4" y="135.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 142.4)"><tspan x="0" y="0">Joana Souza A. Ramos</tspan></text>
-  <line class="ln" x1="28.8" y1="150.9" x2="43.4" y2="150.9"/>
-  <rect class="box" x="43.4" y="146.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 153.6)"><tspan x="0" y="0">Josilene Souza Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="162.1" x2="43.4" y2="162.1"/>
-  <rect class="box" x="43.4" y="157.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 164.8)"><tspan x="0" y="0">Josenilton Souza Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="173.3" x2="43.4" y2="173.3"/>
-  <rect class="box" x="43.4" y="168.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 176.0)"><tspan x="0" y="0">Paulo Henrique A. de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="184.5" x2="43.4" y2="184.5"/>
-  <rect class="box" x="43.4" y="179.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 187.2)"><tspan x="0" y="0">Mateus Araújo de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="195.7" x2="43.4" y2="195.7"/>
-  <rect class="box" x="43.4" y="191.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 198.4)"><tspan x="0" y="0">Antônia Araújo Fernandes</tspan></text>
-  <line class="ln" x1="28.8" y1="206.9" x2="43.4" y2="206.9"/>
-  <rect class="box" x="43.4" y="202.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 209.6)"><tspan x="0" y="0">Andreia Araújo Fernandes</tspan></text>
-  <line class="ln" x1="28.8" y1="218.1" x2="43.4" y2="218.1"/>
-  <rect class="box" x="43.4" y="213.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 220.8)"><tspan x="0" y="0">Nataly Araújo Fernandes</tspan></text>
-  <line class="ln" x1="28.8" y1="229.3" x2="43.4" y2="229.3"/>
-  <rect class="box" x="43.4" y="224.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 232.0)"><tspan x="0" y="0">Lydia Araújo Putêncio</tspan></text>
-  <line class="ln" x1="28.8" y1="240.5" x2="43.4" y2="240.5"/>
-  <rect class="box" x="43.4" y="235.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 243.2)"><tspan x="0" y="0">Átila Souza de Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="251.7" x2="43.4" y2="251.7"/>
-  <rect class="box" x="43.4" y="247.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 254.4)"><tspan x="0" y="0">Eliabe Souza de Araújo</tspan></text>
-  <text class="hdr" transform="translate(20 270.8)"><tspan x="0" y="0">Netos de Maria e Custódio</tspan></text>
-  <path class="ln" d="M28.8,273.8v196.9"/>
-  <line class="ln" x1="28.8" y1="280.4" x2="43.4" y2="280.4"/>
-  <rect class="box" x="43.4" y="275.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 283.1)"><tspan x="0" y="0">Marx Suel Azevedo Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="291.6" x2="43.4" y2="291.6"/>
-  <rect class="box" x="43.4" y="286.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 294.3)"><tspan x="0" y="0">Layanne Azevedo Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="302.8" x2="43.4" y2="302.8"/>
-  <rect class="box" x="43.4" y="298.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 305.5)"><tspan x="0" y="0">Layza Azevedo Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="314.0" x2="43.4" y2="314.0"/>
-  <rect class="box" x="43.4" y="309.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 316.7)"><tspan x="0" y="0">Eliane Ferreira Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="325.2" x2="43.4" y2="325.2"/>
-  <rect class="box" x="43.4" y="320.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 327.9)"><tspan x="0" y="0">Fernando Ferreira Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="336.4" x2="43.4" y2="336.4"/>
-  <rect class="box" x="43.4" y="331.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 339.1)"><tspan x="0" y="0">HendyMirllei Araújo Félix</tspan></text>
-  <line class="ln" x1="28.8" y1="347.6" x2="43.4" y2="347.6"/>
-  <rect class="box" x="43.4" y="342.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 350.3)"><tspan x="0" y="0">Patrícia Araújo Matos</tspan></text>
-  <line class="ln" x1="28.8" y1="358.8" x2="43.4" y2="358.8"/>
-  <rect class="box" x="43.4" y="354.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 361.5)"><tspan x="0" y="0">Hygor Araújo Matos</tspan></text>
-  <line class="ln" x1="28.8" y1="370.0" x2="43.4" y2="370.0"/>
-  <rect class="box" x="43.4" y="365.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 372.7)"><tspan x="0" y="0">Vanessa Barbosa Pimentel</tspan></text>
-  <line class="ln" x1="28.8" y1="381.2" x2="43.4" y2="381.2"/>
-  <rect class="box" x="43.4" y="376.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 383.9)"><tspan x="0" y="0">Vanusa Barbosa Pimentel</tspan></text>
-  <line class="ln" x1="28.8" y1="392.4" x2="43.4" y2="392.4"/>
-  <rect class="box" x="43.4" y="387.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 395.1)"><tspan x="0" y="0">Vanisse Barbosa Pimentel</tspan></text>
-  <line class="ln" x1="28.8" y1="403.6" x2="43.4" y2="403.6"/>
-  <rect class="box" x="43.4" y="398.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 406.2)"><tspan x="0" y="0">Vanderson Barbosa Pimentel</tspan></text>
-  <line class="ln" x1="28.8" y1="414.8" x2="43.4" y2="414.8"/>
-  <rect class="box" x="43.4" y="410.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 417.4)"><tspan x="0" y="0">Gisoanne Fernandes Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="425.9" x2="43.4" y2="425.9"/>
-  <rect class="box" x="43.4" y="421.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 428.6)"><tspan x="0" y="0">Gisele Fernandes Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="437.1" x2="43.4" y2="437.1"/>
-  <rect class="box" x="43.4" y="432.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 439.8)"><tspan x="0" y="0">Leandro Fernandes Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="448.3" x2="43.4" y2="448.3"/>
-  <rect class="box" x="43.4" y="443.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 451.0)"><tspan x="0" y="0">Thiago Fernandes Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="459.5" x2="43.4" y2="459.5"/>
-  <rect class="box" x="43.4" y="454.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 462.2)"><tspan x="0" y="0">Yasmim Gomes Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="470.7" x2="43.4" y2="470.7"/>
-  <rect class="box" x="43.4" y="466.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 473.4)"><tspan x="0" y="0">Alice Gomes Araújo</tspan></text>
+  <text class="sec" transform="translate(20 16.8)"><tspan x="0" y="0">Bisnetos de Alderina e Firmo</tspan></text>
+  <text class="hdr" transform="translate(20 33.6)"><tspan x="0" y="0">Netos de José e Anália</tspan></text>
+  <path class="ln" d="M28.8,36.6v422.6"/>
+  <line class="ln" x1="28.8" y1="51.5" x2="43.4" y2="51.5"/>
+  <rect class="box" x="43.4" y="43.7" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 54.2)"><tspan x="0" y="0">Maria Sophia Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="74.1" x2="43.4" y2="74.1"/>
+  <rect class="box" x="43.4" y="66.3" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 76.8)"><tspan x="0" y="0">Wagemann Valadares</tspan></text>
+  <line class="ln" x1="28.8" y1="96.8" x2="43.4" y2="96.8"/>
+  <rect class="box" x="43.4" y="89.0" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 99.5)"><tspan x="0" y="0">Ana Paula S. Araújo Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="119.4" x2="43.4" y2="119.4"/>
+  <rect class="box" x="43.4" y="111.6" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 122.1)"><tspan x="0" y="0">Priscilla Santos de A. Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="142.1" x2="43.4" y2="142.1"/>
+  <rect class="box" x="43.4" y="134.3" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 144.8)"><tspan x="0" y="0">Leidiane de Souza Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="164.7" x2="43.4" y2="164.7"/>
+  <rect class="box" x="43.4" y="156.9" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 167.4)"><tspan x="0" y="0">Josivan de Souza Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="187.4" x2="43.4" y2="187.4"/>
+  <rect class="box" x="43.4" y="179.6" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 190.1)"><tspan x="0" y="0">Josiel Araújo de Souza</tspan></text>
+  <line class="ln" x1="28.8" y1="210.0" x2="43.4" y2="210.0"/>
+  <rect class="box" x="43.4" y="202.2" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 212.7)"><tspan x="0" y="0">Josiane Souza Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="232.7" x2="43.4" y2="232.7"/>
+  <rect class="box" x="43.4" y="224.9" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 235.4)"><tspan x="0" y="0">Joana Souza A. Ramos</tspan></text>
+  <line class="ln" x1="28.8" y1="255.3" x2="43.4" y2="255.3"/>
+  <rect class="box" x="43.4" y="247.5" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 258.0)"><tspan x="0" y="0">Josilene Souza Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="278.0" x2="43.4" y2="278.0"/>
+  <rect class="box" x="43.4" y="270.2" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 280.7)"><tspan x="0" y="0">Josenilton Souza Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="300.6" x2="43.4" y2="300.6"/>
+  <rect class="box" x="43.4" y="292.8" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 303.3)"><tspan x="0" y="0">Paulo Henrique A. de Souza</tspan></text>
+  <line class="ln" x1="28.8" y1="323.3" x2="43.4" y2="323.3"/>
+  <rect class="box" x="43.4" y="315.5" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 326.0)"><tspan x="0" y="0">Mateus Araújo de Souza</tspan></text>
+  <line class="ln" x1="28.8" y1="345.9" x2="43.4" y2="345.9"/>
+  <rect class="box" x="43.4" y="338.1" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 348.6)"><tspan x="0" y="0">Antônia Araújo Fernandes</tspan></text>
+  <line class="ln" x1="28.8" y1="368.6" x2="43.4" y2="368.6"/>
+  <rect class="box" x="43.4" y="360.8" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 371.3)"><tspan x="0" y="0">Andreia Araújo Fernandes</tspan></text>
+  <line class="ln" x1="28.8" y1="391.2" x2="43.4" y2="391.2"/>
+  <rect class="box" x="43.4" y="383.4" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 393.9)"><tspan x="0" y="0">Nataly Araújo Fernandes</tspan></text>
+  <line class="ln" x1="28.8" y1="413.9" x2="43.4" y2="413.9"/>
+  <rect class="box" x="43.4" y="406.1" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 416.6)"><tspan x="0" y="0">Lydia Araújo Putêncio</tspan></text>
+  <line class="ln" x1="28.8" y1="436.5" x2="43.4" y2="436.5"/>
+  <rect class="box" x="43.4" y="428.7" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 439.2)"><tspan x="0" y="0">Átila Souza de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="459.2" x2="43.4" y2="459.2"/>
+  <rect class="box" x="43.4" y="451.4" width="256.9" height="15.6"/>
+  <text class="nm" transform="translate(53.2 461.9)"><tspan x="0" y="0">Eliabe Souza de Araújo</tspan></text>
 </svg>
