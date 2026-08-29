@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 41.0">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8.5px; font-style: italic; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="hdr" transform="translate(20 10.0)"><tspan x="0" y="0">Filho de Rabindranath Tagore</tspan></text>
+  <path class="ln" d="M28.8,14.0v10.5"/>
+  <line class="ln" x1="28.8" y1="24.5" x2="43.4" y2="24.5"/>
+  <rect class="box" x="43.4" y="18.0" width="256.9" height="13.0"/>
+  <text class="nm" transform="translate(53.2 26.8)"><tspan x="0" y="0">João Marcos de Arruda Pires (sem mais informações)</tspan></text>
+</svg>
