@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Tomázia e Manoel Divino e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 39.4)"><tspan x="0" y="0">Filhos do João Bosco e Marina</tspan></text>
+  <path class="ln" d="M28.8,42.4v38.6"/>
+  <line class="ln" x1="28.8" y1="57.4" x2="43.4" y2="57.4"/>
+  <rect class="box" x="43.4" y="48.9" width="256.9" height="17.0"/>
+  <text transform="translate(53.2 60.1)"><tspan class="nm" x="0" y="0">Patrícia Pires Gusmão</tspan><tspan class="sp"> / Daniel Gusmão</tspan></text>
+  <line class="ln" x1="28.8" y1="81.0" x2="43.4" y2="81.0"/>
+  <rect class="box" x="43.4" y="72.5" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 83.7)"><tspan x="0" y="0">Paulo Henrique de Araújo Pires</tspan></text>
+  <text class="hdr" transform="translate(20 99.4)"><tspan x="0" y="0">Filhos da Mércia e José</tspan></text>
+  <path class="ln" d="M28.8,102.4v62.2"/>
+  <line class="ln" x1="28.8" y1="117.4" x2="43.4" y2="117.4"/>
+  <rect class="box" x="43.4" y="108.9" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 120.1)"><tspan x="0" y="0">Túlia Khristine de Araújo Lopes</tspan></text>
+  <line class="ln" x1="28.8" y1="141.0" x2="43.4" y2="141.0"/>
+  <rect class="box" x="43.4" y="132.5" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 143.7)"><tspan x="0" y="0">Vanusa de Araújo Lopes Andrade</tspan></text>
+  <line class="ln" x1="28.8" y1="164.5" x2="43.4" y2="164.5"/>
+  <rect class="box" x="43.4" y="156.0" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 167.2)"><tspan x="0" y="0">Cristiano de Araújo Lopes</tspan></text>
+  <text class="hdr" transform="translate(20 182.9)"><tspan x="0" y="0">Filhos do Francisco (adotivo) e Maria</tspan></text>
+  <path class="ln" d="M28.8,185.9v156.4"/>
+  <line class="ln" x1="28.8" y1="200.9" x2="43.4" y2="200.9"/>
+  <rect class="box" x="43.4" y="192.4" width="256.9" height="17.0"/>
+  <text transform="translate(53.2 203.6)"><tspan class="nm" x="0" y="0">Rosângela Soares da Silva Santos</tspan><tspan class="sp"> / Hamilton José</tspan></text>
+  <line class="ln" x1="28.8" y1="224.5" x2="43.4" y2="224.5"/>
+  <rect class="box" x="43.4" y="216.0" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 227.2)"><tspan x="0" y="0">Adriano Soares da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="248.0" x2="43.4" y2="248.0"/>
+  <rect class="box" x="43.4" y="239.5" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 250.7)"><tspan x="0" y="0">Aleandro Soares da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="271.6" x2="43.4" y2="271.6"/>
+  <rect class="box" x="43.4" y="263.1" width="256.9" height="17.0"/>
+  <text transform="translate(53.2 274.3)"><tspan class="nm" x="0" y="0">Rosilene Soares da Silva</tspan><tspan class="sp"> / Marcos Ferreira</tspan></text>
+  <line class="ln" x1="28.8" y1="295.2" x2="43.4" y2="295.2"/>
+  <rect class="box" x="43.4" y="286.7" width="256.9" height="17.0"/>
+  <text transform="translate(53.2 297.9)"><tspan class="nm" x="0" y="0">Robson Soares da Silva</tspan><tspan class="sp"> / Elionides Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="318.7" x2="43.4" y2="318.7"/>
+  <rect class="box" x="43.4" y="310.2" width="256.9" height="17.0"/>
+  <text transform="translate(53.2 321.4)"><tspan class="nm" x="0" y="0">Eduardo Soares da Silva</tspan><tspan class="sp"> / Danila Mesquita</tspan></text>
+  <line class="ln" x1="28.8" y1="342.3" x2="43.4" y2="342.3"/>
+  <rect class="box" x="43.4" y="333.8" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 345.0)"><tspan x="0" y="0">Alessandro Soares da Silva</tspan></text>
+  <text class="hdr" transform="translate(20 360.6)"><tspan x="0" y="0">Filhos do Francisco e Conceição</tspan></text>
+  <path class="ln" d="M28.8,363.6v38.6"/>
+  <line class="ln" x1="28.8" y1="378.7" x2="43.4" y2="378.7"/>
+  <rect class="box" x="43.4" y="370.2" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 381.4)"><tspan x="0" y="0">João Vítor Soares</tspan></text>
+  <line class="ln" x1="28.8" y1="402.2" x2="43.4" y2="402.2"/>
+  <rect class="box" x="43.4" y="393.7" width="256.9" height="17.0"/>
+  <text class="nm" transform="translate(53.2 404.9)"><tspan x="0" y="0">Francis Júnior Soares da Silva</tspan></text>
+  <text class="sec" transform="translate(20 424.4)"><tspan x="0" y="0">Bisnetos de Tomázia e Manoel Divino</tspan></text>
+  <path class="ln" d="M28.8,427.4v20.3"/>
+  <line class="ln" x1="28.8" y1="447.7" x2="43.4" y2="447.7"/>
+  <rect class="box" x="43.4" y="433.9" width="256.9" height="27.6"/>
+  <text class="nm" transform="translate(53.2 442.4)"><tspan x="0" y="0">Rafael, Gustavo, Isadora, Ciro, Letícia, Gabriel, Vinícius, Eduarda,</tspan></text>
+  <text class="nm" transform="translate(53.2 452.5)"><tspan x="0" y="0">Dhébora, Arthur Samuel, Sarah, Yasmin, Sofia, Maria Eduarda e Samuel.</tspan></text>
+</svg>
