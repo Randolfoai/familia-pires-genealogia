@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 438.0">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="hdr" transform="translate(20 14.0)"><tspan x="0" y="0">Filhos de Raul e Olindina</tspan></text>
+  <path class="ln" d="M28.8,17.0v118.6"/>
+  <line class="ln" x1="28.8" y1="23.5" x2="43.4" y2="23.5"/>
+  <rect class="box" x="43.4" y="18.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 26.2)"><tspan x="0" y="0">Maria do Amparo</tspan></text>
+  <line class="ln" x1="28.8" y1="34.8" x2="43.4" y2="34.8"/>
+  <rect class="box" x="43.4" y="30.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 37.5)"><tspan x="0" y="0">Maria de Almeida Cavalcante</tspan></text>
+  <line class="ln" x1="28.8" y1="45.9" x2="43.4" y2="45.9"/>
+  <rect class="box" x="43.4" y="41.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 48.6)"><tspan x="0" y="0">Maria Aparecida Marinho Aguiar</tspan></text>
+  <line class="ln" x1="28.8" y1="57.1" x2="43.4" y2="57.1"/>
+  <rect class="box" x="43.4" y="52.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 59.8)"><tspan x="0" y="0">Rosilene Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="68.3" x2="43.4" y2="68.3"/>
+  <rect class="box" x="43.4" y="63.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 71.0)"><tspan x="0" y="0">Elizabete Marinho de Almeida Matos</tspan></text>
+  <line class="ln" x1="28.8" y1="79.6" x2="43.4" y2="79.6"/>
+  <rect class="box" x="43.4" y="74.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 82.3)"><tspan x="0" y="0">Edilson Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="90.8" x2="43.4" y2="90.8"/>
+  <rect class="box" x="43.4" y="86.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 93.5)"><tspan x="0" y="0">Edmilson Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="102.0" x2="43.4" y2="102.0"/>
+  <rect class="box" x="43.4" y="97.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 104.7)"><tspan x="0" y="0">Claudia Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="113.2" x2="43.4" y2="113.2"/>
+  <rect class="box" x="43.4" y="108.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 115.9)"><tspan x="0" y="0">Vilson Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="124.4" x2="43.4" y2="124.4"/>
+  <rect class="box" x="43.4" y="119.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 127.1)"><tspan x="0" y="0">Neuton Marinho de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="135.6" x2="43.4" y2="135.6"/>
+  <rect class="box" x="43.4" y="130.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 138.3)"><tspan x="0" y="0">Janete Marinho de Almeida</tspan></text>
+  <text class="hdr" transform="translate(20 147.8)"><tspan x="0" y="0">Filhos de Dalva e Jovelino</tspan></text>
+  <path class="ln" d="M28.8,150.8v29.0"/>
+  <line class="ln" x1="28.8" y1="157.4" x2="43.4" y2="157.4"/>
+  <rect class="box" x="43.4" y="152.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 160.1)"><tspan x="0" y="0">Sandra Almeida de Souza</tspan></text>
+  <line class="ln" x1="28.8" y1="168.6" x2="43.4" y2="168.6"/>
+  <rect class="box" x="43.4" y="163.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 171.3)"><tspan x="0" y="0">Daniel Almeida de Souza</tspan></text>
+  <line class="ln" x1="28.8" y1="179.8" x2="43.4" y2="179.8"/>
+  <rect class="box" x="43.4" y="175.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 182.5)"><tspan x="0" y="0">Vânia Almeida de Souza</tspan></text>
+  <text class="hdr" transform="translate(20 192.0)"><tspan x="0" y="0">Filho de Isaurina</tspan></text>
+  <path class="ln" d="M28.8,195.0v6.6"/>
+  <line class="ln" x1="28.8" y1="201.6" x2="43.4" y2="201.6"/>
+  <rect class="box" x="43.4" y="196.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 204.3)"><tspan x="0" y="0">Edivaldo Almeida Serqueira</tspan></text>
+  <text class="hdr" transform="translate(20 213.8)"><tspan x="0" y="0">Filhos de Valquiria</tspan></text>
+  <path class="ln" d="M28.8,216.8v129.7"/>
+  <line class="ln" x1="28.8" y1="223.4" x2="43.4" y2="223.4"/>
+  <rect class="box" x="43.4" y="218.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 226.1)"><tspan x="0" y="0">Wanderley Pires de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="234.6" x2="43.4" y2="234.6"/>
+  <rect class="box" x="43.4" y="229.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 237.3)"><tspan x="0" y="0">Hélio Pires de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="245.8" x2="43.4" y2="245.8"/>
+  <rect class="box" x="43.4" y="241.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 248.5)"><tspan x="0" y="0">Silmara Pires de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="257.0" x2="43.4" y2="257.0"/>
+  <rect class="box" x="43.4" y="252.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 259.7)"><tspan x="0" y="0">Joelma Pires de Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="268.2" x2="43.4" y2="268.2"/>
+  <rect class="box" x="43.4" y="263.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 270.9)"><tspan x="0" y="0">Francisco Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="279.4" x2="43.4" y2="279.4"/>
+  <rect class="box" x="43.4" y="274.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 282.1)"><tspan x="0" y="0">Aversino Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="290.6" x2="43.4" y2="290.6"/>
+  <rect class="box" x="43.4" y="285.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 293.3)"><tspan x="0" y="0">Manoel Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="301.8" x2="43.4" y2="301.8"/>
+  <rect class="box" x="43.4" y="297.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 304.5)"><tspan x="0" y="0">Maria Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="313.0" x2="43.4" y2="313.0"/>
+  <rect class="box" x="43.4" y="308.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 315.7)"><tspan x="0" y="0">Ronaldo Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="324.2" x2="43.4" y2="324.2"/>
+  <rect class="box" x="43.4" y="319.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 326.9)"><tspan x="0" y="0">Antônio Luiz Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="335.4" x2="43.4" y2="335.4"/>
+  <rect class="box" x="43.4" y="330.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 338.1)"><tspan x="0" y="0">Everson Pires dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="346.6" x2="43.4" y2="346.6"/>
+  <rect class="box" x="43.4" y="341.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 349.2)"><tspan x="0" y="0">Raimunda Pires dos Santos</tspan></text>
+  <text class="sec" transform="translate(20 361.2)"><tspan x="0" y="0">Bisnetos de Mercides e Ladislau</tspan></text>
+  <path class="ln" d="M28.8,364.2v14.1"/>
+  <line class="ln" x1="28.8" y1="378.4" x2="43.4" y2="378.4"/>
+  <rect class="box" x="43.4" y="366.1" width="256.9" height="24.5"/>
+  <text class="nm" transform="translate(53.2 374.6)"><tspan x="0" y="0">Thiago, Érica, Thatila, Thalles, Thayller, Bruna Lourrayne, Matheus,</tspan></text>
+  <text class="nm" transform="translate(53.2 381.6)"><tspan x="0" y="0">Bruno, Douglas e Rhaynara.</tspan></text>
+  <text class="sec" transform="translate(20 400.6)"><tspan x="0" y="0">Trinetos de Mercides e Ladislau</tspan></text>
+  <path class="ln" d="M28.8,403.6v10.6"/>
+  <line class="ln" x1="28.8" y1="414.2" x2="43.4" y2="414.2"/>
+  <rect class="box" x="43.4" y="405.5" width="256.9" height="17.5"/>
+  <text class="nm" transform="translate(53.2 414.0)"><tspan x="0" y="0">Augusto, Cecília, Helena e Aurora.</tspan></text>
+</svg>
