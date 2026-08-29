@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Manoel e Martinha e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 38.0)"><tspan x="0" y="0">Filhos de Albina e Salvador</tspan></text>
+  <path class="ln" d="M28.8,41.0v54.8"/>
+  <line class="ln" x1="28.8" y1="50.4" x2="43.4" y2="50.4"/>
+  <rect class="box" x="43.4" y="44.7" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 53.1)"><tspan x="0" y="0">Osvaldo Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="65.6" x2="43.4" y2="65.6"/>
+  <rect class="box" x="43.4" y="59.8" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 68.3)"><tspan x="0" y="0">Cidamar Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="80.7" x2="43.4" y2="80.7"/>
+  <rect class="box" x="43.4" y="75.0" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 83.4)"><tspan x="0" y="0">Gercina Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="95.8" x2="43.4" y2="95.8"/>
+  <rect class="box" x="43.4" y="90.1" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 98.5)"><tspan x="0" y="0">Regina Campos Milhomem</tspan></text>
+  <text class="hdr" transform="translate(20 111.8)"><tspan x="0" y="0">Filhos de Carlindo e Izaurina</tspan></text>
+  <path class="ln" d="M28.8,114.8v70.0"/>
+  <line class="ln" x1="28.8" y1="124.3" x2="43.4" y2="124.3"/>
+  <rect class="box" x="43.4" y="118.5" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 127.0)"><tspan x="0" y="0">Carlúcia Rodrigues Lopes de Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="139.4" x2="43.4" y2="139.4"/>
+  <rect class="box" x="43.4" y="133.7" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 142.1)"><tspan x="0" y="0">Calomar Rodrigues Lopes</tspan></text>
+  <line class="ln" x1="28.8" y1="154.5" x2="43.4" y2="154.5"/>
+  <rect class="box" x="43.4" y="148.8" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 157.2)"><tspan x="0" y="0">Carmelita Rodrigues Lopes Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="169.7" x2="43.4" y2="169.7"/>
+  <rect class="box" x="43.4" y="163.9" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 172.4)"><tspan x="0" y="0">Elson Frank Rodrigues Lopes</tspan></text>
+  <line class="ln" x1="28.8" y1="184.8" x2="43.4" y2="184.8"/>
+  <rect class="box" x="43.4" y="179.1" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 187.5)"><tspan x="0" y="0">Almir Rodrigues Lopes</tspan></text>
+  <text class="hdr" transform="translate(20 200.8)"><tspan x="0" y="0">Filhos de Salvador e Maria de Fátima</tspan></text>
+  <path class="ln" d="M28.8,203.8v131.8"/>
+  <line class="ln" x1="28.8" y1="213.2" x2="43.4" y2="213.2"/>
+  <rect class="box" x="43.4" y="207.5" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 215.9)"><tspan class="nm" x="0" y="0">Ailton Pires Campos</tspan><tspan class="sp"> / Vânia</tspan></text>
+  <line class="ln" x1="28.8" y1="228.4" x2="43.4" y2="228.4"/>
+  <rect class="box" x="43.4" y="222.6" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 231.1)"><tspan class="nm" x="0" y="0">Deusamar Pires Campos</tspan><tspan class="sp"> / Vilma</tspan></text>
+  <line class="ln" x1="28.8" y1="243.5" x2="43.4" y2="243.5"/>
+  <rect class="box" x="43.4" y="237.8" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 246.2)"><tspan class="nm" x="0" y="0">João Batista Pires Campos</tspan><tspan class="sp"> / Maria Divina</tspan></text>
+  <line class="ln" x1="28.8" y1="258.7" x2="43.4" y2="258.7"/>
+  <rect class="box" x="43.4" y="252.9" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 261.4)"><tspan class="nm" x="0" y="0">Marlene Pires Campos</tspan><tspan class="sp"> / Vilmar</tspan></text>
+  <line class="ln" x1="28.8" y1="282.0" x2="43.4" y2="282.0"/>
+  <rect class="box" x="43.4" y="268.1" width="256.9" height="27.8"/>
+  <text class="nm" transform="translate(53.2 276.2)"><tspan x="0" y="0">Marilene Pires Campos</tspan></text>
+  <text class="sp" transform="translate(53.2 284.4)"><tspan x="0" y="0">/ Hélio (1º casamento)</tspan></text>
+  <text class="sp" transform="translate(53.2 292.6)"><tspan x="0" y="0">/ Antônio (2º casamento)</tspan></text>
+  <line class="ln" x1="28.8" y1="305.3" x2="43.4" y2="305.3"/>
+  <rect class="box" x="43.4" y="299.6" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 308.0)"><tspan class="nm" x="0" y="0">Maria de Jesus Pires Campos</tspan><tspan class="sp"> / Valtuir</tspan></text>
+  <line class="ln" x1="28.8" y1="320.5" x2="43.4" y2="320.5"/>
+  <rect class="box" x="43.4" y="314.7" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 323.2)"><tspan class="nm" x="0" y="0">Orlando Pires Campos</tspan><tspan class="sp"> / Luzinete</tspan></text>
+  <line class="ln" x1="28.8" y1="335.6" x2="43.4" y2="335.6"/>
+  <rect class="box" x="43.4" y="329.9" width="256.9" height="11.5"/>
+  <text transform="translate(53.2 338.3)"><tspan class="nm" x="0" y="0">Maria Solange Pires Campos</tspan><tspan class="sp"> / José Agripi</tspan></text>
+  <text class="sec" transform="translate(20 355.3)"><tspan x="0" y="0">Bisnetos de Manoel e Martinha</tspan></text>
+  <path class="ln" d="M28.8,358.3v100.3"/>
+  <line class="ln" x1="28.8" y1="367.8" x2="43.4" y2="367.8"/>
+  <rect class="box" x="43.4" y="362.0" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 370.5)"><tspan x="0" y="0">Joelma Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="382.9" x2="43.4" y2="382.9"/>
+  <rect class="box" x="43.4" y="377.2" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 385.6)"><tspan x="0" y="0">Jervana Campos Milhmem</tspan></text>
+  <line class="ln" x1="28.8" y1="398.0" x2="43.4" y2="398.0"/>
+  <rect class="box" x="43.4" y="392.3" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 400.7)"><tspan x="0" y="0">Josivânia Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="413.2" x2="43.4" y2="413.2"/>
+  <rect class="box" x="43.4" y="407.5" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 415.9)"><tspan x="0" y="0">Jeovani Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="428.3" x2="43.4" y2="428.3"/>
+  <rect class="box" x="43.4" y="422.6" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 431.0)"><tspan x="0" y="0">Luciana Campos Milhomem</tspan></text>
+  <line class="ln" x1="28.8" y1="443.5" x2="43.4" y2="443.5"/>
+  <rect class="box" x="43.4" y="437.7" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 446.2)"><tspan x="0" y="0">José Campos Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="458.6" x2="43.4" y2="458.6"/>
+  <rect class="box" x="43.4" y="452.9" width="256.9" height="11.5"/>
+  <text class="nm" transform="translate(53.2 461.3)"><tspan x="0" y="0">Jurimar Rodrigues Lopes</tspan></text>
+</svg>
