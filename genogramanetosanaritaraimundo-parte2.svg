@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 186.2">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="sec" transform="translate(20 14.0)"><tspan x="0" y="0">Bisnetos de Ana Rita e Raimundo</tspan></text>
+  <path class="ln" d="M28.8,17.0v31.6"/>
+  <line class="ln" x1="28.8" y1="48.6" x2="43.4" y2="48.6"/>
+  <rect class="box" x="43.4" y="18.9" width="256.9" height="59.5"/>
+  <text class="nm" transform="translate(53.2 27.4)"><tspan x="0" y="0">Carlos André, Lêda, Lidiane, Lourival, Leandro, Lucas, Maria de Jesus,</tspan></text>
+  <text class="nm" transform="translate(53.2 34.4)"><tspan x="0" y="0">Maria da Paz, Adailso, Aline, Maria de Fátima, Fábio, Lázara, Antonio</tspan></text>
+  <text class="nm" transform="translate(53.2 41.4)"><tspan x="0" y="0">Luiz, Natalia, Andeiane, Tiago, Elane, Eliene, Marlene, Edna, Hagna,</tspan></text>
+  <text class="nm" transform="translate(53.2 48.4)"><tspan x="0" y="0">Hermes, Elson, Leila, Valéria, Antônio, Daniela, José Helielton, Ana</tspan></text>
+  <text class="nm" transform="translate(53.2 55.4)"><tspan x="0" y="0">Carla, Tânia, Tailene, Marcos, Victor Gabriel, Elisnária, Tony Regis,</tspan></text>
+  <text class="nm" transform="translate(53.2 62.4)"><tspan x="0" y="0">Thaynara, Lucimária, Lucas, Luciano, Geovana, Lana, Matheus, Eva Caroline,</tspan></text>
+  <text class="nm" transform="translate(53.2 69.4)"><tspan x="0" y="0">Patrik e Mikaela.</tspan></text>
+  <text class="sec" transform="translate(20 88.4)"><tspan x="0" y="0">Trinetos de Ana Rita e Raimundo</tspan></text>
+  <path class="ln" d="M28.8,91.4v24.7"/>
+  <line class="ln" x1="28.8" y1="116.1" x2="43.4" y2="116.1"/>
+  <rect class="box" x="43.4" y="93.3" width="256.9" height="45.5"/>
+  <text class="nm" transform="translate(53.2 101.8)"><tspan x="0" y="0">Manoel, Lara Jordana, Pietra Suzana, Mariê Sofia, Camila, Moisés, Ester,</tspan></text>
+  <text class="nm" transform="translate(53.2 108.8)"><tspan x="0" y="0">Maitê, Ana Rebeca, Ábiner, Carlos, Eduardo, Vitor Ugo, Cauan, Géssica,</tspan></text>
+  <text class="nm" transform="translate(53.2 115.8)"><tspan x="0" y="0">Eloisa, Sofia, Adriana, Ana Luis, Vagner, Edisley, Wesley, Lenilson,</tspan></text>
+  <text class="nm" transform="translate(53.2 122.8)"><tspan x="0" y="0">Maysa, Gabrielle, Mikael, Amaro, Renan, Maycon, Matheus, Tamires, Isaac,</tspan></text>
+  <text class="nm" transform="translate(53.2 129.8)"><tspan x="0" y="0">Nicholas, Brayan, Gustavo e Guilherme.</tspan></text>
+  <text class="sec" transform="translate(20 148.8)"><tspan x="0" y="0">Tetranetos de Ana Rita e Raimundo</tspan></text>
+  <path class="ln" d="M28.8,151.8v10.7"/>
+  <line class="ln" x1="28.8" y1="162.5" x2="43.4" y2="162.5"/>
+  <rect class="box" x="43.4" y="153.7" width="256.9" height="17.5"/>
+  <text class="nm" transform="translate(53.2 162.2)"><tspan x="0" y="0">Otávio e Murilo.</tspan></text>
+</svg>

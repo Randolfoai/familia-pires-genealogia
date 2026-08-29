@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Ana Rita e Raimundo e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 38.8)"><tspan x="0" y="0">Filhos de Pedro e Juliete</tspan></text>
+  <path class="ln" d="M28.8,41.8v133.2"/>
+  <line class="ln" x1="28.8" y1="52.9" x2="43.4" y2="52.9"/>
+  <rect class="box" x="43.4" y="46.5" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 55.6)"><tspan x="0" y="0">Lucilene Pereira Evangelista</tspan></text>
+  <line class="ln" x1="28.8" y1="70.3" x2="43.4" y2="70.3"/>
+  <rect class="box" x="43.4" y="64.0" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 73.0)"><tspan x="0" y="0">Anaides Pires Evangelista</tspan></text>
+  <line class="ln" x1="28.8" y1="87.8" x2="43.4" y2="87.8"/>
+  <rect class="box" x="43.4" y="81.4" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 90.5)"><tspan x="0" y="0">João Pires Evangelista</tspan></text>
+  <line class="ln" x1="28.8" y1="105.2" x2="43.4" y2="105.2"/>
+  <rect class="box" x="43.4" y="98.8" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 107.9)"><tspan x="0" y="0">Adelson Pires Evangelista</tspan></text>
+  <line class="ln" x1="28.8" y1="122.7" x2="43.4" y2="122.7"/>
+  <rect class="box" x="43.4" y="116.3" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 125.4)"><tspan x="0" y="0">Lourival Pires Evangelista da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="140.1" x2="43.4" y2="140.1"/>
+  <rect class="box" x="43.4" y="133.7" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 142.8)"><tspan x="0" y="0">Ivanilde Pires Evangelista Nunes</tspan></text>
+  <line class="ln" x1="28.8" y1="157.5" x2="43.4" y2="157.5"/>
+  <rect class="box" x="43.4" y="151.2" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 160.2)"><tspan x="0" y="0">Laudelice Pires Evangelista</tspan></text>
+  <line class="ln" x1="28.8" y1="175.0" x2="43.4" y2="175.0"/>
+  <rect class="box" x="43.4" y="168.6" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 177.7)"><tspan x="0" y="0">Gercy Pereira da Conceição</tspan></text>
+  <text class="hdr" transform="translate(20 194.5)"><tspan x="0" y="0">Filhos de Aniceto e Raimunda</tspan></text>
+  <path class="ln" d="M28.8,197.5v63.4"/>
+  <line class="ln" x1="28.8" y1="208.6" x2="43.4" y2="208.6"/>
+  <rect class="box" x="43.4" y="202.3" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 211.3)"><tspan x="0" y="0">Eva Cardoso Lima</tspan></text>
+  <line class="ln" x1="28.8" y1="226.1" x2="43.4" y2="226.1"/>
+  <rect class="box" x="43.4" y="219.7" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 228.8)"><tspan x="0" y="0">Agenor Pires Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="243.5" x2="43.4" y2="243.5"/>
+  <rect class="box" x="43.4" y="237.1" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 246.2)"><tspan x="0" y="0">Ducarmo Pires Cunha (Dudu)</tspan></text>
+  <line class="ln" x1="28.8" y1="261.0" x2="43.4" y2="261.0"/>
+  <rect class="box" x="43.4" y="254.6" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 263.7)"><tspan x="0" y="0">Baldo Pires Cardoso</tspan></text>
+  <text class="hdr" transform="translate(20 280.5)"><tspan x="0" y="0">Filhos de João e Matildes</tspan></text>
+  <path class="ln" d="M28.8,283.5v185.5"/>
+  <line class="ln" x1="28.8" y1="294.6" x2="43.4" y2="294.6"/>
+  <rect class="box" x="43.4" y="288.2" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 297.3)"><tspan x="0" y="0">Nelzir Alves da Cunha Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="312.0" x2="43.4" y2="312.0"/>
+  <rect class="box" x="43.4" y="305.7" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 314.7)"><tspan x="0" y="0">Ricardo Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="329.5" x2="43.4" y2="329.5"/>
+  <rect class="box" x="43.4" y="323.1" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 332.2)"><tspan x="0" y="0">Genezir Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="346.9" x2="43.4" y2="346.9"/>
+  <rect class="box" x="43.4" y="340.6" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 349.6)"><tspan x="0" y="0">Raimundo Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="364.4" x2="43.4" y2="364.4"/>
+  <rect class="box" x="43.4" y="358.0" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 367.1)"><tspan x="0" y="0">Mariano Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="381.8" x2="43.4" y2="381.8"/>
+  <rect class="box" x="43.4" y="375.4" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 384.5)"><tspan x="0" y="0">Teresinha Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="399.3" x2="43.4" y2="399.3"/>
+  <rect class="box" x="43.4" y="392.9" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 402.0)"><tspan x="0" y="0">Generosa Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="416.7" x2="43.4" y2="416.7"/>
+  <rect class="box" x="43.4" y="410.3" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 419.4)"><tspan x="0" y="0">Mário Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="434.1" x2="43.4" y2="434.1"/>
+  <rect class="box" x="43.4" y="427.8" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 436.8)"><tspan x="0" y="0">Divino Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="451.6" x2="43.4" y2="451.6"/>
+  <rect class="box" x="43.4" y="445.2" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 454.3)"><tspan x="0" y="0">Davi Alves da Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="469.0" x2="43.4" y2="469.0"/>
+  <rect class="box" x="43.4" y="462.7" width="256.9" height="12.7"/>
+  <text class="nm" transform="translate(53.2 471.7)"><tspan x="0" y="0">Jovino Alves da Cunha</tspan></text>
+</svg>
