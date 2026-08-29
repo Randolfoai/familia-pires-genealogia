@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 54.5">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.6px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <rect class="box" x="94.2" y="8.0" width="62" height="13.0"/>
+  <text class="cb" transform="translate(125.2 17.1)" text-anchor="middle"><tspan x="0" y="0">Raimunda</tspan></text>
+  <rect class="box" x="164.2" y="8.0" width="62" height="13.0"/>
+  <text class="cb" transform="translate(195.2 17.1)" text-anchor="middle"><tspan x="0" y="0">Mariano</tspan></text>
+  <path class="ln" d="M125.2,21.0 v2 l35.0,2"/>
+  <path class="ln" d="M195.2,21.0 v2 l-35.0,2"/>
+  <path class="ln" d="M160.2,24.0v5.0H28.8v11.0"/>
+  <line class="ln" x1="28.8" y1="38.0" x2="43.4" y2="38.0"/>
+  <rect class="box" x="43.4" y="31.5" width="256.9" height="13.0"/>
+  <text class="nm" transform="translate(53.2 40.3)"><tspan x="0" y="0">(sem informações)</tspan></text>
+</svg>
