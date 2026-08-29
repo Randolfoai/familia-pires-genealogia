@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 238.1">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .sub { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.2px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="sub" transform="translate(160.2 15.5)" text-anchor="middle"><tspan x="0" y="0">(Denominados Tronco)</tspan></text>
+  <rect class="box" x="94.2" y="34.2" width="62" height="13.25"/>
+  <text class="cb" transform="translate(125.2 43.5)" text-anchor="middle"><tspan x="0" y="0">Florência</tspan></text>
+  <rect class="box" x="164.2" y="34.2" width="62" height="13.25"/>
+  <text class="cb" transform="translate(195.2 43.5)" text-anchor="middle"><tspan x="0" y="0">Aniceto</tspan></text>
+  <path class="ln" d="M125.2,47.5 v2 l35.0,2"/>
+  <path class="ln" d="M195.2,47.5 v2 l-35.0,2"/>
+  <path class="ln" d="M160.2,50.5v5.0H28.8v162.7"/>
+  <line class="ln" x1="28.8" y1="69.5" x2="43.4" y2="69.5"/>
+  <rect class="box" x="43.4" y="61.1" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 71.6)"><tspan x="0" y="0">Alderina Pires de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="94.0" x2="43.4" y2="94.0"/>
+  <rect class="box" x="43.4" y="85.6" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 96.1)"><tspan x="0" y="0">Antônio Pires de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="118.4" x2="43.4" y2="118.4"/>
+  <rect class="box" x="43.4" y="110.0" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 120.5)"><tspan x="0" y="0">Ana Rita Pires de Araújo (Duca)</tspan></text>
+  <line class="ln" x1="28.8" y1="142.9" x2="43.4" y2="142.9"/>
+  <rect class="box" x="43.4" y="134.5" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 145.0)"><tspan x="0" y="0">José Pires de Araújo (Zéca Pires)</tspan></text>
+  <line class="ln" x1="28.8" y1="167.3" x2="43.4" y2="167.3"/>
+  <rect class="box" x="43.4" y="158.9" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 169.4)"><tspan x="0" y="0">Manoel Divino Pires de Araújo (Divino)</tspan></text>
+  <line class="ln" x1="28.8" y1="191.8" x2="43.4" y2="191.8"/>
+  <rect class="box" x="43.4" y="183.4" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 193.9)"><tspan x="0" y="0">Prudêncio Pires de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="216.2" x2="43.4" y2="216.2"/>
+  <rect class="box" x="43.4" y="207.8" width="256.9" height="16.8"/>
+  <text class="nm" transform="translate(53.2 218.3)"><tspan x="0" y="0">Telécio Pires de Araújo</tspan></text>
+</svg>
