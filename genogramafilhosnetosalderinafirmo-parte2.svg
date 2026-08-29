@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm1 { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 6.8px; font-weight: 700; }
+      .sp1 { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; font-weight: 700; }
+      .cap1 { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 5.6px; font-style: italic; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .pbox { fill: none; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="hdr" transform="translate(20 100.1)"><tspan x="0" y="0">Filhos de Maria e Custódio</tspan></text>
+  <path class="ln" d="M28.8,103.1v96.2"/>
+  <line class="ln" x1="28.8" y1="109.7" x2="43.4" y2="109.7"/>
+  <rect class="box" x="43.4" y="105.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 112.4)"><tspan x="0" y="0">Delfino Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="120.9" x2="43.4" y2="120.9"/>
+  <rect class="box" x="43.4" y="116.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 123.6)"><tspan x="0" y="0">Firmo Barbosa de Araújo Neto</tspan></text>
+  <line class="ln" x1="28.8" y1="132.1" x2="43.4" y2="132.1"/>
+  <rect class="box" x="43.4" y="127.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 134.8)"><tspan x="0" y="0">Alderina Neta Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="143.3" x2="43.4" y2="143.3"/>
+  <rect class="box" x="43.4" y="138.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 146.0)"><tspan x="0" y="0">Maria dos Anjos Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="154.5" x2="43.4" y2="154.5"/>
+  <rect class="box" x="43.4" y="149.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 157.2)"><tspan x="0" y="0">Maria da Conceição Barbosa Pimentel</tspan></text>
+  <line class="ln" x1="28.8" y1="165.7" x2="43.4" y2="165.7"/>
+  <rect class="box" x="43.4" y="161.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 168.4)"><tspan x="0" y="0">João Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="176.9" x2="43.4" y2="176.9"/>
+  <rect class="box" x="43.4" y="172.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 179.6)"><tspan x="0" y="0">José Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="188.1" x2="43.4" y2="188.1"/>
+  <rect class="box" x="43.4" y="183.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 190.8)"><tspan x="0" y="0">Domingos Barbosa de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="199.3" x2="43.4" y2="199.3"/>
+  <rect class="box" x="43.4" y="194.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 202.0)"><tspan x="0" y="0">Deocleciano Barbosa de Araújo (Deco)</tspan></text>
+  <text class="hdr" transform="translate(20 258.3)"><tspan x="0" y="0">Filhos de Benildes e Luiza</tspan></text>
+  <path class="ln" d="M28.8,261.3v62.5"/>
+  <line class="ln" x1="28.8" y1="267.8" x2="43.4" y2="267.8"/>
+  <rect class="box" x="43.4" y="263.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 270.5)"><tspan x="0" y="0">José de Assis Costa e Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="279.0" x2="43.4" y2="279.0"/>
+  <rect class="box" x="43.4" y="274.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 281.7)"><tspan x="0" y="0">Vânia Maria Costa e Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="290.2" x2="43.4" y2="290.2"/>
+  <rect class="box" x="43.4" y="285.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 292.9)"><tspan x="0" y="0">Lindalva Costa e Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="301.4" x2="43.4" y2="301.4"/>
+  <rect class="box" x="43.4" y="296.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 304.1)"><tspan x="0" y="0">Magnólia Costa e Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="312.6" x2="43.4" y2="312.6"/>
+  <rect class="box" x="43.4" y="308.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 315.3)"><tspan x="0" y="0">Felismar Costa e Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="323.8" x2="43.4" y2="323.8"/>
+  <rect class="box" x="43.4" y="319.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 326.5)"><tspan x="0" y="0">Alderina Costa e Silva</tspan></text>
+  <text class="hdr" transform="translate(20 382.8)"><tspan x="0" y="0">Filhos de Manoel e Rosa</tspan></text>
+  <path class="ln" d="M28.8,385.8v84.9"/>
+  <line class="ln" x1="28.8" y1="392.3" x2="43.4" y2="392.3"/>
+  <rect class="box" x="43.4" y="387.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 395.0)"><tspan x="0" y="0">Maria do Carmo Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="403.5" x2="43.4" y2="403.5"/>
+  <rect class="box" x="43.4" y="398.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 406.2)"><tspan x="0" y="0">Manoel Pereira de Araújo Filho</tspan></text>
+  <line class="ln" x1="28.8" y1="414.7" x2="43.4" y2="414.7"/>
+  <rect class="box" x="43.4" y="410.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 417.4)"><tspan x="0" y="0">Maria Luiza Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="425.9" x2="43.4" y2="425.9"/>
+  <rect class="box" x="43.4" y="421.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 428.6)"><tspan x="0" y="0">Alderina Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="437.1" x2="43.4" y2="437.1"/>
+  <rect class="box" x="43.4" y="432.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 439.8)"><tspan x="0" y="0">Antônia Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="448.3" x2="43.4" y2="448.3"/>
+  <rect class="box" x="43.4" y="443.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 451.0)"><tspan x="0" y="0">Adelice Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="459.5" x2="43.4" y2="459.5"/>
+  <rect class="box" x="43.4" y="454.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 462.2)"><tspan x="0" y="0">Adail Jales de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="470.7" x2="43.4" y2="470.7"/>
+  <rect class="box" x="43.4" y="466.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 473.4)"><tspan x="0" y="0">Somar Jales de Araújo</tspan></text>
+</svg>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm1 { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 6.8px; font-weight: 700; }
+      .sp1 { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; font-weight: 700; }
+      .cap1 { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 5.6px; font-style: italic; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .pbox { fill: none; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="sec" transform="translate(20 18.2)"><tspan x="0" y="0">Trinetos de Alderina e Firmo</tspan></text>
+  <text class="hdr" transform="translate(20 32.2)"><tspan x="0" y="0">Bisnetos de José e Anália</tspan></text>
+  <path class="ln" d="M28.8,35.2v152.2"/>
+  <line class="ln" x1="28.8" y1="41.8" x2="43.4" y2="41.8"/>
+  <rect class="box" x="43.4" y="37.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 44.5)"><tspan x="0" y="0">Lucas Santos de A. Almeida</tspan></text>
+  <line class="ln" x1="28.8" y1="53.0" x2="43.4" y2="53.0"/>
+  <rect class="box" x="43.4" y="48.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 55.7)"><tspan x="0" y="0">Kalebe Fernandes Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="64.2" x2="43.4" y2="64.2"/>
+  <rect class="box" x="43.4" y="59.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 66.9)"><tspan x="0" y="0">Bernardo Lorenzo</tspan></text>
+  <line class="ln" x1="28.8" y1="75.4" x2="43.4" y2="75.4"/>
+  <rect class="box" x="43.4" y="70.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 78.1)"><tspan x="0" y="0">Wagemann Valadares</tspan></text>
+  <line class="ln" x1="28.8" y1="86.6" x2="43.4" y2="86.6"/>
+  <rect class="box" x="43.4" y="81.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 89.3)"><tspan x="0" y="0">Olívia Lis Valadares</tspan></text>
+  <line class="ln" x1="28.8" y1="97.8" x2="43.4" y2="97.8"/>
+  <rect class="box" x="43.4" y="93.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 100.5)"><tspan x="0" y="0">Edgar Caldas de Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="109.0" x2="43.4" y2="109.0"/>
+  <rect class="box" x="43.4" y="104.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 111.7)"><tspan x="0" y="0">Prisha Araújo Gpta</tspan></text>
+  <line class="ln" x1="28.8" y1="120.2" x2="43.4" y2="120.2"/>
+  <rect class="box" x="43.4" y="115.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 122.9)"><tspan x="0" y="0">GabrieleMascedo de Sousa</tspan></text>
+  <line class="ln" x1="28.8" y1="131.4" x2="43.4" y2="131.4"/>
+  <rect class="box" x="43.4" y="126.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 134.1)"><tspan x="0" y="0">Rebeca Araújo Barbosa</tspan></text>
+  <line class="ln" x1="28.8" y1="142.6" x2="43.4" y2="142.6"/>
+  <rect class="box" x="43.4" y="137.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 145.3)"><tspan x="0" y="0">Sarah Emanuelly A. Ramos</tspan></text>
+  <line class="ln" x1="28.8" y1="153.8" x2="43.4" y2="153.8"/>
+  <rect class="box" x="43.4" y="149.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 156.5)"><tspan x="0" y="0">Miquéias Araújo Ramos</tspan></text>
+  <line class="ln" x1="28.8" y1="165.0" x2="43.4" y2="165.0"/>
+  <rect class="box" x="43.4" y="160.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 167.7)"><tspan x="0" y="0">José Alves Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="176.2" x2="43.4" y2="176.2"/>
+  <rect class="box" x="43.4" y="171.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 178.9)"><tspan x="0" y="0">Júlia Alves Araújo</tspan></text>
+  <line class="ln" x1="28.8" y1="187.4" x2="43.4" y2="187.4"/>
+  <rect class="box" x="43.4" y="182.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 190.1)"><tspan x="0" y="0">Eloá Souza Araújo Nascimento</tspan></text>
+  <text class="hdr" transform="translate(20 201.9)"><tspan x="0" y="0">Bisnetos de Maria e Custódio</tspan></text>
+  <path class="ln" d="M28.8,204.9v219.3"/>
+  <line class="ln" x1="28.8" y1="211.5" x2="43.4" y2="211.5"/>
+  <rect class="box" x="43.4" y="206.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 214.2)"><tspan x="0" y="0">Manoela Azevedo Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="222.7" x2="43.4" y2="222.7"/>
+  <rect class="box" x="43.4" y="218.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 225.4)"><tspan x="0" y="0">Heitor Azevedo Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="233.9" x2="43.4" y2="233.9"/>
+  <rect class="box" x="43.4" y="229.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 236.6)"><tspan x="0" y="0">Helena Azevedo Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="245.1" x2="43.4" y2="245.1"/>
+  <rect class="box" x="43.4" y="240.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 247.8)"><tspan x="0" y="0">Théo Azevedo Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="256.3" x2="43.4" y2="256.3"/>
+  <rect class="box" x="43.4" y="251.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 259.0)"><tspan x="0" y="0">Hadassa Vitória Azevedo Rodriguês</tspan></text>
+  <line class="ln" x1="28.8" y1="267.5" x2="43.4" y2="267.5"/>
+  <rect class="box" x="43.4" y="262.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 270.2)"><tspan x="0" y="0">Mariah Azevedo Mesquita</tspan></text>
+  <line class="ln" x1="28.8" y1="278.7" x2="43.4" y2="278.7"/>
+  <rect class="box" x="43.4" y="274.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 281.4)"><tspan x="0" y="0">Ravi Azevedo Mesquita</tspan></text>
+  <line class="ln" x1="28.8" y1="289.9" x2="43.4" y2="289.9"/>
+  <rect class="box" x="43.4" y="285.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 292.6)"><tspan x="0" y="0">Ana Clara Barboza Lima</tspan></text>
+  <line class="ln" x1="28.8" y1="301.1" x2="43.4" y2="301.1"/>
+  <rect class="box" x="43.4" y="296.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 303.8)"><tspan x="0" y="0">Pedro de Sousa Barboza</tspan></text>
+  <line class="ln" x1="28.8" y1="312.3" x2="43.4" y2="312.3"/>
+  <rect class="box" x="43.4" y="307.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 315.0)"><tspan x="0" y="0">Samuel de Souza Barboza</tspan></text>
+  <line class="ln" x1="28.8" y1="323.5" x2="43.4" y2="323.5"/>
+  <rect class="box" x="43.4" y="318.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 326.2)"><tspan x="0" y="0">Heloisa Pimentel Manês</tspan></text>
+  <line class="ln" x1="28.8" y1="334.7" x2="43.4" y2="334.7"/>
+  <rect class="box" x="43.4" y="330.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 337.4)"><tspan x="0" y="0">Eloá Pimentel de Manês</tspan></text>
+  <line class="ln" x1="28.8" y1="345.9" x2="43.4" y2="345.9"/>
+  <rect class="box" x="43.4" y="341.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 348.6)"><tspan x="0" y="0">Enzo Dias Pimentel</tspan></text>
+  <line class="ln" x1="28.8" y1="357.1" x2="43.4" y2="357.1"/>
+  <rect class="box" x="43.4" y="352.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 359.8)"><tspan x="0" y="0">Ana Liz Rodrigues Pimentel</tspan></text>
+  <line class="ln" x1="28.8" y1="368.3" x2="43.4" y2="368.3"/>
+  <rect class="box" x="43.4" y="363.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 371.0)"><tspan x="0" y="0">Vinícius Fernandes de Melo</tspan></text>
+  <line class="ln" x1="28.8" y1="379.5" x2="43.4" y2="379.5"/>
+  <rect class="box" x="43.4" y="374.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 382.2)"><tspan x="0" y="0">Miguel Bandeira Barboza</tspan></text>
+  <line class="ln" x1="28.8" y1="390.7" x2="43.4" y2="390.7"/>
+  <rect class="box" x="43.4" y="386.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 393.4)"><tspan x="0" y="0">Maria Cecília Fernandes da Rocha</tspan></text>
+  <line class="ln" x1="28.8" y1="401.9" x2="43.4" y2="401.9"/>
+  <rect class="box" x="43.4" y="397.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 404.6)"><tspan x="0" y="0">Inácio Bandeira Barboza</tspan></text>
+  <line class="ln" x1="28.8" y1="413.1" x2="43.4" y2="413.1"/>
+  <rect class="box" x="43.4" y="408.4" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 415.8)"><tspan x="0" y="0">Bernardo Pires Barboza</tspan></text>
+  <line class="ln" x1="28.8" y1="424.3" x2="43.4" y2="424.3"/>
+  <rect class="box" x="43.4" y="419.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 427.0)"><tspan x="0" y="0">Maria Andrade Barbosa</tspan></text>
+  <text class="hdr" transform="translate(20 438.8)"><tspan x="0" y="0">Bisnetos de Benildes e Luiza</tspan></text>
+  <path class="ln" d="M28.8,441.8v28.9"/>
+  <line class="ln" x1="28.8" y1="448.3" x2="43.4" y2="448.3"/>
+  <rect class="box" x="43.4" y="443.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 451.0)"><tspan x="0" y="0">Maria Cecília Costa Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="459.5" x2="43.4" y2="459.5"/>
+  <rect class="box" x="43.4" y="454.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 462.2)"><tspan x="0" y="0">João Lucas Costa Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="470.7" x2="43.4" y2="470.7"/>
+  <rect class="box" x="43.4" y="466.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 473.4)"><tspan x="0" y="0">Kaio Henrique Souza Pereira</tspan></text>
+</svg>
