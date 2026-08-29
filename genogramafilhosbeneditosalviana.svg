@@ -1,36 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 120.0">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 120">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.2px; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-size: 7.2px;
+      }
+
+      .st0, .st1 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+        font-weight: 700;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        font-size: 7.6px;
+      }
+
+      .st3 {
+        fill: #fff;
+        stroke-width: .5px;
+      }
+
+      .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: .9px;
+      }
     </style>
   </defs>
-  <rect class="box" x="94.2" y="8.0" width="62" height="12.0"/>
-  <text class="cb" transform="translate(125.2 16.6)" text-anchor="middle"><tspan x="0" y="0">Benedito</tspan></text>
-  <rect class="box" x="164.2" y="8.0" width="62" height="12.0"/>
-  <text class="cb" transform="translate(195.2 16.6)" text-anchor="middle"><tspan x="0" y="0">Salviana</tspan></text>
-  <path class="ln" d="M125.2,20.0 v2 l35.0,2"/>
-  <path class="ln" d="M195.2,20.0 v2 l-35.0,2"/>
-  <path class="ln" d="M160.2,23.0v5.0H28.8v78.8"/>
-  <line class="ln" x1="28.8" y1="34.8" x2="43.4" y2="34.8"/>
-  <rect class="box" x="43.4" y="29.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 36.9)"><tspan x="0" y="0">Benedita Pires de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="48.8" x2="43.4" y2="48.8"/>
-  <rect class="box" x="43.4" y="43.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 50.9)"><tspan x="0" y="0">Bibiana Pires de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="62.8" x2="43.4" y2="62.8"/>
-  <rect class="box" x="43.4" y="57.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 64.8)"><tspan x="0" y="0">Maria Pires de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="76.8" x2="43.4" y2="76.8"/>
-  <rect class="box" x="43.4" y="71.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 78.8)"><tspan x="0" y="0">Páde Pires de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="90.8" x2="43.4" y2="90.8"/>
-  <rect class="box" x="43.4" y="85.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 92.8)"><tspan x="0" y="0">Romão Pires de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="104.8" x2="43.4" y2="104.8"/>
-  <rect class="box" x="43.4" y="99.5" width="256.9" height="10.5"/>
-  <text class="nm" transform="translate(53.2 106.8)"><tspan x="0" y="0">Vitalina Pires de Oliveira</tspan></text>
+  <rect class="st3" x="94.2" y="8" width="62" height="12"/>
+  <g class="st2">
+    <text class="st1" transform="translate(111.2 16.6)"><tspan x="0" y="0">Benedito</tspan></text>
+  </g>
+  <rect class="st3" x="164.2" y="8" width="62" height="12"/>
+  <g class="st2">
+    <text class="st1" transform="translate(182.3 16.6)"><tspan x="0" y="0">Salviana</tspan></text>
+  </g>
+  <path class="st4" d="M125.2,20v2l35,2"/>
+  <path class="st4" d="M195.2,20v2l-35,2"/>
+  <path class="st4" d="M160.2,24v4H28.8v81.8"/>
+  <line class="st4" x1="28.8" y1="39.8" x2="43.4" y2="39.8"/>
+  <rect class="st3" x="43.4" y="34.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 41.9)"><tspan x="0" y="0">Benedita Pires de Oliveira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="53.8" x2="43.4" y2="53.8"/>
+  <rect class="st3" x="43.4" y="48.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 55.9)"><tspan x="0" y="0">Bibiana Pires de Oliveira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="67.8" x2="43.4" y2="67.8"/>
+  <rect class="st3" x="43.4" y="62.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 69.8)"><tspan x="0" y="0">Maria Pires de Oliveira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="81.8" x2="43.4" y2="81.8"/>
+  <rect class="st3" x="43.4" y="76.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 83.8)"><tspan x="0" y="0">Páde Pires de Oliveira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="95.8" x2="43.4" y2="95.8"/>
+  <rect class="st3" x="43.4" y="90.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 97.8)"><tspan x="0" y="0">Romão Pires de Oliveira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="109.8" x2="43.4" y2="109.8"/>
+  <rect class="st3" x="43.4" y="104.5" width="256.9" height="10.5"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 111.8)"><tspan x="0" y="0">Vitalina Pires de Oliveira</tspan></text>
+  </g>
 </svg>

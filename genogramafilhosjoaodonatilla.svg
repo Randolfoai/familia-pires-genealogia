@@ -1,33 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 113.0">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 113">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .sub { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.6px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-size: 7.6px;
+        font-weight: 700;
+      }
+
+      .st2 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
+
+      .st3 {
+        fill: #fff;
+        stroke-width: .5px;
+      }
+
+      .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: .9px;
+      }
     </style>
   </defs>
-  <text class="sub" transform="translate(160.2 8.0)" text-anchor="middle"><tspan x="0" y="0">(Denominados Troncos)</tspan></text>
-  <rect class="box" x="94.2" y="18.0" width="62" height="13.0"/>
-  <text class="cb" transform="translate(125.2 27.1)" text-anchor="middle"><tspan x="0" y="0">João Montano</tspan></text>
-  <rect class="box" x="164.2" y="18.0" width="62" height="13.0"/>
-  <text class="cb" transform="translate(195.2 27.1)" text-anchor="middle"><tspan x="0" y="0">Donatilla</tspan></text>
-  <path class="ln" d="M125.2,31.0 v2 l35.0,2"/>
-  <path class="ln" d="M195.2,31.0 v2 l-35.0,2"/>
-  <path class="ln" d="M160.2,34.0v5.0H28.8v60.0"/>
-  <line class="ln" x1="28.8" y1="47.5" x2="43.4" y2="47.5"/>
-  <rect class="box" x="43.4" y="41.5" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 49.8)"><tspan class="nm" x="0" y="0">Ênnio Tásso de Monção Pires</tspan><tspan class="sp"> / Lubelia Pinheiro Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="64.0" x2="43.4" y2="64.0"/>
-  <rect class="box" x="43.4" y="58.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 66.3)"><tspan x="0" y="0">Ana Fausta dos Santos Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="80.5" x2="43.4" y2="80.5"/>
-  <rect class="box" x="43.4" y="74.5" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 82.8)"><tspan class="nm" x="0" y="0">Rabindranath Tagore dos Santos Pires</tspan><tspan class="sp"> (Tagore)</tspan></text>
-  <line class="ln" x1="28.8" y1="97.0" x2="43.4" y2="97.0"/>
-  <rect class="box" x="43.4" y="91.0" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 99.3)"><tspan class="nm" x="0" y="0">Macariozano Agaphe de Monção Pires</tspan><tspan class="sp"> (Zeno)</tspan></text>
+  <rect class="st3" x="94.2" y="9" width="62" height="13"/>
+  <g class="st1">
+    <text class="st0" transform="translate(102.9 18.1)"><tspan x="0" y="0">João Montano</tspan></text>
+  </g>
+  <rect class="st3" x="164.2" y="9" width="62" height="13"/>
+  <g class="st1">
+    <text class="st0" transform="translate(180.4 18.1)"><tspan x="0" y="0">Donatilla</tspan></text>
+  </g>
+  <path class="st4" d="M125.2,22v4l35,2"/>
+  <path class="st4" d="M195.2,22v4l-35,2"/>
+  <path class="st4" d="M160.2,28v4H28.8v65"/>
+  <line class="st4" x1="28.8" y1="47.5" x2="43.4" y2="47.5"/>
+  <rect class="st3" x="43.4" y="41.5" width="256.9" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 49.8)"><tspan x="0" y="0">Ênnio Tásso de Monção Pires</tspan></text>
+    <text class="st2" transform="translate(143.7 49.8)"><tspan x="0" y="0" xml:space="preserve"> / Lubelia Pinheiro Pires</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="64" x2="43.4" y2="64"/>
+  <rect class="st3" x="43.4" y="58" width="256.9" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 66.3)"><tspan x="0" y="0">Ana Fausta dos Santos Pires</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="80.5" x2="43.4" y2="80.5"/>
+  <rect class="st3" x="43.4" y="74.5" width="256.9" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 82.8)"><tspan x="0" y="0">Rabindranath Tagore dos Santos Pires</tspan></text>
+    <text class="st2" transform="translate(170.7 82.8)"><tspan x="0" y="0" xml:space="preserve"> (Tagore)</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="97" x2="43.4" y2="97"/>
+  <rect class="st3" x="43.4" y="91" width="256.9" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 99.3)"><tspan x="0" y="0">Macariozano Agaphe de Monção Pires</tspan></text>
+    <text class="st2" transform="translate(171.8 99.3)"><tspan x="0" y="0" xml:space="preserve"> (Zeno)</tspan></text>
+  </g>
 </svg>

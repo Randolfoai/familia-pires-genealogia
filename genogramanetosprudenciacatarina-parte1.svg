@@ -1,99 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st2, .st3, .st4 {
+        font-weight: 700;
+      }
+
+      .st0, .st4 {
+        font-size: 7.4px;
+      }
+
+      .st5 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st5, .st6 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st6 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st2 {
+        font-size: 11.5px;
+      }
+
+      .st3 {
+        font-size: 8px;
+      }
+
+      .st3, .st4 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Prudêncio e Catarina e seus respectivos cônjuges</tspan></text>
-  <text class="hdr" transform="translate(20 38.8)"><tspan x="0" y="0">Filhos de Aroldo e Maria José (Aparecida)</tspan></text>
-  <path class="ln" d="M28.8,41.8v39.2"/>
-  <line class="ln" x1="28.8" y1="51.1" x2="43.4" y2="51.1"/>
-  <rect class="box" x="43.4" y="45.4" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 53.8)"><tspan class="nm" x="0" y="0">Meiriane Alves Pires</tspan><tspan class="sp"> / Deugo Sirqueira</tspan></text>
-  <line class="ln" x1="28.8" y1="66.0" x2="43.4" y2="66.0"/>
-  <rect class="box" x="43.4" y="60.4" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 68.7)"><tspan class="nm" x="0" y="0">Mervaldo Alves Pires</tspan><tspan class="sp"> / Maria de Sousa</tspan></text>
-  <line class="ln" x1="28.8" y1="81.0" x2="43.4" y2="81.0"/>
-  <rect class="box" x="43.4" y="75.3" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 83.7)"><tspan class="nm" x="0" y="0">Prudêncio Alves Pires</tspan><tspan class="sp"> / Meirian</tspan></text>
-  <text class="hdr" transform="translate(20 95.7)"><tspan x="0" y="0">Filhos de Alba e Francisco</tspan></text>
-  <path class="ln" d="M28.8,98.7v39.2"/>
-  <line class="ln" x1="28.8" y1="108.0" x2="43.4" y2="108.0"/>
-  <rect class="box" x="43.4" y="102.3" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 110.7)"><tspan x="0" y="0">Lauro Moura Nunes</tspan></text>
-  <line class="ln" x1="28.8" y1="122.9" x2="43.4" y2="122.9"/>
-  <rect class="box" x="43.4" y="117.2" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 125.6)"><tspan class="nm" x="0" y="0">Amilton Moura Nunes</tspan><tspan class="sp"> / Rejane Magalli</tspan></text>
-  <line class="ln" x1="28.8" y1="137.9" x2="43.4" y2="137.9"/>
-  <rect class="box" x="43.4" y="132.2" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 140.6)"><tspan class="nm" x="0" y="0">Carlos Moura Nunes</tspan><tspan class="sp"> / Silvia Pereira Nunes</tspan></text>
-  <text class="hdr" transform="translate(20 152.6)"><tspan x="0" y="0">Filhos de Jovino e Maria</tspan></text>
-  <path class="ln" d="M28.8,155.6v69.1"/>
-  <line class="ln" x1="28.8" y1="164.9" x2="43.4" y2="164.9"/>
-  <rect class="box" x="43.4" y="159.2" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 167.6)"><tspan x="0" y="0">Glécia Lopes Pire</tspan></text>
-  <line class="ln" x1="28.8" y1="179.8" x2="43.4" y2="179.8"/>
-  <rect class="box" x="43.4" y="174.1" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 182.5)"><tspan x="0" y="0">Katiane Lopes Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="194.8" x2="43.4" y2="194.8"/>
-  <rect class="box" x="43.4" y="189.1" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 197.5)"><tspan x="0" y="0">Gledson P. Lopes Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="209.8" x2="43.4" y2="209.8"/>
-  <rect class="box" x="43.4" y="204.1" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 212.5)"><tspan x="0" y="0">Klévio Lopes Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="224.7" x2="43.4" y2="224.7"/>
-  <rect class="box" x="43.4" y="219.0" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 227.4)"><tspan x="0" y="0">Klebia Raylla Lopes Pires</tspan></text>
-  <text class="hdr" transform="translate(20 239.4)"><tspan x="0" y="0">Filhos de José (Zeca) e Odilha</tspan></text>
-  <path class="ln" d="M28.8,242.4v9.3"/>
-  <line class="ln" x1="28.8" y1="251.7" x2="43.4" y2="251.7"/>
-  <rect class="box" x="43.4" y="246.0" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 254.4)"><tspan x="0" y="0">Marcelina Pires Reis</tspan></text>
-  <text class="hdr" transform="translate(20 266.4)"><tspan x="0" y="0">Filhos de Albertina e Ademar</tspan></text>
-  <path class="ln" d="M28.8,269.4v39.2"/>
-  <line class="ln" x1="28.8" y1="278.6" x2="43.4" y2="278.6"/>
-  <rect class="box" x="43.4" y="273.0" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 281.3)"><tspan class="nm" x="0" y="0">Julemglesia Pires Nepunucena</tspan><tspan class="sp"> / Gilvan Moreir</tspan></text>
-  <line class="ln" x1="28.8" y1="293.6" x2="43.4" y2="293.6"/>
-  <rect class="box" x="43.4" y="287.9" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 296.3)"><tspan class="nm" x="0" y="0">Claudiene Pires Nepunucena</tspan><tspan class="sp"> / Junior</tspan></text>
-  <line class="ln" x1="28.8" y1="308.6" x2="43.4" y2="308.6"/>
-  <rect class="box" x="43.4" y="302.9" width="256.9" height="11.4"/>
-  <text transform="translate(53.2 311.3)"><tspan class="nm" x="0" y="0">Paulo Pires Nepunucena</tspan><tspan class="sp"> / Ludimila</tspan></text>
-  <text class="hdr" transform="translate(20 323.3)"><tspan x="0" y="0">Filhos de Maria da Paz (Duria)</tspan></text>
-  <path class="ln" d="M28.8,326.3v24.2"/>
-  <line class="ln" x1="28.8" y1="335.5" x2="43.4" y2="335.5"/>
-  <rect class="box" x="43.4" y="329.8" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 338.2)"><tspan x="0" y="0">Mateus Pires de Castro</tspan></text>
-  <line class="ln" x1="28.8" y1="350.5" x2="43.4" y2="350.5"/>
-  <rect class="box" x="43.4" y="344.8" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 353.2)"><tspan x="0" y="0">Marcus Pires de Castro</tspan></text>
-  <text class="hdr" transform="translate(20 365.2)"><tspan x="0" y="0">Filhos de Manoel e Naide</tspan></text>
-  <path class="ln" d="M28.8,368.2v24.2"/>
-  <line class="ln" x1="28.8" y1="377.5" x2="43.4" y2="377.5"/>
-  <rect class="box" x="43.4" y="371.8" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 380.2)"><tspan x="0" y="0">Sangele Pires Sousa</tspan></text>
-  <line class="ln" x1="28.8" y1="392.4" x2="43.4" y2="392.4"/>
-  <rect class="box" x="43.4" y="386.7" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 395.1)"><tspan x="0" y="0">Fernando Pires Sousa</tspan></text>
-  <text class="hdr" transform="translate(20 407.1)"><tspan x="0" y="0">Filhas de Maria Lúcia e Valmi</tspan></text>
-  <path class="ln" d="M28.8,410.1v9.3"/>
-  <line class="ln" x1="28.8" y1="419.4" x2="43.4" y2="419.4"/>
-  <rect class="box" x="43.4" y="413.7" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 422.1)"><tspan x="0" y="0">Leticia Nunes de Oliveir</tspan></text>
-  <text class="hdr" transform="translate(20 434.1)"><tspan x="0" y="0">Filhos de Aurelice e Justenir</tspan></text>
-  <path class="ln" d="M28.8,437.1v24.2"/>
-  <line class="ln" x1="28.8" y1="446.4" x2="43.4" y2="446.4"/>
-  <rect class="box" x="43.4" y="440.7" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 449.1)"><tspan x="0" y="0">Lucas Serpa Campos</tspan></text>
-  <line class="ln" x1="28.8" y1="461.3" x2="43.4" y2="461.3"/>
-  <rect class="box" x="43.4" y="455.6" width="256.9" height="11.4"/>
-  <text class="nm" transform="translate(53.2 464.0)"><tspan x="0" y="0">Deborah Serpa Campos</tspan></text>
+  <g class="st1">
+    <text class="st2" transform="translate(25.3 18)"><tspan x="0" y="0">Netos de Prudêncio e Catarina e seus respectivos cônjuges</tspan></text>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 32.3)"><tspan x="0" y="0">Filhos de Aroldo e Maria José (Aparecida)</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,35.3v39.2"/>
+    <line class="st5" x1="28.8" y1="44.6" x2="43.4" y2="44.6"/>
+    <rect class="st6" x="43.4" y="38.9" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 47.3)"><tspan x="0" y="0">Meiriane Alves Pires</tspan></text>
+      <text class="st4" transform="translate(114.3 47.3)"><tspan x="0" y="0" xml:space="preserve"> / Deugo Sirqueira</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="59.5" x2="43.4" y2="59.5"/>
+    <rect class="st6" x="43.4" y="53.9" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 62.2)"><tspan x="0" y="0">Mervaldo Alves Pires</tspan></text>
+      <text class="st4" transform="translate(116.2 62.2)"><tspan x="0" y="0" xml:space="preserve"> / Maria de Sousa</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="74.5" x2="43.4" y2="74.5"/>
+    <rect class="st6" x="43.4" y="68.8" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 77.2)"><tspan x="0" y="0">Prudêncio Alves Pires</tspan></text>
+      <text class="st4" transform="translate(118.4 77.2)"><tspan x="0" y="0" xml:space="preserve"> / Meirian</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 91)"><tspan x="0" y="0">Filhos de Alba e Francisco</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,94v39.2"/>
+    <line class="st5" x1="28.8" y1="103.3" x2="43.4" y2="103.3"/>
+    <rect class="st6" x="43.4" y="97.6" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 106)"><tspan x="0" y="0">Lauro Moura Nunes</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="118.2" x2="43.4" y2="118.2"/>
+    <rect class="st6" x="43.4" y="112.5" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 120.9)"><tspan x="0" y="0">Amilton Moura Nunes</tspan></text>
+      <text class="st4" transform="translate(121.4 120.9)"><tspan x="0" y="0" xml:space="preserve"> / Rejane Magalli</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="133.2" x2="43.4" y2="133.2"/>
+    <rect class="st6" x="43.4" y="127.5" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 135.9)"><tspan x="0" y="0">Carlos Moura Nunes</tspan></text>
+      <text class="st4" transform="translate(115.9 135.9)"><tspan x="0" y="0" xml:space="preserve"> / Silvia Pereira Nunes</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 149.7)"><tspan x="0" y="0">Filhos de Jovino e Maria</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,152.7v69.1"/>
+    <line class="st5" x1="28.8" y1="162" x2="43.4" y2="162"/>
+    <rect class="st6" x="43.4" y="156.3" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 164.7)"><tspan x="0" y="0">Glécia Lopes Pire</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="176.9" x2="43.4" y2="176.9"/>
+    <rect class="st6" x="43.4" y="171.2" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 179.6)"><tspan x="0" y="0">Katiane Lopes Pires</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="191.9" x2="43.4" y2="191.9"/>
+    <rect class="st6" x="43.4" y="186.2" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 194.6)"><tspan x="0" y="0">Gledson P. Lopes Pires</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="206.9" x2="43.4" y2="206.9"/>
+    <rect class="st6" x="43.4" y="201.2" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 209.6)"><tspan x="0" y="0">Klévio Lopes Pires</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="221.8" x2="43.4" y2="221.8"/>
+    <rect class="st6" x="43.4" y="216.1" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 224.5)"><tspan x="0" y="0">Klebia Raylla Lopes Pires</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 238.3)"><tspan x="0" y="0">Filhos de José (Zeca) e Odilha</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,241.3v9.3"/>
+    <line class="st5" x1="28.8" y1="250.6" x2="43.4" y2="250.6"/>
+    <rect class="st6" x="43.4" y="244.9" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 253.3)"><tspan x="0" y="0">Marcelina Pires Reis</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 267.1)"><tspan x="0" y="0">Filhos de Albertina e Ademar</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,270.1v39.2"/>
+    <line class="st5" x1="28.8" y1="279.3" x2="43.4" y2="279.3"/>
+    <rect class="st6" x="43.4" y="273.7" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 282)"><tspan x="0" y="0">Julemglesia Pires Nepunucena</tspan></text>
+      <text class="st4" transform="translate(144.2 282)"><tspan x="0" y="0" xml:space="preserve"> / Gilvan Moreir</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="294.3" x2="43.4" y2="294.3"/>
+    <rect class="st6" x="43.4" y="288.6" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 297)"><tspan x="0" y="0">Claudiene Pires Nepunucena</tspan></text>
+      <text class="st4" transform="translate(140.5 297)"><tspan x="0" y="0" xml:space="preserve"> / Junior</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="309.3" x2="43.4" y2="309.3"/>
+    <rect class="st6" x="43.4" y="303.6" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 312)"><tspan x="0" y="0">Paulo Pires Nepunucena</tspan></text>
+      <text class="st4" transform="translate(126.9 312)"><tspan x="0" y="0" xml:space="preserve"> / Ludimila</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 325.9)"><tspan x="0" y="0">Filhos de Maria da Paz (Duria)</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,328.9v24.2"/>
+    <line class="st5" x1="28.8" y1="338.1" x2="43.4" y2="338.1"/>
+    <rect class="st6" x="43.4" y="332.4" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 340.8)"><tspan x="0" y="0">Mateus Pires de Castro</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="353.1" x2="43.4" y2="353.1"/>
+    <rect class="st6" x="43.4" y="347.4" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 355.8)"><tspan x="0" y="0">Marcus Pires de Castro</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 369.6)"><tspan x="0" y="0">Filhos de Manoel e Naide</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,372.6v24.2"/>
+    <line class="st5" x1="28.8" y1="381.9" x2="43.4" y2="381.9"/>
+    <rect class="st6" x="43.4" y="376.2" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 384.6)"><tspan x="0" y="0">Sangele Pires Sousa</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="396.8" x2="43.4" y2="396.8"/>
+    <rect class="st6" x="43.4" y="391.1" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 399.5)"><tspan x="0" y="0">Fernando Pires Sousa</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 413.3)"><tspan x="0" y="0">Filhas de Maria Lúcia e Valmi</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,416.3v9.3"/>
+    <line class="st5" x1="28.8" y1="425.6" x2="43.4" y2="425.6"/>
+    <rect class="st6" x="43.4" y="419.9" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 428.3)"><tspan x="0" y="0">Leticia Nunes de Oliveir</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 442.1)"><tspan x="0" y="0">Filhos de Aurelice e Justenir</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,445.1v24.2"/>
+    <line class="st5" x1="28.8" y1="454.4" x2="43.4" y2="454.4"/>
+    <rect class="st6" x="43.4" y="448.7" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 457.1)"><tspan x="0" y="0">Lucas Serpa Campos</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="469.3" x2="43.4" y2="469.3"/>
+    <rect class="st6" x="43.4" y="463.6" width="256.9" height="11.4"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 472)"><tspan x="0" y="0">Deborah Serpa Campos</tspan></text>
+    </g>
+  </g>
 </svg>

@@ -1,89 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st2, .st3, .st4 {
+        font-weight: 700;
+      }
+
+      .st0, .st4 {
+        font-size: 7.4px;
+      }
+
+      .st5 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st5, .st6 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st6 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st2 {
+        font-size: 11.5px;
+      }
+
+      .st3 {
+        font-size: 8px;
+      }
+
+      .st3, .st4 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Telécio e Gercilia e seus respectivos cônjuges</tspan></text>
-  <text class="hdr" transform="translate(20 38.8)"><tspan x="0" y="0">Filhos de Elisa e Severino</tspan></text>
-  <path class="ln" d="M28.8,41.8v42.5"/>
-  <line class="ln" x1="28.8" y1="52.0" x2="43.4" y2="52.0"/>
-  <rect class="box" x="43.4" y="45.9" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 54.7)"><tspan x="0" y="0">Maria Aparecida Silva Aguiar</tspan></text>
-  <line class="ln" x1="28.8" y1="68.2" x2="43.4" y2="68.2"/>
-  <rect class="box" x="43.4" y="62.1" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 70.9)"><tspan class="nm" x="0" y="0">Maria Raimunda Silva e Souza</tspan><tspan class="sp"> / Adail Pereira de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="84.3" x2="43.4" y2="84.3"/>
-  <rect class="box" x="43.4" y="78.3" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 87.0)"><tspan class="nm" x="0" y="0">Manoel Divino Silva Aguiar</tspan><tspan class="sp"> / Luiza Nazareth</tspan></text>
-  <text class="hdr" transform="translate(20 101.7)"><tspan x="0" y="0">Filhos de Dorival e Basilia</tspan></text>
-  <path class="ln" d="M28.8,104.7v161.5"/>
-  <line class="ln" x1="28.8" y1="123.9" x2="43.4" y2="123.9"/>
-  <rect class="box" x="43.4" y="108.8" width="256.9" height="30.1"/>
-  <text class="nm" transform="translate(53.2 117.3)"><tspan x="0" y="0">Mardones Pires Martins</tspan></text>
-  <text class="sp" transform="translate(53.2 126.3)"><tspan x="0" y="0">/ Elenice (1º casamento)</tspan></text>
-  <text class="sp" transform="translate(53.2 135.3)"><tspan x="0" y="0">/ Cleide Rodrigues de O. Martins (2º casamento)</tspan></text>
-  <line class="ln" x1="28.8" y1="149.1" x2="43.4" y2="149.1"/>
-  <rect class="box" x="43.4" y="143.1" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 151.8)"><tspan class="nm" x="0" y="0">Neuraiza Pires Martins Alves</tspan><tspan class="sp"> / Manoel Alves</tspan></text>
-  <line class="ln" x1="28.8" y1="174.3" x2="43.4" y2="174.3"/>
-  <rect class="box" x="43.4" y="159.3" width="256.9" height="30.1"/>
-  <text class="nm" transform="translate(53.2 167.7)"><tspan x="0" y="0">Odeones Pires Martins</tspan></text>
-  <text class="sp" transform="translate(53.2 176.7)"><tspan x="0" y="0">/ Tereza (1º casamento)</tspan></text>
-  <text class="sp" transform="translate(53.2 185.8)"><tspan x="0" y="0">/ Domingas (2º casamento)</tspan></text>
-  <line class="ln" x1="28.8" y1="208.6" x2="43.4" y2="208.6"/>
-  <rect class="box" x="43.4" y="193.5" width="256.9" height="30.1"/>
-  <text class="nm" transform="translate(53.2 202.0)"><tspan x="0" y="0">Marnos Pires Martins</tspan></text>
-  <text class="sp" transform="translate(53.2 211.0)"><tspan x="0" y="0">/ Ilza Costine (1º casamento)</tspan></text>
-  <text class="sp" transform="translate(53.2 220.0)"><tspan x="0" y="0">/ Samyla (2º casamento)</tspan></text>
-  <line class="ln" x1="28.8" y1="233.8" x2="43.4" y2="233.8"/>
-  <rect class="box" x="43.4" y="227.8" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 236.5)"><tspan class="nm" x="0" y="0">Neusivanes Pires Martins Alves</tspan><tspan class="sp"> / Moacir Alves</tspan></text>
-  <line class="ln" x1="28.8" y1="250.0" x2="43.4" y2="250.0"/>
-  <rect class="box" x="43.4" y="244.0" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 252.7)"><tspan class="nm" x="0" y="0">Leoiza Pires Martins Fiuza</tspan><tspan class="sp"> / Gleuber Luciano</tspan></text>
-  <line class="ln" x1="28.8" y1="266.2" x2="43.4" y2="266.2"/>
-  <rect class="box" x="43.4" y="260.2" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 268.9)"><tspan x="0" y="0">Maria Zenádia Pires Martins</tspan></text>
-  <text class="hdr" transform="translate(20 283.5)"><tspan x="0" y="0">Filhos de Eurides e Ozorio</tspan></text>
-  <path class="ln" d="M28.8,286.5v74.9"/>
-  <line class="ln" x1="28.8" y1="296.7" x2="43.4" y2="296.7"/>
-  <rect class="box" x="43.4" y="290.7" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 299.4)"><tspan class="nm" x="0" y="0">Maria Eudete Freitas da Silva</tspan><tspan class="sp"> / José Luiz Teixeira</tspan></text>
-  <line class="ln" x1="28.8" y1="312.9" x2="43.4" y2="312.9"/>
-  <rect class="box" x="43.4" y="306.9" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 315.6)"><tspan x="0" y="0">Raimundo da Silva Freitas Neto</tspan></text>
-  <line class="ln" x1="28.8" y1="329.1" x2="43.4" y2="329.1"/>
-  <rect class="box" x="43.4" y="323.1" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 331.8)"><tspan x="0" y="0">Maria Anete Freitas da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="345.3" x2="43.4" y2="345.3"/>
-  <rect class="box" x="43.4" y="339.2" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 348.0)"><tspan class="nm" x="0" y="0">Maria de Jesus Freitas da Silva</tspan><tspan class="sp"> / José Carlos Barbosa Ferreira</tspan></text>
-  <line class="ln" x1="28.8" y1="361.4" x2="43.4" y2="361.4"/>
-  <rect class="box" x="43.4" y="355.4" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 364.1)"><tspan class="nm" x="0" y="0">Elizete Freitas da Silva Craveiro</tspan><tspan class="sp"> / Osmano Souza Craveiro</tspan></text>
-  <text class="hdr" transform="translate(20 378.8)"><tspan x="0" y="0">Filhos de Lourival e Raimunda</tspan></text>
-  <path class="ln" d="M28.8,381.8v74.9"/>
-  <line class="ln" x1="28.8" y1="392.0" x2="43.4" y2="392.0"/>
-  <rect class="box" x="43.4" y="385.9" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 394.7)"><tspan class="nm" x="0" y="0">Maria de Jesus Milhomem da Silva</tspan><tspan class="sp"> / Daniel Nunes</tspan></text>
-  <line class="ln" x1="28.8" y1="408.2" x2="43.4" y2="408.2"/>
-  <rect class="box" x="43.4" y="402.1" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 410.9)"><tspan class="nm" x="0" y="0">Renato Milhomem da Silva</tspan><tspan class="sp"> / Fabiula Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="424.3" x2="43.4" y2="424.3"/>
-  <rect class="box" x="43.4" y="418.3" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 427.0)"><tspan class="nm" x="0" y="0">Eduardo Milhomem da Silva</tspan><tspan class="sp"> / Andressa Farias da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="440.5" x2="43.4" y2="440.5"/>
-  <rect class="box" x="43.4" y="434.5" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 443.2)"><tspan class="nm" x="0" y="0">Elizaldo Milhomem da Silva</tspan><tspan class="sp"> / Tânia de Sousa Pinheiro</tspan></text>
-  <line class="ln" x1="28.8" y1="456.7" x2="43.4" y2="456.7"/>
-  <rect class="box" x="43.4" y="450.7" width="256.9" height="12.0"/>
-  <text transform="translate(53.2 459.4)"><tspan class="nm" x="0" y="0">Fabio Milhomem da Silva</tspan><tspan class="sp"> / Zenaide Tavares Vegas</tspan></text>
+  <g class="st1">
+    <text class="st2" transform="translate(35.1 14)"><tspan x="0" y="0">Netos de Telécio e Gercilia e seus respectivos cônjuges</tspan></text>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 34.1)"><tspan x="0" y="0">Filhos de Elisa e Severino</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,37.1v42.5"/>
+    <line class="st5" x1="28.8" y1="47.3" x2="43.4" y2="47.3"/>
+    <rect class="st6" x="43.4" y="41.2" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 50)"><tspan x="0" y="0">Maria Aparecida Silva Aguiar</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="63.5" x2="43.4" y2="63.5"/>
+    <rect class="st6" x="43.4" y="57.4" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 66.2)"><tspan x="0" y="0">Maria Raimunda Silva e Souza</tspan></text>
+      <text class="st4" transform="translate(145.5 66.2)"><tspan x="0" y="0" xml:space="preserve"> / Adail Pereira de Souza</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="79.6" x2="43.4" y2="79.6"/>
+    <rect class="st6" x="43.4" y="73.6" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 82.3)"><tspan x="0" y="0">Manoel Divino Silva Aguiar</tspan></text>
+      <text class="st4" transform="translate(137.6 82.3)"><tspan x="0" y="0" xml:space="preserve"> / Luiza Nazareth</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 102.2)"><tspan x="0" y="0">Filhos de Dorival e Basilia</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,105.2v161.5"/>
+    <line class="st5" x1="28.8" y1="124.4" x2="43.4" y2="124.4"/>
+    <rect class="st6" x="43.4" y="109.3" width="256.9" height="30.1"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 117.8)"><tspan x="0" y="0">Mardones Pires Martins</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 126.8)"><tspan x="0" y="0">/ Elenice (1º casamento)</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 135.8)"><tspan x="0" y="0">/ Cleide Rodrigues de O. Martins (2º casamento)</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="149.6" x2="43.4" y2="149.6"/>
+    <rect class="st6" x="43.4" y="143.6" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 152.3)"><tspan x="0" y="0">Neuraiza Pires Martins Alves</tspan></text>
+      <text class="st4" transform="translate(139.8 152.3)"><tspan x="0" y="0" xml:space="preserve"> / Manoel Alves</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="174.8" x2="43.4" y2="174.8"/>
+    <rect class="st6" x="43.4" y="159.8" width="256.9" height="30.1"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 168.2)"><tspan x="0" y="0">Odeones Pires Martins</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 177.2)"><tspan x="0" y="0">/ Tereza (1º casamento)</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 186.3)"><tspan x="0" y="0">/ Domingas (2º casamento)</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="209.1" x2="43.4" y2="209.1"/>
+    <rect class="st6" x="43.4" y="194" width="256.9" height="30.1"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 202.5)"><tspan x="0" y="0">Marnos Pires Martins</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 211.5)"><tspan x="0" y="0">/ Ilza Costine (1º casamento)</tspan></text>
+    </g>
+    <g class="st1">
+      <text class="st4" transform="translate(53.2 220.5)"><tspan x="0" y="0">/ Samyla (2º casamento)</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="234.3" x2="43.4" y2="234.3"/>
+    <rect class="st6" x="43.4" y="228.3" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 237)"><tspan x="0" y="0">Neusivanes Pires Martins Alves</tspan></text>
+      <text class="st4" transform="translate(146.5 237)"><tspan x="0" y="0" xml:space="preserve"> / Moacir Alves</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="250.5" x2="43.4" y2="250.5"/>
+    <rect class="st6" x="43.4" y="244.5" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 253.2)"><tspan x="0" y="0">Leoiza Pires Martins Fiuza</tspan></text>
+      <text class="st4" transform="translate(133.4 253.2)"><tspan x="0" y="0" xml:space="preserve"> / Gleuber Luciano</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="266.7" x2="43.4" y2="266.7"/>
+    <rect class="st6" x="43.4" y="260.7" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 269.4)"><tspan x="0" y="0">Maria Zenádia Pires Martins</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 289.3)"><tspan x="0" y="0">Filhos de Eurides e Ozorio</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,292.3v74.9"/>
+    <line class="st5" x1="28.8" y1="302.5" x2="43.4" y2="302.5"/>
+    <rect class="st6" x="43.4" y="296.5" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 305.2)"><tspan x="0" y="0">Maria Eudete Freitas da Silva</tspan></text>
+      <text class="st4" transform="translate(140.8 305.2)"><tspan x="0" y="0" xml:space="preserve"> / José Luiz Teixeira</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="318.7" x2="43.4" y2="318.7"/>
+    <rect class="st6" x="43.4" y="312.7" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 321.4)"><tspan x="0" y="0">Raimundo da Silva Freitas Neto</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="334.9" x2="43.4" y2="334.9"/>
+    <rect class="st6" x="43.4" y="328.9" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 337.6)"><tspan x="0" y="0">Maria Anete Freitas da Silva</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="351.1" x2="43.4" y2="351.1"/>
+    <rect class="st6" x="43.4" y="345" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 353.8)"><tspan x="0" y="0">Maria de Jesus Freitas da Silva</tspan></text>
+      <text class="st4" transform="translate(143.9 353.8)"><tspan x="0" y="0" xml:space="preserve"> / José Carlos Barbosa Ferreira</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="367.2" x2="43.4" y2="367.2"/>
+    <rect class="st6" x="43.4" y="361.2" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 369.9)"><tspan x="0" y="0">Elizete Freitas da Silva Craveiro</tspan></text>
+      <text class="st4" transform="translate(148 369.9)"><tspan x="0" y="0" xml:space="preserve"> / Osmano Souza Craveiro</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st3" transform="translate(20 389.8)"><tspan x="0" y="0">Filhos de Lourival e Raimunda</tspan></text>
+    </g>
+    <path class="st5" d="M28.8,392.8v74.9"/>
+    <line class="st5" x1="28.8" y1="403" x2="43.4" y2="403"/>
+    <rect class="st6" x="43.4" y="396.9" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 405.7)"><tspan x="0" y="0">Maria de Jesus Milhomem da Silva</tspan></text>
+      <text class="st4" transform="translate(157.7 405.7)"><tspan x="0" y="0" xml:space="preserve"> / Daniel Nunes</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="419.2" x2="43.4" y2="419.2"/>
+    <rect class="st6" x="43.4" y="413.1" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 421.9)"><tspan x="0" y="0">Renato Milhomem da Silva</tspan></text>
+      <text class="st4" transform="translate(135.4 421.9)"><tspan x="0" y="0" xml:space="preserve"> / Fabiula Barbosa</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="435.3" x2="43.4" y2="435.3"/>
+    <rect class="st6" x="43.4" y="429.3" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 438)"><tspan x="0" y="0">Eduardo Milhomem da Silva</tspan></text>
+      <text class="st4" transform="translate(139.9 438)"><tspan x="0" y="0" xml:space="preserve"> / Andressa Farias da Silva</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="451.5" x2="43.4" y2="451.5"/>
+    <rect class="st6" x="43.4" y="445.5" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 454.2)"><tspan x="0" y="0">Elizaldo Milhomem da Silva</tspan></text>
+      <text class="st4" transform="translate(138.6 454.2)"><tspan x="0" y="0" xml:space="preserve"> / Tânia de Sousa Pinheiro</tspan></text>
+    </g>
+    <line class="st5" x1="28.8" y1="467.7" x2="43.4" y2="467.7"/>
+    <rect class="st6" x="43.4" y="461.7" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 470.4)"><tspan x="0" y="0">Fabio Milhomem da Silva</tspan></text>
+      <text class="st4" transform="translate(130.9 470.4)"><tspan x="0" y="0" xml:space="preserve"> / Zenaide Tavares Vegas</tspan></text>
+    </g>
+  </g>
 </svg>

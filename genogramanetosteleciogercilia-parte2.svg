@@ -1,105 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st3 {
+        font-weight: 700;
+      }
+
+      .st0, .st3 {
+        font-size: 7.4px;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st4, .st5 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st5 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st2 {
+        font-size: 8px;
+      }
+
+      .st2, .st3 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="hdr" transform="translate(20 14.0)"><tspan x="0" y="0">Filhos de Gervásio e Antônia</tspan></text>
-  <path class="ln" d="M28.8,17.0v81.9"/>
-  <line class="ln" x1="28.8" y1="26.0" x2="43.4" y2="26.0"/>
-  <rect class="box" x="43.4" y="20.4" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 28.7)"><tspan class="nm" x="0" y="0">Jurcilene Alves Pires dos Reis</tspan><tspan class="sp"> / Carlos Franco S. dos Reis</tspan></text>
-  <line class="ln" x1="28.8" y1="40.6" x2="43.4" y2="40.6"/>
-  <rect class="box" x="43.4" y="35.0" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 43.3)"><tspan x="0" y="0">José Alves Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="55.2" x2="43.4" y2="55.2"/>
-  <rect class="box" x="43.4" y="49.6" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 57.9)"><tspan class="nm" x="0" y="0">Luciene Alves Pires</tspan><tspan class="sp"> / Sérgio Alves Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="69.7" x2="43.4" y2="69.7"/>
-  <rect class="box" x="43.4" y="64.1" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 72.4)"><tspan x="0" y="0">Rosirene Alves Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="84.3" x2="43.4" y2="84.3"/>
-  <rect class="box" x="43.4" y="78.7" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 87.0)"><tspan class="nm" x="0" y="0">Maria José Alves Pires</tspan><tspan class="sp"> / Diogo Vieira Castro</tspan></text>
-  <line class="ln" x1="28.8" y1="98.9" x2="43.4" y2="98.9"/>
-  <rect class="box" x="43.4" y="93.3" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 101.6)"><tspan class="nm" x="0" y="0">Roberto Carlos Alves Pires</tspan><tspan class="sp"> / Laudeane Lima dos Santos Pires</tspan></text>
-  <text class="hdr" transform="translate(20 114.9)"><tspan x="0" y="0">Filhos de José e Neli</tspan></text>
-  <path class="ln" d="M28.8,117.9v125.6"/>
-  <line class="ln" x1="28.8" y1="126.9" x2="43.4" y2="126.9"/>
-  <rect class="box" x="43.4" y="121.3" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 129.6)"><tspan x="0" y="0">Maria Zélia Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="141.4" x2="43.4" y2="141.4"/>
-  <rect class="box" x="43.4" y="135.9" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 144.1)"><tspan x="0" y="0">Célia Maria Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="156.0" x2="43.4" y2="156.0"/>
-  <rect class="box" x="43.4" y="150.4" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 158.7)"><tspan x="0" y="0">Maria Heina Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="170.6" x2="43.4" y2="170.6"/>
-  <rect class="box" x="43.4" y="165.0" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 173.3)"><tspan class="nm" x="0" y="0">Nelivânia Pereira Pires</tspan><tspan class="sp"> / Edivaldo Vidal</tspan></text>
-  <line class="ln" x1="28.8" y1="185.2" x2="43.4" y2="185.2"/>
-  <rect class="box" x="43.4" y="179.6" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 187.9)"><tspan x="0" y="0">Eva Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="199.7" x2="43.4" y2="199.7"/>
-  <rect class="box" x="43.4" y="194.2" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 202.4)"><tspan class="nm" x="0" y="0">Adão Pereira Pires</tspan><tspan class="sp"> / Aldelaine Dias Duarte Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="214.3" x2="43.4" y2="214.3"/>
-  <rect class="box" x="43.4" y="208.7" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 217.0)"><tspan class="nm" x="0" y="0">Adson Pereira Pires</tspan><tspan class="sp"> / Gleice Rêgo Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="228.9" x2="43.4" y2="228.9"/>
-  <rect class="box" x="43.4" y="223.3" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 231.6)"><tspan class="nm" x="0" y="0">José Pereira Pires</tspan><tspan class="sp"> / Simone</tspan></text>
-  <line class="ln" x1="28.8" y1="243.5" x2="43.4" y2="243.5"/>
-  <rect class="box" x="43.4" y="237.9" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 246.2)"><tspan class="nm" x="0" y="0">Josenilsom Pereira Pires</tspan><tspan class="sp"> / Ilmacir Ferreira Fonseca</tspan></text>
-  <text class="hdr" transform="translate(20 259.4)"><tspan x="0" y="0">Filhos de Jovânio e Valdeci</tspan></text>
-  <path class="ln" d="M28.8,262.4v67.3"/>
-  <line class="ln" x1="28.8" y1="271.4" x2="43.4" y2="271.4"/>
-  <rect class="box" x="43.4" y="265.9" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 274.1)"><tspan class="nm" x="0" y="0">Valdete Gomes da Silva (adotivo)</tspan><tspan class="sp"> / Geneci Fernandes Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="286.0" x2="43.4" y2="286.0"/>
-  <rect class="box" x="43.4" y="280.4" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 288.7)"><tspan class="nm" x="0" y="0">Edivânio de Souza e Silva</tspan><tspan class="sp"> / Sônia Miranda dos Santos</tspan></text>
-  <line class="ln" x1="28.8" y1="300.6" x2="43.4" y2="300.6"/>
-  <rect class="box" x="43.4" y="295.0" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 303.3)"><tspan class="nm" x="0" y="0">Valdelene de Souza e Silva</tspan><tspan class="sp"> / Wandes José de Paulo</tspan></text>
-  <line class="ln" x1="28.8" y1="315.2" x2="43.4" y2="315.2"/>
-  <rect class="box" x="43.4" y="309.6" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 317.9)"><tspan class="nm" x="0" y="0">Getúlio de Souza e Silva</tspan><tspan class="sp"> / Raquel Barros de Oliveira Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="329.7" x2="43.4" y2="329.7"/>
-  <rect class="box" x="43.4" y="324.2" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 332.4)"><tspan class="nm" x="0" y="0">Ewaldo de Souza e Silva</tspan><tspan class="sp"> / Luziana Alves Melquiades</tspan></text>
-  <text class="hdr" transform="translate(20 345.7)"><tspan x="0" y="0">Filhos de Maria e Joviniano</tspan></text>
-  <path class="ln" d="M28.8,348.7v38.2"/>
-  <line class="ln" x1="28.8" y1="357.7" x2="43.4" y2="357.7"/>
-  <rect class="box" x="43.4" y="352.1" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 360.4)"><tspan class="nm" x="0" y="0">Simaria Pires Machado Horst</tspan><tspan class="sp"> / Socratis Licnio Hors</tspan></text>
-  <line class="ln" x1="28.8" y1="372.3" x2="43.4" y2="372.3"/>
-  <rect class="box" x="43.4" y="366.7" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 375.0)"><tspan class="nm" x="0" y="0">Simone Pires Machado</tspan><tspan class="sp"> / Carlos Alves Vilanova Júnior</tspan></text>
-  <line class="ln" x1="28.8" y1="386.9" x2="43.4" y2="386.9"/>
-  <rect class="box" x="43.4" y="381.3" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 389.6)"><tspan class="nm" x="0" y="0">Sandro Pires Machado</tspan><tspan class="sp"> / Rithyelle Rayana</tspan></text>
-  <text class="hdr" transform="translate(20 402.9)"><tspan x="0" y="0">Filhos de Justina e Odete</tspan></text>
-  <path class="ln" d="M28.8,405.9v52.7"/>
-  <line class="ln" x1="28.8" y1="414.9" x2="43.4" y2="414.9"/>
-  <rect class="box" x="43.4" y="409.3" width="256.9" height="11.2"/>
-  <text class="nm" transform="translate(53.2 417.6)"><tspan x="0" y="0">Cláudia Pires Ribeiro</tspan></text>
-  <line class="ln" x1="28.8" y1="429.4" x2="43.4" y2="429.4"/>
-  <rect class="box" x="43.4" y="423.9" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 432.1)"><tspan class="nm" x="0" y="0">Keila Pires Ribeiro</tspan><tspan class="sp"> / Paulo Henrique Rego das Neves</tspan></text>
-  <line class="ln" x1="28.8" y1="444.0" x2="43.4" y2="444.0"/>
-  <rect class="box" x="43.4" y="438.4" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 446.7)"><tspan class="nm" x="0" y="0">Carlos Magno Pires Ribeiro</tspan><tspan class="sp"> / Eliane</tspan></text>
-  <line class="ln" x1="28.8" y1="458.6" x2="43.4" y2="458.6"/>
-  <rect class="box" x="43.4" y="453.0" width="256.9" height="11.2"/>
-  <text transform="translate(53.2 461.3)"><tspan class="nm" x="0" y="0">Fagno Pires Ribeiro</tspan><tspan class="sp"> / Giovanna da Silva Miranda</tspan></text>
+  <g>
+    <g class="st1">
+      <text class="st2" transform="translate(20 17.9)"><tspan x="0" y="0">Filhos de Gervásio e Antônia</tspan></text>
+    </g>
+    <path class="st4" d="M28.8,20.9v81.9"/>
+    <line class="st4" x1="28.8" y1="29.9" x2="43.4" y2="29.9"/>
+    <rect class="st5" x="43.4" y="24.3" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 32.6)"><tspan x="0" y="0">Jurcilene Alves Pires dos Reis</tspan></text>
+      <text class="st3" transform="translate(140.7 32.6)"><tspan x="0" y="0" xml:space="preserve"> / Carlos Franco S. dos Reis</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="44.5" x2="43.4" y2="44.5"/>
+    <rect class="st5" x="43.4" y="38.9" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 47.2)"><tspan x="0" y="0">José Alves Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="59.1" x2="43.4" y2="59.1"/>
+    <rect class="st5" x="43.4" y="53.5" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 61.8)"><tspan x="0" y="0">Luciene Alves Pires</tspan></text>
+      <text class="st3" transform="translate(111 61.8)"><tspan x="0" y="0" xml:space="preserve"> / Sérgio Alves Araújo</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="73.6" x2="43.4" y2="73.6"/>
+    <rect class="st5" x="43.4" y="68" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 76.3)"><tspan x="0" y="0">Rosirene Alves Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="88.2" x2="43.4" y2="88.2"/>
+    <rect class="st5" x="43.4" y="82.6" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 90.9)"><tspan x="0" y="0">Maria José Alves Pires</tspan></text>
+      <text class="st3" transform="translate(119.2 90.9)"><tspan x="0" y="0" xml:space="preserve"> / Diogo Vieira Castro</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="102.8" x2="43.4" y2="102.8"/>
+    <rect class="st5" x="43.4" y="97.2" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 105.5)"><tspan x="0" y="0">Roberto Carlos Alves Pires</tspan></text>
+      <text class="st3" transform="translate(133.2 105.5)"><tspan x="0" y="0" xml:space="preserve"> / Laudeane Lima dos Santos Pires</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st2" transform="translate(20 121.5)"><tspan x="0" y="0">Filhos de José e Neli</tspan></text>
+    </g>
+    <path class="st4" d="M28.8,124.5v125.6"/>
+    <line class="st4" x1="28.8" y1="133.5" x2="43.4" y2="133.5"/>
+    <rect class="st5" x="43.4" y="127.9" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 136.2)"><tspan x="0" y="0">Maria Zélia Pereira Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="148" x2="43.4" y2="148"/>
+    <rect class="st5" x="43.4" y="142.5" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 150.7)"><tspan x="0" y="0">Célia Maria Pereira Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="162.6" x2="43.4" y2="162.6"/>
+    <rect class="st5" x="43.4" y="157" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 165.3)"><tspan x="0" y="0">Maria Heina Pereira Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="177.2" x2="43.4" y2="177.2"/>
+    <rect class="st5" x="43.4" y="171.6" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 179.9)"><tspan x="0" y="0">Nelivânia Pereira Pires</tspan></text>
+      <text class="st3" transform="translate(121.2 179.9)"><tspan x="0" y="0" xml:space="preserve"> / Edivaldo Vidal</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="191.8" x2="43.4" y2="191.8"/>
+    <rect class="st5" x="43.4" y="186.2" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 194.5)"><tspan x="0" y="0">Eva Pereira Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="206.3" x2="43.4" y2="206.3"/>
+    <rect class="st5" x="43.4" y="200.8" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 209)"><tspan x="0" y="0">Adão Pereira Pires</tspan></text>
+      <text class="st3" transform="translate(108.2 209)"><tspan x="0" y="0" xml:space="preserve"> / Aldelaine Dias Duarte Pires</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="220.9" x2="43.4" y2="220.9"/>
+    <rect class="st5" x="43.4" y="215.3" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 223.6)"><tspan x="0" y="0">Adson Pereira Pires</tspan></text>
+      <text class="st3" transform="translate(111.6 223.6)"><tspan x="0" y="0" xml:space="preserve"> / Gleice Rêgo Oliveira</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="235.5" x2="43.4" y2="235.5"/>
+    <rect class="st5" x="43.4" y="229.9" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 238.2)"><tspan x="0" y="0">José Pereira Pires</tspan></text>
+      <text class="st3" transform="translate(104.8 238.2)"><tspan x="0" y="0" xml:space="preserve"> / Simone</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="250.1" x2="43.4" y2="250.1"/>
+    <rect class="st5" x="43.4" y="244.5" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 252.8)"><tspan x="0" y="0">Josenilsom Pereira Pires</tspan></text>
+      <text class="st3" transform="translate(125.4 252.8)"><tspan x="0" y="0" xml:space="preserve"> / Ilmacir Ferreira Fonseca</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st2" transform="translate(20 268.8)"><tspan x="0" y="0">Filhos de Jovânio e Valdeci</tspan></text>
+    </g>
+    <path class="st4" d="M28.8,271.8v67.3"/>
+    <line class="st4" x1="28.8" y1="280.8" x2="43.4" y2="280.8"/>
+    <rect class="st5" x="43.4" y="275.3" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 283.5)"><tspan x="0" y="0">Valdete Gomes da Silva (adotivo)</tspan></text>
+      <text class="st3" transform="translate(152.5 283.5)"><tspan x="0" y="0" xml:space="preserve"> / Geneci Fernandes Silva</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="295.4" x2="43.4" y2="295.4"/>
+    <rect class="st5" x="43.4" y="289.8" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 298.1)"><tspan x="0" y="0">Edivânio de Souza e Silva</tspan></text>
+      <text class="st3" transform="translate(129.9 298.1)"><tspan x="0" y="0" xml:space="preserve"> / Sônia Miranda dos Santos</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="310" x2="43.4" y2="310"/>
+    <rect class="st5" x="43.4" y="304.4" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 312.7)"><tspan x="0" y="0">Valdelene de Souza e Silva</tspan></text>
+      <text class="st3" transform="translate(131.7 312.7)"><tspan x="0" y="0" xml:space="preserve"> / Wandes José de Paulo</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="324.6" x2="43.4" y2="324.6"/>
+    <rect class="st5" x="43.4" y="319" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 327.3)"><tspan x="0" y="0">Getúlio de Souza e Silva</tspan></text>
+      <text class="st3" transform="translate(125.7 327.3)"><tspan x="0" y="0" xml:space="preserve"> / Raquel Barros de Oliveira Souza</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="339.1" x2="43.4" y2="339.1"/>
+    <rect class="st5" x="43.4" y="333.6" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 341.8)"><tspan x="0" y="0">Ewaldo de Souza e Silva</tspan></text>
+      <text class="st3" transform="translate(125.2 341.8)"><tspan x="0" y="0" xml:space="preserve"> / Luziana Alves Melquiades</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st2" transform="translate(20 357.9)"><tspan x="0" y="0">Filhos de Maria e Joviniano</tspan></text>
+    </g>
+    <path class="st4" d="M28.8,360.9v38.2"/>
+    <line class="st4" x1="28.8" y1="369.9" x2="43.4" y2="369.9"/>
+    <rect class="st5" x="43.4" y="364.3" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 372.6)"><tspan x="0" y="0">Simaria Pires Machado Horst</tspan></text>
+      <text class="st3" transform="translate(142.1 372.6)"><tspan x="0" y="0" xml:space="preserve"> / Socratis Licnio Hors</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="384.5" x2="43.4" y2="384.5"/>
+    <rect class="st5" x="43.4" y="378.9" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 387.2)"><tspan x="0" y="0">Simone Pires Machado</tspan></text>
+      <text class="st3" transform="translate(122.4 387.2)"><tspan x="0" y="0" xml:space="preserve"> / Carlos Alves Vilanova Júnior</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="399.1" x2="43.4" y2="399.1"/>
+    <rect class="st5" x="43.4" y="393.5" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 401.8)"><tspan x="0" y="0">Sandro Pires Machado</tspan></text>
+      <text class="st3" transform="translate(121.2 401.8)"><tspan x="0" y="0" xml:space="preserve"> / Rithyelle Rayana</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st1">
+      <text class="st2" transform="translate(20 417.8)"><tspan x="0" y="0">Filhos de Justina e Odete</tspan></text>
+    </g>
+    <path class="st4" d="M28.8,420.8v52.7"/>
+    <line class="st4" x1="28.8" y1="429.8" x2="43.4" y2="429.8"/>
+    <rect class="st5" x="43.4" y="424.2" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 432.5)"><tspan x="0" y="0">Cláudia Pires Ribeiro</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="444.3" x2="43.4" y2="444.3"/>
+    <rect class="st5" x="43.4" y="438.8" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 447)"><tspan x="0" y="0">Keila Pires Ribeiro</tspan></text>
+      <text class="st3" transform="translate(110.1 447)"><tspan x="0" y="0" xml:space="preserve"> / Paulo Henrique Rego das Neves</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="458.9" x2="43.4" y2="458.9"/>
+    <rect class="st5" x="43.4" y="453.3" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 461.6)"><tspan x="0" y="0">Carlos Magno Pires Ribeiro</tspan></text>
+      <text class="st3" transform="translate(137 461.6)"><tspan x="0" y="0" xml:space="preserve"> / Eliane</tspan></text>
+    </g>
+    <line class="st4" x1="28.8" y1="473.5" x2="43.4" y2="473.5"/>
+    <rect class="st5" x="43.4" y="467.9" width="256.9" height="11.2"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 476.2)"><tspan x="0" y="0">Fagno Pires Ribeiro</tspan></text>
+      <text class="st3" transform="translate(112.8 476.2)"><tspan x="0" y="0" xml:space="preserve"> / Giovanna da Silva Miranda</tspan></text>
+    </g>
+  </g>
 </svg>

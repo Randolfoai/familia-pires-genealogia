@@ -1,81 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 280.2">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-size: 7.4px;
+      }
+
+      .st0, .st1 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+        font-weight: 700;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st4 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st1 {
+        font-size: 9.8px;
+      }
     </style>
   </defs>
-  <text class="sec" transform="translate(20 14.0)"><tspan x="0" y="0">Bisnetos de Prudêncio e Catarina</tspan></text>
-  <path class="ln" d="M28.8,17.0v174.6"/>
-  <line class="ln" x1="28.8" y1="23.5" x2="43.4" y2="23.5"/>
-  <rect class="box" x="43.4" y="18.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 26.2)"><tspan x="0" y="0">Diel Siqueira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="34.8" x2="43.4" y2="34.8"/>
-  <rect class="box" x="43.4" y="30.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 37.5)"><tspan x="0" y="0">Débora Siqueira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="45.9" x2="43.4" y2="45.9"/>
-  <rect class="box" x="43.4" y="41.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 48.6)"><tspan x="0" y="0">Gustavo Klaiverte Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="57.1" x2="43.4" y2="57.1"/>
-  <rect class="box" x="43.4" y="52.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 59.8)"><tspan x="0" y="0">Henrique Levi Pereira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="68.3" x2="43.4" y2="68.3"/>
-  <rect class="box" x="43.4" y="63.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 71.0)"><tspan x="0" y="0">Camilla Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="79.6" x2="43.4" y2="79.6"/>
-  <rect class="box" x="43.4" y="74.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 82.3)"><tspan x="0" y="0">Pabrini Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="90.8" x2="43.4" y2="90.8"/>
-  <rect class="box" x="43.4" y="86.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 93.5)"><tspan x="0" y="0">Francisco Moura</tspan></text>
-  <line class="ln" x1="28.8" y1="102.0" x2="43.4" y2="102.0"/>
-  <rect class="box" x="43.4" y="97.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 104.7)"><tspan x="0" y="0">Maria Clara Pereira Moura</tspan></text>
-  <line class="ln" x1="28.8" y1="113.2" x2="43.4" y2="113.2"/>
-  <rect class="box" x="43.4" y="108.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 115.9)"><tspan x="0" y="0">Maria Teresa Lopes Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="124.4" x2="43.4" y2="124.4"/>
-  <rect class="box" x="43.4" y="119.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 127.1)"><tspan x="0" y="0">Guilherma Lopes Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="135.6" x2="43.4" y2="135.6"/>
-  <rect class="box" x="43.4" y="130.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 138.3)"><tspan x="0" y="0">Lucy Pires Reis</tspan></text>
-  <line class="ln" x1="28.8" y1="146.8" x2="43.4" y2="146.8"/>
-  <rect class="box" x="43.4" y="142.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 149.5)"><tspan x="0" y="0">Heitor Moreira</tspan></text>
-  <line class="ln" x1="28.8" y1="158.0" x2="43.4" y2="158.0"/>
-  <rect class="box" x="43.4" y="153.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 160.7)"><tspan x="0" y="0">Isadora Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="169.2" x2="43.4" y2="169.2"/>
-  <rect class="box" x="43.4" y="164.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 171.9)"><tspan x="0" y="0">Ana Lívia Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="180.4" x2="43.4" y2="180.4"/>
-  <rect class="box" x="43.4" y="175.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 183.1)"><tspan x="0" y="0">Hailla Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="191.6" x2="43.4" y2="191.6"/>
-  <rect class="box" x="43.4" y="186.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 194.3)"><tspan x="0" y="0">Bernardo Pires</tspan></text>
-  <text class="sec" transform="translate(20 206.2)"><tspan x="0" y="0">Trinetos de Prudêncio e Catarina</tspan></text>
-  <path class="ln" d="M28.8,209.2v51.4"/>
-  <line class="ln" x1="28.8" y1="215.8" x2="43.4" y2="215.8"/>
-  <rect class="box" x="43.4" y="211.1" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 218.5)"><tspan x="0" y="0">Davi Lucas</tspan></text>
-  <line class="ln" x1="28.8" y1="227.0" x2="43.4" y2="227.0"/>
-  <rect class="box" x="43.4" y="222.3" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 229.7)"><tspan x="0" y="0">Caio Gabriel</tspan></text>
-  <line class="ln" x1="28.8" y1="238.2" x2="43.4" y2="238.2"/>
-  <rect class="box" x="43.4" y="233.5" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 240.9)"><tspan x="0" y="0">João Pedro</tspan></text>
-  <line class="ln" x1="28.8" y1="249.4" x2="43.4" y2="249.4"/>
-  <rect class="box" x="43.4" y="244.7" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 252.1)"><tspan x="0" y="0">Maytê Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="260.6" x2="43.4" y2="260.6"/>
-  <rect class="box" x="43.4" y="255.9" width="256.9" height="9.3"/>
-  <text class="nm" transform="translate(53.2 263.3)"><tspan x="0" y="0">Maria Loures</tspan></text>
+  <g class="st2">
+    <text class="st1" transform="translate(20 14)"><tspan x="0" y="0">Bisnetos de Prudêncio e Catarina</tspan></text>
+  </g>
+  <path class="st3" d="M28.8,17v174.6"/>
+  <line class="st3" x1="28.8" y1="23.5" x2="43.4" y2="23.5"/>
+  <rect class="st4" x="43.4" y="18.9" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 26.2)"><tspan x="0" y="0">Diel Siqueira Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="34.8" x2="43.4" y2="34.8"/>
+  <rect class="st4" x="43.4" y="30.1" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 37.5)"><tspan x="0" y="0">Débora Siqueira Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="45.9" x2="43.4" y2="45.9"/>
+  <rect class="st4" x="43.4" y="41.3" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 48.6)"><tspan x="0" y="0">Gustavo Klaiverte Pereira Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="57.1" x2="43.4" y2="57.1"/>
+  <rect class="st4" x="43.4" y="52.5" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 59.8)"><tspan x="0" y="0">Henrique Levi Pereira Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="68.3" x2="43.4" y2="68.3"/>
+  <rect class="st4" x="43.4" y="63.7" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 71)"><tspan x="0" y="0">Camilla Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="79.6" x2="43.4" y2="79.6"/>
+  <rect class="st4" x="43.4" y="74.9" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 82.3)"><tspan x="0" y="0">Pabrini Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="90.8" x2="43.4" y2="90.8"/>
+  <rect class="st4" x="43.4" y="86.1" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 93.5)"><tspan x="0" y="0">Francisco Moura</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="102" x2="43.4" y2="102"/>
+  <rect class="st4" x="43.4" y="97.3" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 104.7)"><tspan x="0" y="0">Maria Clara Pereira Moura</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="113.2" x2="43.4" y2="113.2"/>
+  <rect class="st4" x="43.4" y="108.5" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 115.9)"><tspan x="0" y="0">Maria Teresa Lopes Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="124.4" x2="43.4" y2="124.4"/>
+  <rect class="st4" x="43.4" y="119.7" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 127.1)"><tspan x="0" y="0">Guilherma Lopes Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="135.6" x2="43.4" y2="135.6"/>
+  <rect class="st4" x="43.4" y="130.9" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 138.3)"><tspan x="0" y="0">Lucy Pires Reis</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="146.8" x2="43.4" y2="146.8"/>
+  <rect class="st4" x="43.4" y="142.1" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 149.5)"><tspan x="0" y="0">Heitor Moreira</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="158" x2="43.4" y2="158"/>
+  <rect class="st4" x="43.4" y="153.3" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 160.7)"><tspan x="0" y="0">Isadora Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="169.2" x2="43.4" y2="169.2"/>
+  <rect class="st4" x="43.4" y="164.5" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 171.9)"><tspan x="0" y="0">Ana Lívia Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="180.4" x2="43.4" y2="180.4"/>
+  <rect class="st4" x="43.4" y="175.7" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 183.1)"><tspan x="0" y="0">Hailla Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="191.6" x2="43.4" y2="191.6"/>
+  <rect class="st4" x="43.4" y="186.9" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 194.3)"><tspan x="0" y="0">Bernardo Pires</tspan></text>
+  </g>
+  <g class="st2">
+    <text class="st1" transform="translate(20 212.2)"><tspan x="0" y="0">Trinetos de Prudêncio e Catarina</tspan></text>
+  </g>
+  <path class="st3" d="M28.8,215.2v51.4"/>
+  <line class="st3" x1="28.8" y1="221.8" x2="43.4" y2="221.8"/>
+  <rect class="st4" x="43.4" y="217.1" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 224.5)"><tspan x="0" y="0">Davi Lucas</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="233" x2="43.4" y2="233"/>
+  <rect class="st4" x="43.4" y="228.3" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 235.7)"><tspan x="0" y="0">Caio Gabriel</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="244.2" x2="43.4" y2="244.2"/>
+  <rect class="st4" x="43.4" y="239.5" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 246.9)"><tspan x="0" y="0">João Pedro</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="255.4" x2="43.4" y2="255.4"/>
+  <rect class="st4" x="43.4" y="250.7" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 258.1)"><tspan x="0" y="0">Maytê Pires</tspan></text>
+  </g>
+  <line class="st3" x1="28.8" y1="266.6" x2="43.4" y2="266.6"/>
+  <rect class="st4" x="43.4" y="261.9" width="256.9" height="9.3"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 269.3)"><tspan x="0" y="0">Maria Loures</tspan></text>
+  </g>
 </svg>

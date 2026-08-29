@@ -1,30 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 100.0">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 100">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+        font-size: 7.6px;
+        font-weight: 700;
+      }
+
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #fff;
+        stroke-width: .5px;
+      }
+
+      .st2, .st3 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st3 {
+        fill: none;
+        stroke-width: .9px;
+      }
     </style>
   </defs>
-  <rect class="box" x="94.2" y="8.0" width="62" height="12.0"/>
-  <text class="cb" transform="translate(125.2 16.6)" text-anchor="middle"><tspan x="0" y="0">Raimunda</tspan></text>
-  <rect class="box" x="164.2" y="8.0" width="62" height="12.0"/>
-  <text class="cb" transform="translate(195.2 16.6)" text-anchor="middle"><tspan x="0" y="0">Manoel</tspan></text>
-  <path class="ln" d="M125.2,20.0 v2 l35.0,2"/>
-  <path class="ln" d="M195.2,20.0 v2 l-35.0,2"/>
-  <path class="ln" d="M160.2,23.0v5.0H28.8v58.0"/>
-  <line class="ln" x1="28.8" y1="36.0" x2="43.4" y2="36.0"/>
-  <rect class="box" x="43.4" y="30.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 38.3)"><tspan x="0" y="0">Antônio Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="52.0" x2="43.4" y2="52.0"/>
-  <rect class="box" x="43.4" y="46.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 54.3)"><tspan x="0" y="0">Diolina Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="68.0" x2="43.4" y2="68.0"/>
-  <rect class="box" x="43.4" y="62.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 70.3)"><tspan x="0" y="0">Sebastião Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="84.0" x2="43.4" y2="84.0"/>
-  <rect class="box" x="43.4" y="78.0" width="256.9" height="12.0"/>
-  <text class="nm" transform="translate(53.2 86.3)"><tspan x="0" y="0">Veronilia Pires</tspan></text>
+  <rect class="st2" x="94.2" y="8" width="62" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(108.9 16.6)"><tspan x="0" y="0">Raimunda</tspan></text>
+  </g>
+  <rect class="st2" x="164.2" y="8" width="62" height="12"/>
+  <g class="st1">
+    <text class="st0" transform="translate(183.4 16.6)"><tspan x="0" y="0">Manoel</tspan></text>
+  </g>
+  <path class="st3" d="M125.2,20v2l35,2"/>
+  <path class="st3" d="M195.2,20v2l-35,2"/>
+  <path class="st3" d="M160.2,24v4H28.8v61"/>
+  <g>
+    <line class="st3" x1="28.8" y1="41" x2="43.4" y2="41"/>
+    <rect class="st2" x="43.4" y="35" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 43.3)"><tspan x="0" y="0">Antônio Pires</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st3" x1="28.8" y1="57" x2="43.4" y2="57"/>
+    <rect class="st2" x="43.4" y="51" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 59.3)"><tspan x="0" y="0">Diolina Pires</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st3" x1="28.8" y1="73" x2="43.4" y2="73"/>
+    <rect class="st2" x="43.4" y="67" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 75.3)"><tspan x="0" y="0">Sebastião Pires</tspan></text>
+    </g>
+  </g>
+  <g>
+    <line class="st3" x1="28.8" y1="89" x2="43.4" y2="89"/>
+    <rect class="st2" x="43.4" y="83" width="256.9" height="12"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 91.3)"><tspan x="0" y="0">Veronilia Pires</tspan></text>
+    </g>
+  </g>
 </svg>

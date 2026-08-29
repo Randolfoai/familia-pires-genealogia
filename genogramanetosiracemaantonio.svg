@@ -1,128 +1,287 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st3 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st1, .st3, .st4, .st5 {
+        font-weight: 700;
+      }
+
+      .st0, .st5 {
+        font-size: 7.4px;
+      }
+
+      .st6 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st6, .st7, .st8 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st7 {
+        stroke-width: .6px;
+      }
+
+      .st7, .st8 {
+        fill: #fff;
+      }
+
+      .st1 {
+        font-size: 9.8px;
+      }
+
+      .st8 {
+        stroke-width: .5px;
+      }
+
+      .st3 {
+        font-size: 11.5px;
+      }
+
+      .st4 {
+        font-size: 8px;
+      }
+
+      .st4, .st5 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Iracema e Antônio e seus respectivos cônjuges</tspan></text>
-  <text class="hdr" transform="translate(20 33.4)"><tspan x="0" y="0">Filhos de Geraldo e Marinalva</tspan></text>
-  <path class="ln" d="M28.8,36.4v49.7"/>
-  <line class="ln" x1="28.8" y1="42.7" x2="43.4" y2="42.7"/>
-  <rect class="box" x="43.4" y="38.2" width="256.9" height="9.1"/>
-  <text transform="translate(53.2 45.4)"><tspan class="nm" x="0" y="0">Marcelo Fernandes Neres</tspan><tspan class="sp"> / Janaina</tspan></text>
-  <line class="ln" x1="28.8" y1="53.6" x2="43.4" y2="53.6"/>
-  <rect class="box" x="43.4" y="49.0" width="256.9" height="9.1"/>
-  <text transform="translate(53.2 56.3)"><tspan class="nm" x="0" y="0">Diana Fernandes Neres</tspan><tspan class="sp"> / Maurício</tspan></text>
-  <line class="ln" x1="28.8" y1="64.5" x2="43.4" y2="64.5"/>
-  <rect class="box" x="43.4" y="59.9" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 67.2)"><tspan x="0" y="0">André Fernandes Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="75.3" x2="43.4" y2="75.3"/>
-  <rect class="box" x="43.4" y="70.8" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 78.0)"><tspan x="0" y="0">Fábio Fernandes Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="86.2" x2="43.4" y2="86.2"/>
-  <rect class="box" x="43.4" y="81.6" width="256.9" height="9.1"/>
-  <text transform="translate(53.2 88.9)"><tspan class="nm" x="0" y="0">Mirian Fernandes Neres</tspan><tspan class="sp"> / Wan Carlos Dias Fernandes</tspan></text>
-  <text class="hdr" transform="translate(20 98.2)"><tspan x="0" y="0">Filhos de Pedro e Cerlene</tspan></text>
-  <path class="ln" d="M28.8,101.2v6.3"/>
-  <line class="ln" x1="28.8" y1="107.5" x2="43.4" y2="107.5"/>
-  <rect class="box" x="43.4" y="102.9" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 110.2)"><tspan x="0" y="0">Gustavo Neres</tspan></text>
-  <text class="hdr" transform="translate(20 119.5)"><tspan x="0" y="0">Filhos de Ibanês e Suely</tspan></text>
-  <path class="ln" d="M28.8,122.5v28.0"/>
-  <line class="ln" x1="28.8" y1="128.8" x2="43.4" y2="128.8"/>
-  <rect class="box" x="43.4" y="124.2" width="256.9" height="9.1"/>
-  <text transform="translate(53.2 131.5)"><tspan class="nm" x="0" y="0">Suyanne Bezarra Neres</tspan><tspan class="sp"> / Carlos</tspan></text>
-  <line class="ln" x1="28.8" y1="139.7" x2="43.4" y2="139.7"/>
-  <rect class="box" x="43.4" y="135.1" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 142.4)"><tspan x="0" y="0">Reinaldo Bezerra Neres (sem informações, reside no Maranhão)</tspan></text>
-  <line class="ln" x1="28.8" y1="150.5" x2="43.4" y2="150.5"/>
-  <rect class="box" x="43.4" y="146.0" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 153.2)"><tspan x="0" y="0">Arnaldo Bezerra Neres (tem dois filhos, sem mais informações)</tspan></text>
-  <text class="hdr" transform="translate(20 162.5)"><tspan x="0" y="0">Filhos de Marilda</tspan></text>
-  <path class="ln" d="M28.8,165.5v28.0"/>
-  <line class="ln" x1="28.8" y1="171.8" x2="43.4" y2="171.8"/>
-  <rect class="box" x="43.4" y="167.3" width="256.9" height="9.1"/>
-  <text transform="translate(53.2 174.5)"><tspan class="nm" x="0" y="0">Mára Neres Morais</tspan><tspan class="sp"> / Gismar</tspan></text>
-  <line class="ln" x1="28.8" y1="182.7" x2="43.4" y2="182.7"/>
-  <rect class="box" x="43.4" y="178.1" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 185.4)"><tspan x="0" y="0">Romário Neres Morais</tspan></text>
-  <line class="ln" x1="28.8" y1="193.5" x2="43.4" y2="193.5"/>
-  <rect class="box" x="43.4" y="189.0" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 196.2)"><tspan x="0" y="0">Marlice Neres Morais</tspan></text>
-  <text class="hdr" transform="translate(20 205.6)"><tspan x="0" y="0">Filhos de Idalene e Cosme</tspan></text>
-  <path class="ln" d="M28.8,208.6v17.2"/>
-  <line class="ln" x1="28.8" y1="214.9" x2="43.4" y2="214.9"/>
-  <rect class="box" x="43.4" y="210.3" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 217.6)"><tspan x="0" y="0">Raquel Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="225.7" x2="43.4" y2="225.7"/>
-  <rect class="box" x="43.4" y="221.2" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 228.4)"><tspan x="0" y="0">Antônio Neres</tspan></text>
-  <text class="hdr" transform="translate(20 237.7)"><tspan x="0" y="0">Filhos de Dário e Francisca</tspan></text>
-  <path class="ln" d="M28.8,240.7v49.7"/>
-  <line class="ln" x1="28.8" y1="247.0" x2="43.4" y2="247.0"/>
-  <rect class="box" x="43.4" y="242.5" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 249.7)"><tspan x="0" y="0">Beatriz Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="257.9" x2="43.4" y2="257.9"/>
-  <rect class="box" x="43.4" y="253.3" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 260.6)"><tspan x="0" y="0">Daiane Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="268.7" x2="43.4" y2="268.7"/>
-  <rect class="box" x="43.4" y="264.2" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 271.4)"><tspan x="0" y="0">Dário Martins Neres Filho</tspan></text>
-  <line class="ln" x1="28.8" y1="279.6" x2="43.4" y2="279.6"/>
-  <rect class="box" x="43.4" y="275.0" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 282.3)"><tspan x="0" y="0">Fernanda Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="290.4" x2="43.4" y2="290.4"/>
-  <rect class="box" x="43.4" y="285.9" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 293.1)"><tspan x="0" y="0">Dariele Neres</tspan></text>
-  <text class="hdr" transform="translate(20 302.5)"><tspan x="0" y="0">Filho de Raimundo e Albertina</tspan></text>
-  <path class="ln" d="M28.8,305.5v6.3"/>
-  <line class="ln" x1="28.8" y1="311.8" x2="43.4" y2="311.8"/>
-  <rect class="box" x="43.4" y="307.2" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 314.5)"><tspan x="0" y="0">Bruno (adotivo)</tspan></text>
-  <text class="hdr" transform="translate(20 323.8)"><tspan x="0" y="0">Filhos de José e Dalvilene</tspan></text>
-  <path class="ln" d="M28.8,326.8v28.0"/>
-  <line class="ln" x1="28.8" y1="333.1" x2="43.4" y2="333.1"/>
-  <rect class="box" x="43.4" y="328.5" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 335.8)"><tspan x="0" y="0">Nelvanda Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="343.9" x2="43.4" y2="343.9"/>
-  <rect class="box" x="43.4" y="339.4" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 346.6)"><tspan x="0" y="0">Lucivânia Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="354.8" x2="43.4" y2="354.8"/>
-  <rect class="box" x="43.4" y="350.2" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 357.5)"><tspan x="0" y="0">Anderson Neres</tspan></text>
-  <text class="hdr" transform="translate(20 366.8)"><tspan x="0" y="0">Filhos de Estevão e Raimunda</tspan></text>
-  <path class="ln" d="M28.8,369.8v71.4"/>
-  <line class="ln" x1="28.8" y1="376.1" x2="43.4" y2="376.1"/>
-  <rect class="box" x="43.4" y="371.5" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 378.8)"><tspan x="0" y="0">Marilon Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="387.0" x2="43.4" y2="387.0"/>
-  <rect class="box" x="43.4" y="382.4" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 389.7)"><tspan x="0" y="0">Macta Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="397.8" x2="43.4" y2="397.8"/>
-  <rect class="box" x="43.4" y="393.3" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 400.5)"><tspan x="0" y="0">Marivaldo Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="408.7" x2="43.4" y2="408.7"/>
-  <rect class="box" x="43.4" y="404.1" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 411.4)"><tspan x="0" y="0">Marineide Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="419.5" x2="43.4" y2="419.5"/>
-  <rect class="box" x="43.4" y="415.0" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 422.2)"><tspan x="0" y="0">Maria Eunice Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="430.4" x2="43.4" y2="430.4"/>
-  <rect class="box" x="43.4" y="425.8" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 433.1)"><tspan x="0" y="0">Cleide Nogueira Neres</tspan></text>
-  <line class="ln" x1="28.8" y1="441.2" x2="43.4" y2="441.2"/>
-  <rect class="box" x="43.4" y="436.7" width="256.9" height="9.1"/>
-  <text class="nm" transform="translate(53.2 443.9)"><tspan x="0" y="0">Estevão Nogueira Neves Filho</tspan></text>
-  <text class="sec" transform="translate(20 455.2)"><tspan x="0" y="0">Bisnetos de Iracema e Antônio</tspan></text>
-  <path class="ln" d="M28.8,458.2v10.5"/>
-  <line class="ln" x1="28.8" y1="468.7" x2="43.4" y2="468.7"/>
-  <rect class="box" x="43.4" y="460.0" width="256.9" height="17.5"/>
-  <text class="nm" transform="translate(53.2 468.5)"><tspan x="0" y="0">João Miguel, Marcelo Junior, Artur, João Henrique, Iara e Liz.</tspan></text>
+  <g class="st2">
+    <text class="st3" transform="translate(31.8 14)"><tspan x="0" y="0">Netos de Iracema e Antônio e seus respectivos cônjuges</tspan></text>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 26.4)"><tspan x="0" y="0">Filhos de Geraldo e Marinalva</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,29.4v49.7"/>
+    <line class="st6" x1="28.8" y1="35.7" x2="43.4" y2="35.7"/>
+    <rect class="st7" x="43.4" y="31.2" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 38.4)"><tspan x="0" y="0">Marcelo Fernandes Neres</tspan></text>
+      <text class="st5" transform="translate(128.8 38.4)"><tspan x="0" y="0" xml:space="preserve"> / Janaina</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="46.6" x2="43.4" y2="46.6"/>
+    <rect class="st7" x="43.4" y="42" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 49.3)"><tspan x="0" y="0">Diana Fernandes Neres</tspan></text>
+      <text class="st5" transform="translate(122.7 49.3)"><tspan x="0" y="0" xml:space="preserve"> / Maurício</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="57.5" x2="43.4" y2="57.5"/>
+    <rect class="st7" x="43.4" y="52.9" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 60.2)"><tspan x="0" y="0">André Fernandes Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="68.3" x2="43.4" y2="68.3"/>
+    <rect class="st7" x="43.4" y="63.8" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 71)"><tspan x="0" y="0">Fábio Fernandes Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="79.2" x2="43.4" y2="79.2"/>
+    <rect class="st7" x="43.4" y="74.6" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 81.9)"><tspan x="0" y="0">Mirian Fernandes Neres</tspan></text>
+      <text class="st5" transform="translate(125.2 81.9)"><tspan x="0" y="0" xml:space="preserve"> / Wan Carlos Dias Fernandes</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 93.3)"><tspan x="0" y="0">Filhos de Pedro e Cerlene</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,96.3v6.3"/>
+    <line class="st6" x1="28.8" y1="102.6" x2="43.4" y2="102.6"/>
+    <rect class="st7" x="43.4" y="98" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 105.3)"><tspan x="0" y="0">Gustavo Neres</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 116.7)"><tspan x="0" y="0">Filhos de Ibanês e Suely</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,119.7v28"/>
+    <line class="st6" x1="28.8" y1="126" x2="43.4" y2="126"/>
+    <rect class="st7" x="43.4" y="121.4" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 128.7)"><tspan x="0" y="0">Suyanne Bezarra Neres</tspan></text>
+      <text class="st5" transform="translate(122.1 128.7)"><tspan x="0" y="0" xml:space="preserve"> / Carlos</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="136.9" x2="43.4" y2="136.9"/>
+    <rect class="st7" x="43.4" y="132.3" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 139.6)"><tspan x="0" y="0">Reinaldo Bezerra Neres (sem informações, reside no Maranhão)</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="147.7" x2="43.4" y2="147.7"/>
+    <rect class="st7" x="43.4" y="143.2" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 150.4)"><tspan x="0" y="0">Arnaldo Bezerra Neres (tem dois filhos, sem mais informações)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 161.7)"><tspan x="0" y="0">Filhos de Marilda</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,164.7v28"/>
+    <line class="st6" x1="28.8" y1="171" x2="43.4" y2="171"/>
+    <rect class="st7" x="43.4" y="166.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 173.7)"><tspan x="0" y="0">Mára Neres Morais</tspan></text>
+      <text class="st5" transform="translate(110.6 173.7)"><tspan x="0" y="0" xml:space="preserve"> / Gismar</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="181.9" x2="43.4" y2="181.9"/>
+    <rect class="st7" x="43.4" y="177.3" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 184.6)"><tspan x="0" y="0">Romário Neres Morais</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="192.7" x2="43.4" y2="192.7"/>
+    <rect class="st7" x="43.4" y="188.2" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 195.4)"><tspan x="0" y="0">Marlice Neres Morais</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 206.8)"><tspan x="0" y="0">Filhos de Idalene e Cosme</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,209.8v17.2"/>
+    <line class="st6" x1="28.8" y1="216.1" x2="43.4" y2="216.1"/>
+    <rect class="st7" x="43.4" y="211.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 218.8)"><tspan x="0" y="0">Raquel Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="226.9" x2="43.4" y2="226.9"/>
+    <rect class="st7" x="43.4" y="222.4" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 229.6)"><tspan x="0" y="0">Antônio Neres</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 241)"><tspan x="0" y="0">Filhos de Dário e Francisca</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,244v49.7"/>
+    <line class="st6" x1="28.8" y1="250.3" x2="43.4" y2="250.3"/>
+    <rect class="st7" x="43.4" y="245.8" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 253)"><tspan x="0" y="0">Beatriz Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="261.2" x2="43.4" y2="261.2"/>
+    <rect class="st7" x="43.4" y="256.6" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 263.9)"><tspan x="0" y="0">Daiane Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="272" x2="43.4" y2="272"/>
+    <rect class="st7" x="43.4" y="267.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 274.7)"><tspan x="0" y="0">Dário Martins Neres Filho</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="282.9" x2="43.4" y2="282.9"/>
+    <rect class="st7" x="43.4" y="278.3" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 285.6)"><tspan x="0" y="0">Fernanda Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="293.7" x2="43.4" y2="293.7"/>
+    <rect class="st7" x="43.4" y="289.2" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 296.4)"><tspan x="0" y="0">Dariele Neres</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 307.8)"><tspan x="0" y="0">Filho de Raimundo e Albertina</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,310.8v6.3"/>
+    <line class="st6" x1="28.8" y1="317.1" x2="43.4" y2="317.1"/>
+    <rect class="st7" x="43.4" y="312.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 319.8)"><tspan x="0" y="0">Bruno (adotivo)</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 331.1)"><tspan x="0" y="0">Filhos de José e Dalvilene</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,334.1v28"/>
+    <line class="st6" x1="28.8" y1="340.4" x2="43.4" y2="340.4"/>
+    <rect class="st7" x="43.4" y="335.8" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 343.1)"><tspan x="0" y="0">Nelvanda Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="351.2" x2="43.4" y2="351.2"/>
+    <rect class="st7" x="43.4" y="346.7" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 353.9)"><tspan x="0" y="0">Lucivânia Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="362.1" x2="43.4" y2="362.1"/>
+    <rect class="st7" x="43.4" y="357.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 364.8)"><tspan x="0" y="0">Anderson Neres</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st4" transform="translate(20 376.2)"><tspan x="0" y="0">Filhos de Estevão e Raimunda</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,379.2v71.4"/>
+    <line class="st6" x1="28.8" y1="385.5" x2="43.4" y2="385.5"/>
+    <rect class="st7" x="43.4" y="380.9" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 388.2)"><tspan x="0" y="0">Marilon Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="396.4" x2="43.4" y2="396.4"/>
+    <rect class="st7" x="43.4" y="391.8" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 399.1)"><tspan x="0" y="0">Macta Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="407.2" x2="43.4" y2="407.2"/>
+    <rect class="st7" x="43.4" y="402.7" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 409.9)"><tspan x="0" y="0">Marivaldo Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="418.1" x2="43.4" y2="418.1"/>
+    <rect class="st7" x="43.4" y="413.5" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 420.8)"><tspan x="0" y="0">Marineide Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="428.9" x2="43.4" y2="428.9"/>
+    <rect class="st7" x="43.4" y="424.4" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 431.6)"><tspan x="0" y="0">Maria Eunice Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="439.8" x2="43.4" y2="439.8"/>
+    <rect class="st7" x="43.4" y="435.2" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 442.5)"><tspan x="0" y="0">Cleide Nogueira Neres</tspan></text>
+    </g>
+    <line class="st6" x1="28.8" y1="450.6" x2="43.4" y2="450.6"/>
+    <rect class="st7" x="43.4" y="446.1" width="256.9" height="9.1"/>
+    <g class="st2">
+      <text class="st0" transform="translate(53.2 453.3)"><tspan x="0" y="0">Estevão Nogueira Neves Filho</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st1" transform="translate(20 466.2)"><tspan x="0" y="0">Bisnetos de Iracema e Antônio</tspan></text>
+    </g>
+    <path class="st6" d="M28.8,469.2v10.5"/>
+    <line class="st6" x1="28.8" y1="479.7" x2="43.4" y2="479.7"/>
+    <g>
+      <rect class="st8" x="43.4" y="473.6" width="256.9" height="12.2"/>
+      <g class="st2">
+        <text class="st0" transform="translate(53.2 481.4)"><tspan x="0" y="0">João Miguel, Marcelo Junior, Artur, João Henrique, Iara e Liz.</tspan></text>
+      </g>
+    </g>
+  </g>
 </svg>

@@ -1,93 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st3 {
+        font-weight: 700;
+      }
+
+      .st0, .st3 {
+        font-size: 7.4px;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st4, .st5 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st5 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st2 {
+        font-size: 8px;
+      }
+
+      .st2, .st3 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="hdr" transform="translate(20 16.8)"><tspan x="0" y="0">Netos de Eurides e Ozório</tspan></text>
-  <path class="ln" d="M28.8,19.8v216.0"/>
-  <line class="ln" x1="28.8" y1="30.6" x2="43.4" y2="30.6"/>
-  <rect class="box" x="43.4" y="24.4" width="256.9" height="12.5"/>
-  <text transform="translate(53.2 33.3)"><tspan class="nm" x="0" y="0">Robson Freitas da Silva Arruda</tspan><tspan class="sp"> / Marcelane Araújo</tspan></text>
-  <line class="ln" x1="28.8" y1="47.7" x2="43.4" y2="47.7"/>
-  <rect class="box" x="43.4" y="41.4" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 50.4)"><tspan x="0" y="0">Rodrigo Freitas da Silva Assis</tspan></text>
-  <line class="ln" x1="28.8" y1="64.8" x2="43.4" y2="64.8"/>
-  <rect class="box" x="43.4" y="58.5" width="256.9" height="12.5"/>
-  <text transform="translate(53.2 67.5)"><tspan class="nm" x="0" y="0">Thays Cristina F. Silva Barros</tspan><tspan class="sp"> / Josafá Souza Campos</tspan></text>
-  <line class="ln" x1="28.8" y1="81.9" x2="43.4" y2="81.9"/>
-  <rect class="box" x="43.4" y="75.6" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 84.6)"><tspan x="0" y="0">Ruan Pablo Freitas Teixeira</tspan></text>
-  <line class="ln" x1="28.8" y1="99.0" x2="43.4" y2="99.0"/>
-  <rect class="box" x="43.4" y="92.7" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 101.7)"><tspan x="0" y="0">Renato Freitas Teixeira</tspan></text>
-  <line class="ln" x1="28.8" y1="116.1" x2="43.4" y2="116.1"/>
-  <rect class="box" x="43.4" y="109.8" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 118.8)"><tspan x="0" y="0">Gercília Regina Freitas da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="133.2" x2="43.4" y2="133.2"/>
-  <rect class="box" x="43.4" y="126.9" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 135.9)"><tspan x="0" y="0">Hudson Freitas da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="150.3" x2="43.4" y2="150.3"/>
-  <rect class="box" x="43.4" y="144.0" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 153.0)"><tspan x="0" y="0">Gilberto Freitas Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="167.4" x2="43.4" y2="167.4"/>
-  <rect class="box" x="43.4" y="161.1" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 170.1)"><tspan x="0" y="0">Mateus Freitas Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="184.5" x2="43.4" y2="184.5"/>
-  <rect class="box" x="43.4" y="178.2" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 187.2)"><tspan x="0" y="0">Ana Carla Freitas Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="201.6" x2="43.4" y2="201.6"/>
-  <rect class="box" x="43.4" y="195.3" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 204.3)"><tspan x="0" y="0">Pedro Lucas Freitas de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="218.7" x2="43.4" y2="218.7"/>
-  <rect class="box" x="43.4" y="212.4" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 221.4)"><tspan x="0" y="0">Ana Vitória Freitas de Souza</tspan></text>
-  <line class="ln" x1="28.8" y1="235.8" x2="43.4" y2="235.8"/>
-  <rect class="box" x="43.4" y="229.5" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 238.5)"><tspan x="0" y="0">Pablo Mateus da Silva Freitas</tspan></text>
-  <text class="hdr" transform="translate(20 258.0)"><tspan x="0" y="0">Netos de Lourival e Raimunda</tspan></text>
-  <path class="ln" d="M28.8,261.0v198.9"/>
-  <line class="ln" x1="28.8" y1="271.9" x2="43.4" y2="271.9"/>
-  <rect class="box" x="43.4" y="265.6" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 274.6)"><tspan x="0" y="0">Rafaela Sousa Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="288.9" x2="43.4" y2="288.9"/>
-  <rect class="box" x="43.4" y="282.7" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 291.6)"><tspan x="0" y="0">Isabela Barbosa Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="306.0" x2="43.4" y2="306.0"/>
-  <rect class="box" x="43.4" y="299.8" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 308.7)"><tspan x="0" y="0">Isadora Barbosa Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="323.1" x2="43.4" y2="323.1"/>
-  <rect class="box" x="43.4" y="316.9" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 325.8)"><tspan x="0" y="0">Carlos Eduardo Soares Milhome</tspan></text>
-  <line class="ln" x1="28.8" y1="340.2" x2="43.4" y2="340.2"/>
-  <rect class="box" x="43.4" y="334.0" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 342.9)"><tspan x="0" y="0">Enzo Gabriel Farias Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="357.3" x2="43.4" y2="357.3"/>
-  <rect class="box" x="43.4" y="351.1" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 360.0)"><tspan x="0" y="0">Pedro Augusto Farias Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="374.4" x2="43.4" y2="374.4"/>
-  <rect class="box" x="43.4" y="368.1" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 377.1)"><tspan x="0" y="0">Júlio César Pinheiro Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="391.5" x2="43.4" y2="391.5"/>
-  <rect class="box" x="43.4" y="385.2" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 394.2)"><tspan x="0" y="0">Hudson Gabriel Pinheiro Milhome</tspan></text>
-  <line class="ln" x1="28.8" y1="408.6" x2="43.4" y2="408.6"/>
-  <rect class="box" x="43.4" y="402.3" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 411.3)"><tspan x="0" y="0">João Lucas Pinheiro Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="425.7" x2="43.4" y2="425.7"/>
-  <rect class="box" x="43.4" y="419.4" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 428.4)"><tspan x="0" y="0">Maria Moraes Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="442.8" x2="43.4" y2="442.8"/>
-  <rect class="box" x="43.4" y="436.5" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 445.5)"><tspan x="0" y="0">Fabiane Tavares Milhomem</tspan></text>
-  <line class="ln" x1="28.8" y1="459.9" x2="43.4" y2="459.9"/>
-  <rect class="box" x="43.4" y="453.6" width="256.9" height="12.5"/>
-  <text class="nm" transform="translate(53.2 462.6)"><tspan x="0" y="0">João Henrique Tavares Milhomem</tspan></text>
+  <g class="st1">
+    <text class="st2" transform="translate(20 16.8)"><tspan x="0" y="0">Netos de Eurides e Ozório</tspan></text>
+  </g>
+  <path class="st4" d="M28.8,19.8v216"/>
+  <line class="st4" x1="28.8" y1="30.6" x2="43.4" y2="30.6"/>
+  <rect class="st5" x="43.4" y="24.4" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 33.3)"><tspan x="0" y="0">Robson Freitas da Silva Arruda</tspan></text>
+    <text class="st3" transform="translate(146.4 33.3)"><tspan x="0" y="0" xml:space="preserve"> / Marcelane Araújo</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="47.7" x2="43.4" y2="47.7"/>
+  <rect class="st5" x="43.4" y="41.4" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 50.4)"><tspan x="0" y="0">Rodrigo Freitas da Silva Assis</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="64.8" x2="43.4" y2="64.8"/>
+  <rect class="st5" x="43.4" y="58.5" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 67.5)"><tspan x="0" y="0">Thays Cristina F. Silva Barros</tspan></text>
+    <text class="st3" transform="translate(142.3 67.5)"><tspan x="0" y="0" xml:space="preserve"> / Josafá Souza Campos</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="81.9" x2="43.4" y2="81.9"/>
+  <rect class="st5" x="43.4" y="75.6" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 84.6)"><tspan x="0" y="0">Ruan Pablo Freitas Teixeira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="99" x2="43.4" y2="99"/>
+  <rect class="st5" x="43.4" y="92.7" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 101.7)"><tspan x="0" y="0">Renato Freitas Teixeira</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="116.1" x2="43.4" y2="116.1"/>
+  <rect class="st5" x="43.4" y="109.8" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 118.8)"><tspan x="0" y="0">Gercília Regina Freitas da Silva</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="133.2" x2="43.4" y2="133.2"/>
+  <rect class="st5" x="43.4" y="126.9" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 135.9)"><tspan x="0" y="0">Hudson Freitas da Silva</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="150.3" x2="43.4" y2="150.3"/>
+  <rect class="st5" x="43.4" y="144" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 153)"><tspan x="0" y="0">Gilberto Freitas Barbosa</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="167.4" x2="43.4" y2="167.4"/>
+  <rect class="st5" x="43.4" y="161.1" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 170.1)"><tspan x="0" y="0">Mateus Freitas Barbosa</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="184.5" x2="43.4" y2="184.5"/>
+  <rect class="st5" x="43.4" y="178.2" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 187.2)"><tspan x="0" y="0">Ana Carla Freitas Barbosa</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="201.6" x2="43.4" y2="201.6"/>
+  <rect class="st5" x="43.4" y="195.3" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 204.3)"><tspan x="0" y="0">Pedro Lucas Freitas de Souza</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="218.7" x2="43.4" y2="218.7"/>
+  <rect class="st5" x="43.4" y="212.4" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 221.4)"><tspan x="0" y="0">Ana Vitória Freitas de Souza</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="235.8" x2="43.4" y2="235.8"/>
+  <rect class="st5" x="43.4" y="229.5" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 238.5)"><tspan x="0" y="0">Pablo Mateus da Silva Freitas</tspan></text>
+  </g>
+  <g class="st1">
+    <text class="st2" transform="translate(20 265)"><tspan x="0" y="0">Netos de Lourival e Raimunda</tspan></text>
+  </g>
+  <path class="st4" d="M28.8,268v198.9"/>
+  <line class="st4" x1="28.8" y1="278.9" x2="43.4" y2="278.9"/>
+  <rect class="st5" x="43.4" y="272.6" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 281.6)"><tspan x="0" y="0">Rafaela Sousa Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="295.9" x2="43.4" y2="295.9"/>
+  <rect class="st5" x="43.4" y="289.7" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 298.6)"><tspan x="0" y="0">Isabela Barbosa Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="313" x2="43.4" y2="313"/>
+  <rect class="st5" x="43.4" y="306.8" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 315.7)"><tspan x="0" y="0">Isadora Barbosa Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="330.1" x2="43.4" y2="330.1"/>
+  <rect class="st5" x="43.4" y="323.9" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 332.8)"><tspan x="0" y="0">Carlos Eduardo Soares Milhome</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="347.2" x2="43.4" y2="347.2"/>
+  <rect class="st5" x="43.4" y="341" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 349.9)"><tspan x="0" y="0">Enzo Gabriel Farias Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="364.3" x2="43.4" y2="364.3"/>
+  <rect class="st5" x="43.4" y="358.1" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 367)"><tspan x="0" y="0">Pedro Augusto Farias Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="381.4" x2="43.4" y2="381.4"/>
+  <rect class="st5" x="43.4" y="375.1" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 384.1)"><tspan x="0" y="0">Júlio César Pinheiro Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="398.5" x2="43.4" y2="398.5"/>
+  <rect class="st5" x="43.4" y="392.2" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 401.2)"><tspan x="0" y="0">Hudson Gabriel Pinheiro Milhome</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="415.6" x2="43.4" y2="415.6"/>
+  <rect class="st5" x="43.4" y="409.3" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 418.3)"><tspan x="0" y="0">João Lucas Pinheiro Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="432.7" x2="43.4" y2="432.7"/>
+  <rect class="st5" x="43.4" y="426.4" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 435.4)"><tspan x="0" y="0">Maria Moraes Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="449.8" x2="43.4" y2="449.8"/>
+  <rect class="st5" x="43.4" y="443.5" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 452.5)"><tspan x="0" y="0">Fabiane Tavares Milhomem</tspan></text>
+  </g>
+  <line class="st4" x1="28.8" y1="466.9" x2="43.4" y2="466.9"/>
+  <rect class="st5" x="43.4" y="460.6" width="256.9" height="12.5"/>
+  <g class="st1">
+    <text class="st0" transform="translate(53.2 469.6)"><tspan x="0" y="0">João Henrique Tavares Milhomem</tspan></text>
+  </g>
 </svg>

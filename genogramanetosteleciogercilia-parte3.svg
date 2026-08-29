@@ -1,85 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
-      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
-      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
-      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+      .st0, .st1 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st3, .st4 {
+        font-weight: 700;
+      }
+
+      .st0, .st4 {
+        font-size: 7.4px;
+      }
+
+      .st5 {
+        fill: none;
+        stroke-width: 1.1px;
+      }
+
+      .st5, .st6 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st6 {
+        fill: #fff;
+        stroke-width: .6px;
+      }
+
+      .st1 {
+        font-size: 9.8px;
+      }
+
+      .st3 {
+        font-size: 8px;
+      }
+
+      .st3, .st4 {
+        font-family: AGaramondPro-BoldItalic, 'Adobe Garamond Pro';
+        font-style: italic;
+      }
     </style>
   </defs>
-  <text class="sec" transform="translate(20 16.8)"><tspan x="0" y="0">Bisnetos de Telécio e Gercilia e seus respectivos cônjuges</tspan></text>
-  <text class="hdr" transform="translate(20 33.6)"><tspan x="0" y="0">Netos de Elisa e Severino</tspan></text>
-  <path class="ln" d="M28.8,36.6v86.8"/>
-  <line class="ln" x1="28.8" y1="48.6" x2="43.4" y2="48.6"/>
-  <rect class="box" x="43.4" y="41.9" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 51.3)"><tspan class="nm" x="0" y="0">Adayane Silva Sousa</tspan><tspan class="sp"> / Welso dos Santos Ameida</tspan></text>
-  <line class="ln" x1="28.8" y1="67.3" x2="43.4" y2="67.3"/>
-  <rect class="box" x="43.4" y="60.6" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 70.0)"><tspan class="nm" x="0" y="0">Adailson Silva Sousa</tspan><tspan class="sp"> / Naaty Moraes Sousa</tspan></text>
-  <line class="ln" x1="28.8" y1="86.0" x2="43.4" y2="86.0"/>
-  <rect class="box" x="43.4" y="79.3" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 88.7)"><tspan class="nm" x="0" y="0">Denise da Silva Aguiar</tspan><tspan class="sp"> / Geraldo Cosme dos Santos</tspan></text>
-  <line class="ln" x1="28.8" y1="104.7" x2="43.4" y2="104.7"/>
-  <rect class="box" x="43.4" y="98.0" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 107.4)"><tspan x="0" y="0">Marcos da Silva Aguiar</tspan></text>
-  <line class="ln" x1="28.8" y1="123.4" x2="43.4" y2="123.4"/>
-  <rect class="box" x="43.4" y="116.7" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 126.1)"><tspan class="nm" x="0" y="0">Letícia da Silva Aguiar</tspan><tspan class="sp"> / Antônio Carlos da Cruz</tspan></text>
-  <text class="hdr" transform="translate(20 146.1)"><tspan x="0" y="0">Netos de Dorival e Basília</tspan></text>
-  <path class="ln" d="M28.8,149.1v311.2"/>
-  <line class="ln" x1="28.8" y1="161.1" x2="43.4" y2="161.1"/>
-  <rect class="box" x="43.4" y="154.4" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 163.8)"><tspan class="nm" x="0" y="0">Denise Souza Pires</tspan><tspan class="sp"> / Rogerio Alves Faria</tspan></text>
-  <line class="ln" x1="28.8" y1="179.8" x2="43.4" y2="179.8"/>
-  <rect class="box" x="43.4" y="173.1" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 182.5)"><tspan class="nm" x="0" y="0">Danilo Souza Pires</tspan><tspan class="sp"> / Geyse Mônica Alves</tspan></text>
-  <line class="ln" x1="28.8" y1="198.5" x2="43.4" y2="198.5"/>
-  <rect class="box" x="43.4" y="191.8" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 201.2)"><tspan class="nm" x="0" y="0">Jhonatha Rodrigues Pires Martins</tspan><tspan class="sp"> / Gabrielle da Silva F. Lima</tspan></text>
-  <line class="ln" x1="28.8" y1="217.2" x2="43.4" y2="217.2"/>
-  <rect class="box" x="43.4" y="210.5" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 219.9)"><tspan class="nm" x="0" y="0">Carlos Eduardo R. Pires Martins</tspan><tspan class="sp"> / Thatiele O. Santos Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="235.9" x2="43.4" y2="235.9"/>
-  <rect class="box" x="43.4" y="229.2" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 238.6)"><tspan class="nm" x="0" y="0">Lara Lorrane Araújo Martins</tspan><tspan class="sp"> / Junior Francisco de Oliveira</tspan></text>
-  <line class="ln" x1="28.8" y1="254.6" x2="43.4" y2="254.6"/>
-  <rect class="box" x="43.4" y="247.9" width="256.9" height="13.4"/>
-  <text transform="translate(53.2 257.3)"><tspan class="nm" x="0" y="0">Cainã Siriano da Silva</tspan><tspan class="sp"> / Ana Carolina F. Evangelista</tspan></text>
-  <line class="ln" x1="28.8" y1="273.3" x2="43.4" y2="273.3"/>
-  <rect class="box" x="43.4" y="266.6" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 276.0)"><tspan x="0" y="0">Jordana Araújo Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="292.0" x2="43.4" y2="292.0"/>
-  <rect class="box" x="43.4" y="285.3" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 294.7)"><tspan x="0" y="0">Ana Clara Ferreira Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="310.7" x2="43.4" y2="310.7"/>
-  <rect class="box" x="43.4" y="304.0" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 313.4)"><tspan x="0" y="0">Érica Neres Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="329.4" x2="43.4" y2="329.4"/>
-  <rect class="box" x="43.4" y="322.7" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 332.1)"><tspan x="0" y="0">Sofhia Pires Fiuza</tspan></text>
-  <line class="ln" x1="28.8" y1="348.1" x2="43.4" y2="348.1"/>
-  <rect class="box" x="43.4" y="341.4" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 350.8)"><tspan x="0" y="0">Maria Cecillya Pires Fiuza</tspan></text>
-  <line class="ln" x1="28.8" y1="366.8" x2="43.4" y2="366.8"/>
-  <rect class="box" x="43.4" y="360.1" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 369.5)"><tspan x="0" y="0">Maria Eduarda Pires Fiuza</tspan></text>
-  <line class="ln" x1="28.8" y1="385.5" x2="43.4" y2="385.5"/>
-  <rect class="box" x="43.4" y="378.8" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 388.2)"><tspan x="0" y="0">Ana Luiza Costa Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="404.2" x2="43.4" y2="404.2"/>
-  <rect class="box" x="43.4" y="397.5" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 406.9)"><tspan x="0" y="0">Levi Ferreira Pires</tspan></text>
-  <line class="ln" x1="28.8" y1="422.9" x2="43.4" y2="422.9"/>
-  <rect class="box" x="43.4" y="416.2" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 425.6)"><tspan x="0" y="0">Bianca Alves Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="441.6" x2="43.4" y2="441.6"/>
-  <rect class="box" x="43.4" y="434.9" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 444.3)"><tspan x="0" y="0">Isamel Junior Alves Martins</tspan></text>
-  <line class="ln" x1="28.8" y1="460.3" x2="43.4" y2="460.3"/>
-  <rect class="box" x="43.4" y="453.6" width="256.9" height="13.4"/>
-  <text class="nm" transform="translate(53.2 463.0)"><tspan x="0" y="0">Leonardo Alves Martins</tspan></text>
+  <g class="st2">
+    <text class="st1" transform="translate(20 16.8)"><tspan x="0" y="0">Bisnetos de Telécio e Gercilia e seus respectivos cônjuges</tspan></text>
+  </g>
+  <g class="st2">
+    <text class="st3" transform="translate(20 35.6)"><tspan x="0" y="0">Netos de Elisa e Severino</tspan></text>
+  </g>
+  <path class="st5" d="M28.8,38.6v86.8"/>
+  <line class="st5" x1="28.8" y1="50.6" x2="43.4" y2="50.6"/>
+  <rect class="st6" x="43.4" y="43.9" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 53.3)"><tspan x="0" y="0">Adayane Silva Sousa</tspan></text>
+    <text class="st4" transform="translate(114.4 53.3)"><tspan x="0" y="0" xml:space="preserve"> / Welso dos Santos Ameida</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="69.3" x2="43.4" y2="69.3"/>
+  <rect class="st6" x="43.4" y="62.6" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 72)"><tspan x="0" y="0">Adailson Silva Sousa</tspan></text>
+    <text class="st4" transform="translate(115.2 72)"><tspan x="0" y="0" xml:space="preserve"> / Naaty Moraes Sousa</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="88" x2="43.4" y2="88"/>
+  <rect class="st6" x="43.4" y="81.3" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 90.7)"><tspan x="0" y="0">Denise da Silva Aguiar</tspan></text>
+    <text class="st4" transform="translate(121.5 90.7)"><tspan x="0" y="0" xml:space="preserve"> / Geraldo Cosme dos Santos</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="106.7" x2="43.4" y2="106.7"/>
+  <rect class="st6" x="43.4" y="100" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 109.4)"><tspan x="0" y="0">Marcos da Silva Aguiar</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="125.4" x2="43.4" y2="125.4"/>
+  <rect class="st6" x="43.4" y="118.7" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 128.1)"><tspan x="0" y="0">Letícia da Silva Aguiar</tspan></text>
+    <text class="st4" transform="translate(121 128.1)"><tspan x="0" y="0" xml:space="preserve"> / Antônio Carlos da Cruz</tspan></text>
+  </g>
+  <g class="st2">
+    <text class="st3" transform="translate(20 154.1)"><tspan x="0" y="0">Netos de Dorival e Basília</tspan></text>
+  </g>
+  <path class="st5" d="M28.8,157.1v311.2"/>
+  <line class="st5" x1="28.8" y1="169.1" x2="43.4" y2="169.1"/>
+  <rect class="st6" x="43.4" y="162.4" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 171.8)"><tspan x="0" y="0">Denise Souza Pires</tspan></text>
+    <text class="st4" transform="translate(110.3 171.8)"><tspan x="0" y="0" xml:space="preserve"> / Rogerio Alves Faria</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="187.8" x2="43.4" y2="187.8"/>
+  <rect class="st6" x="43.4" y="181.1" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 190.5)"><tspan x="0" y="0">Danilo Souza Pires</tspan></text>
+    <text class="st4" transform="translate(110.6 190.5)"><tspan x="0" y="0" xml:space="preserve"> / Geyse Mônica Alves</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="206.5" x2="43.4" y2="206.5"/>
+  <rect class="st6" x="43.4" y="199.8" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 209.2)"><tspan x="0" y="0">Jhonatha Rodrigues Pires Martins</tspan></text>
+    <text class="st4" transform="translate(155.9 209.2)"><tspan x="0" y="0" xml:space="preserve"> / Gabrielle da Silva F. Lima</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="225.2" x2="43.4" y2="225.2"/>
+  <rect class="st6" x="43.4" y="218.5" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 227.9)"><tspan x="0" y="0">Carlos Eduardo R. Pires Martins</tspan></text>
+    <text class="st4" transform="translate(151.5 227.9)"><tspan x="0" y="0" xml:space="preserve"> / Thatiele O. Santos Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="243.9" x2="43.4" y2="243.9"/>
+  <rect class="st6" x="43.4" y="237.2" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 246.6)"><tspan x="0" y="0">Lara Lorrane Araújo Martins</tspan></text>
+    <text class="st4" transform="translate(140.8 246.6)"><tspan x="0" y="0" xml:space="preserve"> / Junior Francisco de Oliveira</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="262.6" x2="43.4" y2="262.6"/>
+  <rect class="st6" x="43.4" y="255.9" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 265.3)"><tspan x="0" y="0">Cainã Siriano da Silva</tspan></text>
+    <text class="st4" transform="translate(119.8 265.3)"><tspan x="0" y="0" xml:space="preserve"> / Ana Carolina F. Evangelista</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="281.3" x2="43.4" y2="281.3"/>
+  <rect class="st6" x="43.4" y="274.6" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 284)"><tspan x="0" y="0">Jordana Araújo Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="300" x2="43.4" y2="300"/>
+  <rect class="st6" x="43.4" y="293.3" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 302.7)"><tspan x="0" y="0">Ana Clara Ferreira Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="318.7" x2="43.4" y2="318.7"/>
+  <rect class="st6" x="43.4" y="312" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 321.4)"><tspan x="0" y="0">Érica Neres Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="337.4" x2="43.4" y2="337.4"/>
+  <rect class="st6" x="43.4" y="330.7" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 340.1)"><tspan x="0" y="0">Sofhia Pires Fiuza</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="356.1" x2="43.4" y2="356.1"/>
+  <rect class="st6" x="43.4" y="349.4" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 358.8)"><tspan x="0" y="0">Maria Cecillya Pires Fiuza</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="374.8" x2="43.4" y2="374.8"/>
+  <rect class="st6" x="43.4" y="368.1" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 377.5)"><tspan x="0" y="0">Maria Eduarda Pires Fiuza</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="393.5" x2="43.4" y2="393.5"/>
+  <rect class="st6" x="43.4" y="386.8" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 396.2)"><tspan x="0" y="0">Ana Luiza Costa Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="412.2" x2="43.4" y2="412.2"/>
+  <rect class="st6" x="43.4" y="405.5" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 414.9)"><tspan x="0" y="0">Levi Ferreira Pires</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="430.9" x2="43.4" y2="430.9"/>
+  <rect class="st6" x="43.4" y="424.2" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 433.6)"><tspan x="0" y="0">Bianca Alves Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="449.6" x2="43.4" y2="449.6"/>
+  <rect class="st6" x="43.4" y="442.9" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 452.3)"><tspan x="0" y="0">Isamel Junior Alves Martins</tspan></text>
+  </g>
+  <line class="st5" x1="28.8" y1="468.3" x2="43.4" y2="468.3"/>
+  <rect class="st6" x="43.4" y="461.6" width="256.9" height="13.4"/>
+  <g class="st2">
+    <text class="st0" transform="translate(53.2 471)"><tspan x="0" y="0">Leonardo Alves Martins</tspan></text>
+  </g>
 </svg>
