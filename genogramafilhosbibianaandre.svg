@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 166.6">
+  <defs>
+    <style>
+      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
+      .sub { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.2px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="sub" transform="translate(160.2 8.0)" text-anchor="middle"><tspan x="0" y="0">(denominados Troncos)</tspan></text>
+  <rect class="box" x="94.2" y="18.0" width="62" height="12.0"/>
+  <text class="cb" transform="translate(125.2 26.6)" text-anchor="middle"><tspan x="0" y="0">Bibiana</tspan></text>
+  <rect class="box" x="164.2" y="18.0" width="62" height="12.0"/>
+  <text class="cb" transform="translate(195.2 26.6)" text-anchor="middle"><tspan x="0" y="0">André</tspan></text>
+  <path class="ln" d="M125.2,30.0 v2 l35.0,2"/>
+  <path class="ln" d="M195.2,30.0 v2 l-35.0,2"/>
+  <path class="ln" d="M160.2,33.0v5.0H28.8v115.5"/>
+  <line class="ln" x1="28.8" y1="44.3" x2="43.4" y2="44.3"/>
+  <rect class="box" x="43.4" y="39.2" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 46.2)"><tspan x="0" y="0">Francisca Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="57.7" x2="43.4" y2="57.7"/>
+  <rect class="box" x="43.4" y="52.6" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 59.6)"><tspan x="0" y="0">Izidória Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="71.1" x2="43.4" y2="71.1"/>
+  <rect class="box" x="43.4" y="66.0" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 73.0)"><tspan x="0" y="0">Joaquim Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="84.5" x2="43.4" y2="84.5"/>
+  <rect class="box" x="43.4" y="79.4" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 86.4)"><tspan x="0" y="0">Manoel Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="97.9" x2="43.4" y2="97.9"/>
+  <rect class="box" x="43.4" y="92.8" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 99.8)"><tspan x="0" y="0">Raimundo Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="111.3" x2="43.4" y2="111.3"/>
+  <rect class="box" x="43.4" y="106.2" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 113.2)"><tspan x="0" y="0">Bevenute Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="124.7" x2="43.4" y2="124.7"/>
+  <rect class="box" x="43.4" y="119.6" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 126.6)"><tspan x="0" y="0">Damásio Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="138.1" x2="43.4" y2="138.1"/>
+  <rect class="box" x="43.4" y="133.0" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 140.0)"><tspan x="0" y="0">Cândido Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="151.5" x2="43.4" y2="151.5"/>
+  <rect class="box" x="43.4" y="146.4" width="256.9" height="10.2"/>
+  <text class="nm" transform="translate(53.2 153.4)"><tspan x="0" y="0">Isabel Pires Campos (adotiva)</tspan></text>
+</svg>
