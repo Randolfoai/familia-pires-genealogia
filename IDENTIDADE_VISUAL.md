@@ -170,6 +170,8 @@ Depois olhar cada PNG gerado com a ferramenta de leitura de imagem.
 
 **Prioridade de onde jogar a folga ao esticar uma parte cheia de grupos pequenos** (revisão da regra da seção 5 pra esse caso): quando a folga é grande (100pt+) e há muitas linhas na página, a maior parte da folga deve ir pro **espaçamento entre linhas dentro dos grupos** (ROWH/ROW_GAP), não só pros gaps entre grupos — porque com muitas linhas disponíveis, o aumento por linha fica pequeno e imperceptível, enquanto concentrar tudo nos 2-3 gaps entre grupos cria vazios visualmente enormes e desequilibrados.
 
+**Algoritmo genérico pra rebalancear (2026-08-28, `genogramanetosantonioisaura`)**: em vez de rebalancear os cortes manualmente por tentativa e erro, usar o algoritmo clássico de **"dividir um array em K partes contíguas minimizando a maior soma"** (busca binária sobre o valor da maior soma + verificação gulosa de viabilidade). Passos: 1) calcular `k` = número mínimo de páginas via empacotamento guloso normal; 2) rodar a busca binária pra achar a partição em `k` partes contíguas com a menor "maior soma" possível; 3) aplicar o preenchimento de espaçamento (linha a linha) em cada página resultante. Isso deu páginas com somas de conteúdo praticamente idênticas (ex: 458.0 e 465.6 em vez de valores desiguais), e cada página final ficou com margem de 0-1pt. Só é necessário para o nível "netos" (blocos de família, tamanho variável); os níveis "bisnetos/trinetos/tetranetos" já são naturalmente uniformes porque fluem linha a linha (granularidade fina).
+
 ## 7. Outros casos especiais
 
 - **Casal sem filhos**: casal-tronco normal (caixas + forquilha) + uma nota em itálico centralizada abaixo, tipo "Não tiveram filhos" — sem espinha vertical (não há filhos pra conectar).
