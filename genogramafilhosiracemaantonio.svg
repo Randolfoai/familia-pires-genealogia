@@ -71,6 +71,7 @@
   <text class="capbig" transform="translate(238.1 184.8)" text-anchor="middle"><tspan x="0" y="0">Idalena</tspan></text>
   <text class="capbig" transform="translate(287.4 184.8)" text-anchor="middle"><tspan x="0" y="0">Dário</tspan></text>
   <text class="hdr" transform="translate(43.4 194.1)"><tspan x="0" y="0">Filhos somente de Antônio Neres</tspan></text>
+  <path class="ln" d="M226.2,9.0 H316.3 V197.1 H28.8"/>
   <path class="ln" d="M28.8,197.1v24.0"/>
   <line class="ln" x1="28.8" y1="202.4" x2="43.4" y2="202.4"/>
   <rect class="box" x="43.4" y="198.4" width="256.9" height="8.0"/>

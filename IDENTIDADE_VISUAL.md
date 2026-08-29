@@ -45,6 +45,17 @@ Repositório git: `https://github.com/Randolfoai/familia-pires-genealogia` (bran
 ### 2.3 Subtítulo "(Denominados Troncos)" / "(Denominados Tronco-raiz)"
 Do template mais antigo, mas o usuário pode pedir de volta pontualmente (ex: "Josina e Manoel (denominados Troncos)"). Quando pedido, colocar um texto itálico centralizado **acima** do casal-tronco. Não é o padrão default — só usar quando o usuário escrever isso explicitamente.
 
+### 2.3.1 Fio lateral para "Filhos somente de X" (bloco solto de um só cônjuge)
+
+Quando um infográfico tem um casal-tronco normal seguido, mais abaixo, de um bloco solto tipo "Filhos somente de Antônio Neres" (filhos de um cônjuge com outra pessoa, fora do casal-tronco principal), **conectar visualmente o bloco solto à caixa do cônjuge correspondente** com um fio dedicado, em vez de deixá-lo solto/desconectado:
+
+- Sai do lado da caixa do cônjuge em questão (direita ou esquerda, dependendo de qual caixa é — direita se for a caixa da direita do casal-tronco) na altura vertical do meio da caixa.
+- Segue horizontalmente até a margem livre daquele lado do infográfico (não cruzar por cima de caixas de filhos nem de fotos — usar a faixa de margem sem conteúdo, tipicamente `x = W - 4` do lado direito).
+- Desce verticalmente por essa margem até a altura onde começa a espinha do bloco solto.
+- Vira horizontalmente até `x = SPINE_X` (28,8), juntando-se ao ponto onde a espinha do bloco solto começa (mesmo x onde a espinha desceria sozinha).
+
+Um único `<path class="ln" d="M{x_caixa},{y_meio} H{x_margem} V{y_espinha_bloco} H{SPINE_X}"/>` resolve o traçado inteiro. Testar sempre a posição de `x_margem` contra a largura real das caixas/fotos do bloco de cima — se ficar exatamente igual à borda direita das caixas (`BOX_X + BOX_W`), o fio passa por cima do conteúdo; usar uma margem clara (ex. `W - 4`, não `W - 20`, quando `BOX_X+BOX_W` já é próximo de `W - 20`).
+
 ### 2.4 Título do infográfico
 Formato padrão: **"Netos/Bisnetos/Filhos de X e Y e seus respectivos cônjuges"**, negrito, ~12.5–13px, alinhado à esquerda perto do topo (`x≈15`).
 - Nível "filhos" com casal-tronco: **normalmente não tem título de texto separado** — o casal-tronco já contextualiza. (Só usar título quando pedido explicitamente ou quando o casal-tronco tiver sido omitido por instrução do usuário.)
