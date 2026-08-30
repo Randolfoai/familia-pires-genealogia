@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 337.1">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="hdr" transform="translate(20 14.0)"><tspan x="0" y="0">Filhos de Pedro e Eva</tspan></text>
+  <path class="ln" d="M28.8,17.0v42.4"/>
+  <line class="ln" x1="28.8" y1="24.1" x2="43.4" y2="24.1"/>
+  <rect class="box" x="43.4" y="19.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 26.9)"><tspan x="0" y="0">Cleosmar Pereira Leite</tspan></text>
+  <line class="ln" x1="28.8" y1="35.9" x2="43.4" y2="35.9"/>
+  <rect class="box" x="43.4" y="31.2" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 38.6)"><tspan x="0" y="0">Cleone Pereira Leite</tspan></text>
+  <line class="ln" x1="28.8" y1="47.7" x2="43.4" y2="47.7"/>
+  <rect class="box" x="43.4" y="43.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 50.4)"><tspan x="0" y="0">Manoel Leite Pires</tspan></text>
+  <line class="ln" x1="28.8" y1="59.4" x2="43.4" y2="59.4"/>
+  <rect class="box" x="43.4" y="54.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 62.2)"><tspan x="0" y="0">José Pereira Leite</tspan></text>
+  <text class="hdr" transform="translate(20 76.5)"><tspan x="0" y="0">Filhos de Maria e Salvador</tspan></text>
+  <path class="ln" d="M28.8,79.5v124.8"/>
+  <line class="ln" x1="28.8" y1="86.6" x2="43.4" y2="86.6"/>
+  <rect class="box" x="43.4" y="81.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 89.3)"><tspan x="0" y="0">Deusamar Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="98.4" x2="43.4" y2="98.4"/>
+  <rect class="box" x="43.4" y="93.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 101.1)"><tspan x="0" y="0">Maria Solange Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="110.1" x2="43.4" y2="110.1"/>
+  <rect class="box" x="43.4" y="105.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 112.9)"><tspan x="0" y="0">João Batista Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="121.9" x2="43.4" y2="121.9"/>
+  <rect class="box" x="43.4" y="117.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 124.7)"><tspan x="0" y="0">Marlene Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="133.7" x2="43.4" y2="133.7"/>
+  <rect class="box" x="43.4" y="129.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 136.4)"><tspan x="0" y="0">Maria de Jesus Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="145.4" x2="43.4" y2="145.4"/>
+  <rect class="box" x="43.4" y="140.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 148.2)"><tspan x="0" y="0">Deuselina Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="157.2" x2="43.4" y2="157.2"/>
+  <rect class="box" x="43.4" y="152.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 160.0)"><tspan x="0" y="0">Horlando Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="169.0" x2="43.4" y2="169.0"/>
+  <rect class="box" x="43.4" y="164.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 171.7)"><tspan x="0" y="0">Raimundo Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="180.8" x2="43.4" y2="180.8"/>
+  <rect class="box" x="43.4" y="176.1" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 183.5)"><tspan x="0" y="0">Vilma Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="192.5" x2="43.4" y2="192.5"/>
+  <rect class="box" x="43.4" y="187.9" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 195.3)"><tspan x="0" y="0">Roberto Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="204.3" x2="43.4" y2="204.3"/>
+  <rect class="box" x="43.4" y="199.7" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 207.1)"><tspan x="0" y="0">Márçio dos Santos Campos (filho só de Salvador)</tspan></text>
+  <text class="hdr" transform="translate(20 221.3)"><tspan x="0" y="0">Filhos de Osvaldo e Maria</tspan></text>
+  <path class="ln" d="M28.8,224.3v30.7"/>
+  <line class="ln" x1="28.8" y1="231.5" x2="43.4" y2="231.5"/>
+  <rect class="box" x="43.4" y="226.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 234.2)"><tspan x="0" y="0">Valdeir Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="243.2" x2="43.4" y2="243.2"/>
+  <rect class="box" x="43.4" y="238.6" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 246.0)"><tspan x="0" y="0">Valdir Pires Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="255.0" x2="43.4" y2="255.0"/>
+  <rect class="box" x="43.4" y="250.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 257.7)"><tspan x="0" y="0">Waldilene Pires Campos</tspan></text>
+  <text class="hdr" transform="translate(20 272.0)"><tspan x="0" y="0">Filhos de Osvaldo e Tereza</tspan></text>
+  <path class="ln" d="M28.8,275.0v42.4"/>
+  <line class="ln" x1="28.8" y1="282.1" x2="43.4" y2="282.1"/>
+  <rect class="box" x="43.4" y="277.5" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 284.9)"><tspan x="0" y="0">Gizelda Pires Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="293.9" x2="43.4" y2="293.9"/>
+  <rect class="box" x="43.4" y="289.3" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 296.7)"><tspan x="0" y="0">Junio Pires Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="305.7" x2="43.4" y2="305.7"/>
+  <rect class="box" x="43.4" y="301.0" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 308.4)"><tspan x="0" y="0">Ozana Pires Pereira</tspan></text>
+  <line class="ln" x1="28.8" y1="317.5" x2="43.4" y2="317.5"/>
+  <rect class="box" x="43.4" y="312.8" width="256.9" height="9.3"/>
+  <text class="nm" transform="translate(53.2 320.2)"><tspan x="0" y="0">Ester Pires Pereira</tspan></text>
+</svg>
