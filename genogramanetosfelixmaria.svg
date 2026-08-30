@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 374.2">
+  <defs>
+    <style>
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Félix e Maria</tspan></text>
+  <path class="ln" d="M28.8,42.0v271.8"/>
+  <line class="ln" x1="28.8" y1="57.3" x2="43.4" y2="57.3"/>
+  <rect class="box" x="43.4" y="49.4" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 60.0)"><tspan x="0" y="0">Antônio Fernandes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="80.7" x2="43.4" y2="80.7"/>
+  <rect class="box" x="43.4" y="72.7" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 83.4)"><tspan x="0" y="0">José Valdecir Fernandes</tspan></text>
+  <line class="ln" x1="28.8" y1="104.0" x2="43.4" y2="104.0"/>
+  <rect class="box" x="43.4" y="96.0" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 106.7)"><tspan x="0" y="0">Anildo Fernandes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="127.3" x2="43.4" y2="127.3"/>
+  <rect class="box" x="43.4" y="119.3" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 130.0)"><tspan x="0" y="0">Maria José Fernandes Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="150.6" x2="43.4" y2="150.6"/>
+  <rect class="box" x="43.4" y="142.6" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 153.3)"><tspan x="0" y="0">Ana Maria Nascimento Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="173.9" x2="43.4" y2="173.9"/>
+  <rect class="box" x="43.4" y="165.9" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 176.6)"><tspan x="0" y="0">Francelina Pires do Nascimento</tspan></text>
+  <line class="ln" x1="28.8" y1="197.2" x2="43.4" y2="197.2"/>
+  <rect class="box" x="43.4" y="189.3" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 199.9)"><tspan x="0" y="0">Luzia do Nascimento Lima</tspan></text>
+  <line class="ln" x1="28.8" y1="220.6" x2="43.4" y2="220.6"/>
+  <rect class="box" x="43.4" y="212.6" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 223.3)"><tspan x="0" y="0">Helena Nascimento Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="243.9" x2="43.4" y2="243.9"/>
+  <rect class="box" x="43.4" y="235.9" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 246.6)"><tspan x="0" y="0">Pedro Pires do Nascimento</tspan></text>
+  <line class="ln" x1="28.8" y1="267.2" x2="43.4" y2="267.2"/>
+  <rect class="box" x="43.4" y="259.2" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 269.9)"><tspan x="0" y="0">Sebastiana Pires do Nascimento</tspan></text>
+  <line class="ln" x1="28.8" y1="290.5" x2="43.4" y2="290.5"/>
+  <rect class="box" x="43.4" y="282.5" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 293.2)"><tspan x="0" y="0">Maria do Bonfim Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="313.8" x2="43.4" y2="313.8"/>
+  <rect class="box" x="43.4" y="305.8" width="256.9" height="16.0"/>
+  <text class="nm" transform="translate(53.2 316.5)"><tspan x="0" y="0">Maria das Graças</tspan></text>
+  <text class="sec" transform="translate(20 339.8)"><tspan x="0" y="0">Bisnetos de Félix e Maria</tspan></text>
+  <path class="ln" d="M28.8,342.8v16.1"/>
+  <line class="ln" x1="28.8" y1="358.9" x2="43.4" y2="358.9"/>
+  <rect class="box" x="43.4" y="350.2" width="256.9" height="17.5"/>
+  <text class="nm" transform="translate(53.2 358.7)"><tspan x="0" y="0">Antônia, Derocy, Ercílio, Nazir, Salomão, Terezinha e Zilda.</tspan></text>
+</svg>
