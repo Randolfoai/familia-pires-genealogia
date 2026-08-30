@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="sec" transform="translate(20 16.8)"><tspan x="0" y="0">Bisnetos de Abel e Joana</tspan></text>
+  <text class="hdr" transform="translate(20 33.6)"><tspan x="0" y="0">Netos de Jaime e Zélia</tspan></text>
+  <path class="ln" d="M28.8,36.6v148.3"/>
+  <line class="ln" x1="28.8" y1="46.2" x2="43.4" y2="46.2"/>
+  <rect class="box" x="43.4" y="40.4" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 48.9)"><tspan x="0" y="0">Victor Hugo Ribeiro Rocha</tspan></text>
+  <line class="ln" x1="28.8" y1="61.6" x2="43.4" y2="61.6"/>
+  <rect class="box" x="43.4" y="55.8" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 64.3)"><tspan x="0" y="0">Vivian Setubal de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="77.0" x2="43.4" y2="77.0"/>
+  <rect class="box" x="43.4" y="71.2" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 79.7)"><tspan x="0" y="0">Wander Ribeiro de O. Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="92.5" x2="43.4" y2="92.5"/>
+  <rect class="box" x="43.4" y="86.6" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 95.2)"><tspan x="0" y="0">Lara Ribeiro de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="107.9" x2="43.4" y2="107.9"/>
+  <rect class="box" x="43.4" y="102.1" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 110.6)"><tspan x="0" y="0">Samuel R. Caetano de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="123.3" x2="43.4" y2="123.3"/>
+  <rect class="box" x="43.4" y="117.5" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 126.0)"><tspan x="0" y="0">Maria Clara R. C. de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="138.7" x2="43.4" y2="138.7"/>
+  <rect class="box" x="43.4" y="132.9" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 141.4)"><tspan x="0" y="0">Maria Luiza R. C. de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="154.1" x2="43.4" y2="154.1"/>
+  <rect class="box" x="43.4" y="148.3" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 156.8)"><tspan x="0" y="0">Sofia Almeida de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="169.5" x2="43.4" y2="169.5"/>
+  <rect class="box" x="43.4" y="163.7" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 172.2)"><tspan x="0" y="0">Pedro Jaime A. de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="184.9" x2="43.4" y2="184.9"/>
+  <rect class="box" x="43.4" y="179.1" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 187.6)"><tspan x="0" y="0">Felipe Barcelá de Oliveira</tspan></text>
+  <text class="hdr" transform="translate(20 202.6)"><tspan x="0" y="0">Netos de José e Nilda</tspan></text>
+  <path class="ln" d="M28.8,205.6v86.7"/>
+  <line class="ln" x1="28.8" y1="215.2" x2="43.4" y2="215.2"/>
+  <rect class="box" x="43.4" y="209.4" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 217.9)"><tspan x="0" y="0">Guilherme de Deus Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="230.6" x2="43.4" y2="230.6"/>
+  <rect class="box" x="43.4" y="224.8" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 233.3)"><tspan x="0" y="0">Samanta de Deus Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="246.0" x2="43.4" y2="246.0"/>
+  <rect class="box" x="43.4" y="240.2" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 248.7)"><tspan x="0" y="0">Rebeca Oliveira dos Santos</tspan></text>
+  <line class="ln" x1="28.8" y1="261.4" x2="43.4" y2="261.4"/>
+  <rect class="box" x="43.4" y="255.6" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 264.1)"><tspan x="0" y="0">Valentina Oliveira Cardoso</tspan></text>
+  <line class="ln" x1="28.8" y1="276.8" x2="43.4" y2="276.8"/>
+  <rect class="box" x="43.4" y="271.0" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 279.5)"><tspan x="0" y="0">Artur Monteiro de Oliveira</tspan></text>
+  <line class="ln" x1="28.8" y1="292.2" x2="43.4" y2="292.2"/>
+  <rect class="box" x="43.4" y="286.4" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 294.9)"><tspan x="0" y="0">Jose Neto Pereira de Oliveira</tspan></text>
+  <text class="hdr" transform="translate(20 309.8)"><tspan x="0" y="0">Netos de Aldenora e Liberato</tspan></text>
+  <path class="ln" d="M28.8,312.8v148.3"/>
+  <line class="ln" x1="28.8" y1="322.5" x2="43.4" y2="322.5"/>
+  <rect class="box" x="43.4" y="316.6" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 325.2)"><tspan x="0" y="0">Rafael Câmara Dias</tspan></text>
+  <line class="ln" x1="28.8" y1="337.9" x2="43.4" y2="337.9"/>
+  <rect class="box" x="43.4" y="332.1" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 340.6)"><tspan x="0" y="0">Rúbens Dário Lima de Castro</tspan></text>
+  <line class="ln" x1="28.8" y1="353.3" x2="43.4" y2="353.3"/>
+  <rect class="box" x="43.4" y="347.5" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 356.0)"><tspan x="0" y="0">Larissa Queiroz Câmara</tspan></text>
+  <line class="ln" x1="28.8" y1="368.7" x2="43.4" y2="368.7"/>
+  <rect class="box" x="43.4" y="362.9" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 371.4)"><tspan x="0" y="0">Matheus Queiroz Câmara</tspan></text>
+  <line class="ln" x1="28.8" y1="384.1" x2="43.4" y2="384.1"/>
+  <rect class="box" x="43.4" y="378.3" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 386.8)"><tspan x="0" y="0">Felipe Câmara Batista</tspan></text>
+  <line class="ln" x1="28.8" y1="399.5" x2="43.4" y2="399.5"/>
+  <rect class="box" x="43.4" y="393.7" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 402.2)"><tspan x="0" y="0">Guilherme Câmara Batista</tspan></text>
+  <line class="ln" x1="28.8" y1="414.9" x2="43.4" y2="414.9"/>
+  <rect class="box" x="43.4" y="409.1" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 417.6)"><tspan x="0" y="0">Estácio Junior C. Machado</tspan></text>
+  <line class="ln" x1="28.8" y1="430.4" x2="43.4" y2="430.4"/>
+  <rect class="box" x="43.4" y="424.6" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 433.1)"><tspan x="0" y="0">Vitória Câmara Machado</tspan></text>
+  <line class="ln" x1="28.8" y1="445.8" x2="43.4" y2="445.8"/>
+  <rect class="box" x="43.4" y="440.0" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 448.5)"><tspan x="0" y="0">Bruno Câmara do Nascimento</tspan></text>
+  <line class="ln" x1="28.8" y1="461.2" x2="43.4" y2="461.2"/>
+  <rect class="box" x="43.4" y="455.4" width="256.9" height="11.6"/>
+  <text class="nm" transform="translate(53.2 463.9)"><tspan x="0" y="0">Júlia Câmara do Nascimento</tspan></text>
+</svg>
