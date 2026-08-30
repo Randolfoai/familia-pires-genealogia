@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 490.4">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 432.0">
   <defs>
     <style>
       .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 6.8px; font-weight: 700; }
@@ -11,123 +11,123 @@
       .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
     </style>
   </defs>
-  <rect class="box" x="94.2" y="4.3" width="62" height="10.5"/>
-  <text class="cb" transform="translate(125.2 12.0)" text-anchor="middle"><tspan x="0" y="0">Pedro</tspan></text>
-  <rect class="box" x="164.2" y="4.3" width="62" height="10.5"/>
-  <text class="cb" transform="translate(195.2 12.0)" text-anchor="middle"><tspan x="0" y="0">Maria</tspan></text>
-  <path class="ln" d="M125.2,14.8 v2 l35.0,2"/>
-  <path class="ln" d="M195.2,14.8 v2 l-35.0,2"/>
-  <path class="ln" d="M28.8,20.8v122.1"/>
-  <line class="ln" x1="28.8" y1="27.4" x2="43.4" y2="27.4"/>
-  <rect class="box" x="43.4" y="22.8" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 29.4)"><tspan class="nm1" x="0" y="0">Joana Oliveira Cunha</tspan><tspan class="sp1"> (Joaninha) / Boaventura Silva Cunha</tspan></text>
-  <line class="ln" x1="28.8" y1="45.7" x2="43.4" y2="45.7"/>
-  <rect class="box" x="43.4" y="34.0" width="256.9" height="23.3"/>
-  <text class="nm1" transform="translate(53.2 40.7)"><tspan x="0" y="0">Lenir Pires Barros</tspan></text>
-  <text class="sp1" transform="translate(53.2 47.7)"><tspan x="0" y="0">/ José Fonseca da Silva (1º casamento)</tspan></text>
-  <text class="sp1" transform="translate(53.2 54.7)"><tspan x="0" y="0">/ José Barbosa de Oliveira (2º casamento)</tspan></text>
-  <line class="ln" x1="28.8" y1="64.0" x2="43.4" y2="64.0"/>
-  <rect class="box" x="43.4" y="59.3" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 66.0)"><tspan class="nm1" x="0" y="0">Antônio Pires Barros</tspan><tspan class="sp1"> (solteiro)</tspan></text>
-  <line class="ln" x1="28.8" y1="75.3" x2="43.4" y2="75.3"/>
-  <rect class="box" x="43.4" y="70.6" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 77.3)"><tspan class="nm1" x="0" y="0">Manoel Barros de Oliveira</tspan><tspan class="sp1"> (faleceu ainda criança)</tspan></text>
-  <line class="ln" x1="28.8" y1="86.5" x2="43.4" y2="86.5"/>
-  <rect class="box" x="43.4" y="81.9" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 88.5)"><tspan class="nm1" x="0" y="0">Isaurina Barros Pires</tspan><tspan class="sp1"> / Sabino</tspan></text>
-  <line class="ln" x1="28.8" y1="97.8" x2="43.4" y2="97.8"/>
-  <rect class="box" x="43.4" y="93.1" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 99.8)"><tspan class="nm1" x="0" y="0">Maria Barros de Oliveira</tspan><tspan class="sp1"> (Mundoca) / Osmar Alves Mundoco</tspan></text>
-  <line class="ln" x1="28.8" y1="109.1" x2="43.4" y2="109.1"/>
-  <rect class="box" x="43.4" y="104.4" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 111.1)"><tspan class="nm1" x="0" y="0">Francisca Barros de Oliveira</tspan><tspan class="sp1"> / Diomar Becman</tspan></text>
-  <line class="ln" x1="28.8" y1="120.4" x2="43.4" y2="120.4"/>
-  <rect class="box" x="43.4" y="115.7" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 122.4)"><tspan class="nm1" x="0" y="0">José Barros de Oliveira</tspan><tspan class="sp1"> / Marilda Barros da Glória</tspan></text>
-  <line class="ln" x1="28.8" y1="131.6" x2="43.4" y2="131.6"/>
-  <rect class="box" x="43.4" y="127.0" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 133.6)"><tspan class="nm1" x="0" y="0">Luciene Pires Barros</tspan><tspan class="sp1"> / José Barbosa</tspan></text>
-  <line class="ln" x1="28.8" y1="142.9" x2="43.4" y2="142.9"/>
-  <rect class="box" x="43.4" y="138.2" width="256.9" height="9.3"/>
-  <text transform="translate(53.2 144.9)"><tspan class="nm1" x="0" y="0">Jardilina Alves Barros</tspan><tspan class="sp1"> (Preta) (filha só de Maria Salviana)</tspan></text>
-  <text class="ttl" transform="translate(160.2 158.4)" text-anchor="middle"><tspan x="0" y="0">Netos de Pedro e Maria</tspan></text>
-  <path class="ln" d="M28.8,178.4v282.6"/>
-  <line class="ln" x1="28.8" y1="184.8" x2="43.4" y2="184.8"/>
-  <rect class="box" x="43.4" y="180.2" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 187.5)"><tspan x="0" y="0">Edimar Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="195.9" x2="43.4" y2="195.9"/>
-  <rect class="box" x="43.4" y="191.3" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 198.6)"><tspan x="0" y="0">José Ribamar S. da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="206.9" x2="43.4" y2="206.9"/>
-  <rect class="box" x="43.4" y="202.3" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 209.6)"><tspan x="0" y="0">Lucilene Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="218.0" x2="43.4" y2="218.0"/>
-  <rect class="box" x="43.4" y="213.4" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 220.7)"><tspan x="0" y="0">Lucimar Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="229.0" x2="43.4" y2="229.0"/>
-  <rect class="box" x="43.4" y="224.4" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 231.7)"><tspan x="0" y="0">Mauro Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="240.1" x2="43.4" y2="240.1"/>
-  <rect class="box" x="43.4" y="235.5" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 242.8)"><tspan x="0" y="0">Maurício Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="251.1" x2="43.4" y2="251.1"/>
-  <rect class="box" x="43.4" y="246.5" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 253.8)"><tspan x="0" y="0">Maurilene Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="262.2" x2="43.4" y2="262.2"/>
-  <rect class="box" x="43.4" y="257.6" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 264.9)"><tspan x="0" y="0">Maurinones Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="273.2" x2="43.4" y2="273.2"/>
-  <rect class="box" x="43.4" y="268.6" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 275.9)"><tspan x="0" y="0">Vera Lúcia Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="284.2" x2="43.4" y2="284.2"/>
-  <rect class="box" x="43.4" y="279.6" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 286.9)"><tspan x="0" y="0">Veronilsa Sousa da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="295.3" x2="43.4" y2="295.3"/>
-  <rect class="box" x="43.4" y="290.7" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 298.0)"><tspan x="0" y="0">Maria Cleide Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="306.3" x2="43.4" y2="306.3"/>
-  <rect class="box" x="43.4" y="301.7" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 309.0)"><tspan x="0" y="0">Maria do Carmo L. da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="317.4" x2="43.4" y2="317.4"/>
-  <rect class="box" x="43.4" y="312.8" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 320.1)"><tspan x="0" y="0">Maria José Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="328.4" x2="43.4" y2="328.4"/>
-  <rect class="box" x="43.4" y="323.8" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 331.1)"><tspan x="0" y="0">Maria de Jesus L. da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="339.5" x2="43.4" y2="339.5"/>
-  <rect class="box" x="43.4" y="334.9" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 342.2)"><tspan x="0" y="0">Maria da Luz Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="350.5" x2="43.4" y2="350.5"/>
-  <rect class="box" x="43.4" y="345.9" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 353.2)"><tspan x="0" y="0">Osmar Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="361.6" x2="43.4" y2="361.6"/>
-  <rect class="box" x="43.4" y="357.0" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 364.3)"><tspan x="0" y="0">Geraldo Lopes da Silva</tspan></text>
+  <rect class="box" x="94.2" y="6.0" width="62" height="9.5"/>
+  <text class="cb" transform="translate(125.2 13.1)" text-anchor="middle"><tspan x="0" y="0">Pedro</tspan></text>
+  <rect class="box" x="164.2" y="6.0" width="62" height="9.5"/>
+  <text class="cb" transform="translate(195.2 13.1)" text-anchor="middle"><tspan x="0" y="0">Maria</tspan></text>
+  <path class="ln" d="M125.2,15.5 v2 l35.0,2"/>
+  <path class="ln" d="M195.2,15.5 v2 l-35.0,2"/>
+  <path class="ln" d="M28.8,21.5v99.3"/>
+  <line class="ln" x1="28.8" y1="26.7" x2="43.4" y2="26.7"/>
+  <rect class="box" x="43.4" y="22.9" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 28.7)"><tspan class="nm1" x="0" y="0">Joana Oliveira Cunha</tspan><tspan class="sp1"> (Joaninha) / Boaventura Silva Cunha</tspan></text>
+  <line class="ln" x1="28.8" y1="41.8" x2="43.4" y2="41.8"/>
+  <rect class="box" x="43.4" y="32.0" width="256.9" height="19.8"/>
+  <text class="nm1" transform="translate(53.2 37.8)"><tspan x="0" y="0">Lenir Pires Barros</tspan></text>
+  <text class="sp1" transform="translate(53.2 43.8)"><tspan x="0" y="0">/ José Fonseca da Silva (1º casamento)</tspan></text>
+  <text class="sp1" transform="translate(53.2 49.8)"><tspan x="0" y="0">/ José Barbosa de Oliveira (2º casamento)</tspan></text>
+  <line class="ln" x1="28.8" y1="57.0" x2="43.4" y2="57.0"/>
+  <rect class="box" x="43.4" y="53.1" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 59.0)"><tspan class="nm1" x="0" y="0">Antônio Pires Barros</tspan><tspan class="sp1"> (solteiro)</tspan></text>
+  <line class="ln" x1="28.8" y1="66.1" x2="43.4" y2="66.1"/>
+  <rect class="box" x="43.4" y="62.2" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 68.1)"><tspan class="nm1" x="0" y="0">Manoel Barros de Oliveira</tspan><tspan class="sp1"> (faleceu ainda criança)</tspan></text>
+  <line class="ln" x1="28.8" y1="75.2" x2="43.4" y2="75.2"/>
+  <rect class="box" x="43.4" y="71.3" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 77.2)"><tspan class="nm1" x="0" y="0">Isaurina Barros Pires</tspan><tspan class="sp1"> / Sabino</tspan></text>
+  <line class="ln" x1="28.8" y1="84.3" x2="43.4" y2="84.3"/>
+  <rect class="box" x="43.4" y="80.4" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 86.3)"><tspan class="nm1" x="0" y="0">Maria Barros de Oliveira</tspan><tspan class="sp1"> (Mundoca) / Osmar Alves Mundoco</tspan></text>
+  <line class="ln" x1="28.8" y1="93.4" x2="43.4" y2="93.4"/>
+  <rect class="box" x="43.4" y="89.6" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 95.4)"><tspan class="nm1" x="0" y="0">Francisca Barros de Oliveira</tspan><tspan class="sp1"> / Diomar Becman</tspan></text>
+  <line class="ln" x1="28.8" y1="102.6" x2="43.4" y2="102.6"/>
+  <rect class="box" x="43.4" y="98.7" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 104.6)"><tspan class="nm1" x="0" y="0">José Barros de Oliveira</tspan><tspan class="sp1"> / Marilda Barros da Glória</tspan></text>
+  <line class="ln" x1="28.8" y1="111.7" x2="43.4" y2="111.7"/>
+  <rect class="box" x="43.4" y="107.8" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 113.7)"><tspan class="nm1" x="0" y="0">Luciene Pires Barros</tspan><tspan class="sp1"> / José Barbosa</tspan></text>
+  <line class="ln" x1="28.8" y1="120.8" x2="43.4" y2="120.8"/>
+  <rect class="box" x="43.4" y="116.9" width="256.9" height="7.8"/>
+  <text transform="translate(53.2 122.8)"><tspan class="nm1" x="0" y="0">Jardilina Alves Barros</tspan><tspan class="sp1"> (Preta) (filha só de Maria Salviana)</tspan></text>
+  <text class="ttl" transform="translate(160.2 137.3)" text-anchor="middle"><tspan x="0" y="0">Netos de Pedro e Maria</tspan></text>
+  <path class="ln" d="M28.8,157.3v243.9"/>
+  <line class="ln" x1="28.8" y1="162.9" x2="43.4" y2="162.9"/>
+  <rect class="box" x="43.4" y="158.9" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 165.6)"><tspan x="0" y="0">Edimar Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="172.4" x2="43.4" y2="172.4"/>
+  <rect class="box" x="43.4" y="168.4" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 175.1)"><tspan x="0" y="0">José Ribamar S. da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="181.9" x2="43.4" y2="181.9"/>
+  <rect class="box" x="43.4" y="177.9" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 184.6)"><tspan x="0" y="0">Lucilene Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="191.5" x2="43.4" y2="191.5"/>
+  <rect class="box" x="43.4" y="187.5" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 194.2)"><tspan x="0" y="0">Lucimar Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="201.0" x2="43.4" y2="201.0"/>
+  <rect class="box" x="43.4" y="197.0" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 203.7)"><tspan x="0" y="0">Mauro Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="210.5" x2="43.4" y2="210.5"/>
+  <rect class="box" x="43.4" y="206.6" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 213.2)"><tspan x="0" y="0">Maurício Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="220.1" x2="43.4" y2="220.1"/>
+  <rect class="box" x="43.4" y="216.1" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 222.8)"><tspan x="0" y="0">Maurilene Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="229.6" x2="43.4" y2="229.6"/>
+  <rect class="box" x="43.4" y="225.6" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 232.3)"><tspan x="0" y="0">Maurinones Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="239.2" x2="43.4" y2="239.2"/>
+  <rect class="box" x="43.4" y="235.2" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 241.9)"><tspan x="0" y="0">Vera Lúcia Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="248.7" x2="43.4" y2="248.7"/>
+  <rect class="box" x="43.4" y="244.7" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 251.4)"><tspan x="0" y="0">Veronilsa Sousa da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="258.2" x2="43.4" y2="258.2"/>
+  <rect class="box" x="43.4" y="254.2" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 260.9)"><tspan x="0" y="0">Maria Cleide Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="267.8" x2="43.4" y2="267.8"/>
+  <rect class="box" x="43.4" y="263.8" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 270.5)"><tspan x="0" y="0">Maria do Carmo L. da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="277.3" x2="43.4" y2="277.3"/>
+  <rect class="box" x="43.4" y="273.3" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 280.0)"><tspan x="0" y="0">Maria José Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="286.8" x2="43.4" y2="286.8"/>
+  <rect class="box" x="43.4" y="282.8" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 289.5)"><tspan x="0" y="0">Maria de Jesus L. da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="296.4" x2="43.4" y2="296.4"/>
+  <rect class="box" x="43.4" y="292.4" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 299.1)"><tspan x="0" y="0">Maria da Luz Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="305.9" x2="43.4" y2="305.9"/>
+  <rect class="box" x="43.4" y="301.9" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 308.6)"><tspan x="0" y="0">Osmar Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="315.4" x2="43.4" y2="315.4"/>
+  <rect class="box" x="43.4" y="311.4" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 318.1)"><tspan x="0" y="0">Geraldo Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="325.0" x2="43.4" y2="325.0"/>
+  <rect class="box" x="43.4" y="321.0" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 327.7)"><tspan x="0" y="0">Luis Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="334.5" x2="43.4" y2="334.5"/>
+  <rect class="box" x="43.4" y="330.5" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 337.2)"><tspan x="0" y="0">Moises Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="344.0" x2="43.4" y2="344.0"/>
+  <rect class="box" x="43.4" y="340.0" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 346.7)"><tspan x="0" y="0">Maria Raquel Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="353.6" x2="43.4" y2="353.6"/>
+  <rect class="box" x="43.4" y="349.6" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 356.3)"><tspan x="0" y="0">Ana Paula Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="363.1" x2="43.4" y2="363.1"/>
+  <rect class="box" x="43.4" y="359.1" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 365.8)"><tspan x="0" y="0">Larissa Lopes da Silva</tspan></text>
   <line class="ln" x1="28.8" y1="372.6" x2="43.4" y2="372.6"/>
-  <rect class="box" x="43.4" y="368.0" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 375.3)"><tspan x="0" y="0">Luis Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="383.7" x2="43.4" y2="383.7"/>
-  <rect class="box" x="43.4" y="379.1" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 386.4)"><tspan x="0" y="0">Moises Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="394.7" x2="43.4" y2="394.7"/>
-  <rect class="box" x="43.4" y="390.1" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 397.4)"><tspan x="0" y="0">Maria Raquel Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="405.8" x2="43.4" y2="405.8"/>
-  <rect class="box" x="43.4" y="401.2" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 408.5)"><tspan x="0" y="0">Ana Paula Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="416.8" x2="43.4" y2="416.8"/>
-  <rect class="box" x="43.4" y="412.2" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 419.5)"><tspan x="0" y="0">Larissa Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="427.9" x2="43.4" y2="427.9"/>
-  <rect class="box" x="43.4" y="423.3" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 430.6)"><tspan x="0" y="0">Elias Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="438.9" x2="43.4" y2="438.9"/>
-  <rect class="box" x="43.4" y="434.3" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 441.6)"><tspan x="0" y="0">Luciano Lopes da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="450.0" x2="43.4" y2="450.0"/>
-  <rect class="box" x="43.4" y="445.4" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 452.7)"><tspan x="0" y="0">Auristela da Silva</tspan></text>
-  <line class="ln" x1="28.8" y1="461.0" x2="43.4" y2="461.0"/>
-  <rect class="box" x="43.4" y="456.4" width="256.9" height="9.2"/>
-  <text class="nm" transform="translate(53.2 463.7)"><tspan x="0" y="0">Adriana da Silva</tspan></text>
+  <rect class="box" x="43.4" y="368.7" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 375.3)"><tspan x="0" y="0">Elias Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="382.2" x2="43.4" y2="382.2"/>
+  <rect class="box" x="43.4" y="378.2" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 384.9)"><tspan x="0" y="0">Luciano Lopes da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="391.7" x2="43.4" y2="391.7"/>
+  <rect class="box" x="43.4" y="387.7" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 394.4)"><tspan x="0" y="0">Auristela da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="401.3" x2="43.4" y2="401.3"/>
+  <rect class="box" x="43.4" y="397.3" width="256.9" height="8.0"/>
+  <text class="nm" transform="translate(53.2 404.0)"><tspan x="0" y="0">Adriana da Silva</tspan></text>
 </svg>
