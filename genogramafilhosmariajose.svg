@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 64.5">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
-      .cb  { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .sub { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 6.8px; font-style: italic; }
-      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.6px; font-weight: 700; }
-      .box { fill: #fff; stroke: #000; stroke-width: .5px; stroke-miterlimit: 11.3; }
-      .ln { fill: none; stroke: #000; stroke-width: 0.9px; stroke-miterlimit: 11.3; }
+      .st0 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+        font-size: 7.6px;
+        font-weight: 700;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #fff;
+        stroke-width: .5px;
+      }
+
+      .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st2 {
+        font-family: AGaramondPro-Italic, 'Adobe Garamond Pro';
+        font-size: 6.8px;
+        font-style: italic;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: .9px;
+      }
     </style>
   </defs>
-  <text class="sub" transform="translate(160.2 8.0)" text-anchor="middle"><tspan x="0" y="0">(denominado Tronco)</tspan></text>
-  <rect class="box" x="94.2" y="18.0" width="62" height="13.0"/>
-  <text class="cb" transform="translate(125.2 27.1)" text-anchor="middle"><tspan x="0" y="0">Maria</tspan></text>
-  <rect class="box" x="164.2" y="18.0" width="62" height="13.0"/>
-  <text class="cb" transform="translate(195.2 27.1)" text-anchor="middle"><tspan x="0" y="0">José</tspan></text>
-  <path class="ln" d="M125.2,31.0 v2 l35.0,2"/>
-  <path class="ln" d="M195.2,31.0 v2 l-35.0,2"/>
-  <path class="ln" d="M160.2,34.0v5.0H28.8v11.0"/>
-  <line class="ln" x1="28.8" y1="48.0" x2="43.4" y2="48.0"/>
-  <rect class="box" x="43.4" y="41.5" width="256.9" height="13.0"/>
-  <text class="nm" transform="translate(53.2 50.3)"><tspan x="0" y="0">Abel Pires de Oliveira</tspan></text>
+  <g class="st1">
+    <text class="st2" transform="translate(133.3 11)"><tspan x="0" y="0">(denominado Tronco)</tspan></text>
+  </g>
+  <rect class="st3" x="94.2" y="18" width="62" height="13"/>
+  <g class="st1">
+    <text class="st0" transform="translate(115.9 27.1)"><tspan x="0" y="0">Maria</tspan></text>
+  </g>
+  <rect class="st3" x="164.2" y="18" width="62" height="13"/>
+  <g class="st1">
+    <text class="st0" transform="translate(188.9 27.1)"><tspan x="0" y="0">José</tspan></text>
+  </g>
+  <path class="st4" d="M125.2,31v2l35,2"/>
+  <path class="st4" d="M195.2,31v2l-35,2"/>
+  <path class="st4" d="M160.2,34v5H28.8v14"/>
+  <g>
+    <line class="st4" x1="28.8" y1="53" x2="43.4" y2="53"/>
+    <rect class="st3" x="43.4" y="46.5" width="256.9" height="13"/>
+    <g class="st1">
+      <text class="st0" transform="translate(53.2 55.3)"><tspan x="0" y="0">Abel Pires de Oliveira</tspan></text>
+    </g>
+  </g>
 </svg>
