@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 425.2">
+  <defs>
+    <style>
+      .hdr { font-family: AGaramondPro-Italic, "Adobe Garamond Pro"; font-size: 8px; font-style: italic; font-weight: 700; }
+      .sec { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 9.8px; font-weight: 700; }
+      .ttl { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 11.5px; font-weight: 700; }
+      .nm { font-family: AGaramondPro-Bold, "Adobe Garamond Pro"; font-size: 7.4px; font-weight: 700; }
+      .sp { font-family: AGaramondPro-BoldItalic, "Adobe Garamond Pro"; font-size: 7.4px; font-style: italic; font-weight: 700; }
+      .box { fill: #fff; stroke: #000; stroke-width: .6px; stroke-miterlimit: 11.3; }
+      .ln { fill: none; stroke: #000; stroke-width: 1.1px; stroke-miterlimit: 11.3; }
+    </style>
+  </defs>
+  <text class="ttl" transform="translate(160.2 14.0)" text-anchor="middle"><tspan x="0" y="0">Netos de Izidória e Severiano e seus respectivos cônjuges</tspan></text>
+  <text class="hdr" transform="translate(20 28.1)"><tspan x="0" y="0">Filhos de Maria e João</tspan></text>
+  <path class="ln" d="M28.8,31.1v51.8"/>
+  <line class="ln" x1="28.8" y1="37.7" x2="43.4" y2="37.7"/>
+  <rect class="box" x="43.4" y="32.8" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 40.4)"><tspan x="0" y="0">Braulinio Campos (faleceu ainda criança)</tspan></text>
+  <line class="ln" x1="28.8" y1="49.0" x2="43.4" y2="49.0"/>
+  <rect class="box" x="43.4" y="44.2" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 51.7)"><tspan class="nm" x="0" y="0">Valdir Campos Pereira</tspan><tspan class="sp"> / Geralda</tspan></text>
+  <line class="ln" x1="28.8" y1="60.3" x2="43.4" y2="60.3"/>
+  <rect class="box" x="43.4" y="55.5" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 63.0)"><tspan x="0" y="0">Valdez Pereira Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="71.6" x2="43.4" y2="71.6"/>
+  <rect class="box" x="43.4" y="66.8" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 74.3)"><tspan x="0" y="0">Mariene Pereira Campos</tspan></text>
+  <line class="ln" x1="28.8" y1="82.9" x2="43.4" y2="82.9"/>
+  <rect class="box" x="43.4" y="78.1" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 85.7)"><tspan class="nm" x="0" y="0">Iranildes Pereira Campos</tspan><tspan class="sp"> / Marcos</tspan></text>
+  <text class="hdr" transform="translate(20 92.7)"><tspan x="0" y="0">Filhos de Raimundo e Maria</tspan></text>
+  <path class="ln" d="M28.8,95.7v74.4"/>
+  <line class="ln" x1="28.8" y1="102.2" x2="43.4" y2="102.2"/>
+  <rect class="box" x="43.4" y="97.4" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 105.0)"><tspan class="nm" x="0" y="0">Ribamar Ferreira Parente</tspan><tspan class="sp"> / Rosicleia dos S.Tocantins Parente</tspan></text>
+  <line class="ln" x1="28.8" y1="113.5" x2="43.4" y2="113.5"/>
+  <rect class="box" x="43.4" y="108.7" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 116.3)"><tspan class="nm" x="0" y="0">Gisamar Ferreira Parente</tspan><tspan class="sp"> / Cleudimar Lima da Costa</tspan></text>
+  <line class="ln" x1="28.8" y1="124.8" x2="43.4" y2="124.8"/>
+  <rect class="box" x="43.4" y="120.0" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 127.6)"><tspan class="nm" x="0" y="0">Edimar Ferreira Parente</tspan><tspan class="sp"> / Celma Ribeiro da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="136.2" x2="43.4" y2="136.2"/>
+  <rect class="box" x="43.4" y="131.3" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 138.9)"><tspan x="0" y="0">Neidemar Ferreira Parente (faleceu ainda criança)</tspan></text>
+  <line class="ln" x1="28.8" y1="147.5" x2="43.4" y2="147.5"/>
+  <rect class="box" x="43.4" y="142.7" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 150.2)"><tspan class="nm" x="0" y="0">Eusamar Ferreira de Sousa Parente</tspan><tspan class="sp"> / Edenilso Nunes de Sousa</tspan></text>
+  <line class="ln" x1="28.8" y1="158.8" x2="43.4" y2="158.8"/>
+  <rect class="box" x="43.4" y="154.0" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 161.5)"><tspan class="nm" x="0" y="0">Iramar Ferreira Parente Pereira</tspan><tspan class="sp"> / Samuel Pereira da Silva</tspan></text>
+  <line class="ln" x1="28.8" y1="170.1" x2="43.4" y2="170.1"/>
+  <rect class="box" x="43.4" y="165.3" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 172.8)"><tspan x="0" y="0">Cleidimar Ferreira Parente</tspan></text>
+  <text class="hdr" transform="translate(20 179.9)"><tspan x="0" y="0">Filhos de Carmozina e José</tspan></text>
+  <path class="ln" d="M28.8,182.9v108.3"/>
+  <line class="ln" x1="28.8" y1="189.4" x2="43.4" y2="189.4"/>
+  <rect class="box" x="43.4" y="184.6" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 192.1)"><tspan class="nm" x="0" y="0">Edivaldo Parente de Brito</tspan><tspan class="sp"> / Valdeci</tspan></text>
+  <line class="ln" x1="28.8" y1="200.7" x2="43.4" y2="200.7"/>
+  <rect class="box" x="43.4" y="195.9" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 203.5)"><tspan class="nm" x="0" y="0">Josielma Parente de Brito</tspan><tspan class="sp"> / Marcelo</tspan></text>
+  <line class="ln" x1="28.8" y1="212.0" x2="43.4" y2="212.0"/>
+  <rect class="box" x="43.4" y="207.2" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 214.8)"><tspan x="0" y="0">Francisca Parente de Brito</tspan></text>
+  <line class="ln" x1="28.8" y1="223.3" x2="43.4" y2="223.3"/>
+  <rect class="box" x="43.4" y="218.5" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 226.1)"><tspan class="nm" x="0" y="0">Maria Bomfim Parente de Brito</tspan><tspan class="sp"> / Onesio</tspan></text>
+  <line class="ln" x1="28.8" y1="234.6" x2="43.4" y2="234.6"/>
+  <rect class="box" x="43.4" y="229.8" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 237.4)"><tspan x="0" y="0">Antônio Parente de Brito</tspan></text>
+  <line class="ln" x1="28.8" y1="246.0" x2="43.4" y2="246.0"/>
+  <rect class="box" x="43.4" y="241.2" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 248.7)"><tspan x="0" y="0">Maria Lúcia Parente de Brito</tspan></text>
+  <line class="ln" x1="28.8" y1="257.3" x2="43.4" y2="257.3"/>
+  <rect class="box" x="43.4" y="252.5" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 260.0)"><tspan x="0" y="0">Izidória Parente de Brito</tspan></text>
+  <line class="ln" x1="28.8" y1="268.6" x2="43.4" y2="268.6"/>
+  <rect class="box" x="43.4" y="263.8" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 271.3)"><tspan class="nm" x="0" y="0">Severiano Parente de Brito</tspan><tspan class="sp"> / Silvia</tspan></text>
+  <line class="ln" x1="28.8" y1="279.9" x2="43.4" y2="279.9"/>
+  <rect class="box" x="43.4" y="275.1" width="256.9" height="9.6"/>
+  <text transform="translate(53.2 282.6)"><tspan class="nm" x="0" y="0">Jorge Parente de Brito</tspan><tspan class="sp"> / Gleisiane</tspan></text>
+  <line class="ln" x1="28.8" y1="291.2" x2="43.4" y2="291.2"/>
+  <rect class="box" x="43.4" y="286.4" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 294.0)"><tspan x="0" y="0">Vera Lúcia Parente de Brito</tspan></text>
+  <text class="hdr" transform="translate(20 301.0)"><tspan x="0" y="0">Filhos de Aldenor e Iranete</tspan></text>
+  <path class="ln" d="M28.8,304.0v29.1"/>
+  <line class="ln" x1="28.8" y1="310.5" x2="43.4" y2="310.5"/>
+  <rect class="box" x="43.4" y="305.7" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 313.3)"><tspan x="0" y="0">Valdir Batista Parente</tspan></text>
+  <line class="ln" x1="28.8" y1="321.8" x2="43.4" y2="321.8"/>
+  <rect class="box" x="43.4" y="317.0" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 324.6)"><tspan x="0" y="0">Valdenir Batista Parente</tspan></text>
+  <line class="ln" x1="28.8" y1="333.1" x2="43.4" y2="333.1"/>
+  <rect class="box" x="43.4" y="328.3" width="256.9" height="9.6"/>
+  <text class="nm" transform="translate(53.2 335.9)"><tspan x="0" y="0">Valdirene Batista Parente</tspan></text>
+  <text class="sec" transform="translate(20 352.0)"><tspan x="0" y="0">Bisnetos de Izidória e Severiano</tspan></text>
+  <path class="ln" d="M28.8,355.0v53.0"/>
+  <line class="ln" x1="28.8" y1="408.0" x2="43.4" y2="408.0"/>
+  <rect class="box" x="43.4" y="356.7" width="256.9" height="54.9"/>
+  <text class="nm" transform="translate(53.2 365.2)"><tspan x="0" y="0">Roni, Roniza, Washington, Tiago, Tatiani, Rosângela, Manim, Rhoger, Cynd,</tspan></text>
+  <text class="nm" transform="translate(53.2 372.7)"><tspan x="0" y="0">Eduarda, Carlos, Débora, Maria Julia, Pedro Guilherme, Isabelly Vitória,</tspan></text>
+  <text class="nm" transform="translate(53.2 380.2)"><tspan x="0" y="0">Naedo, Sofia, Emanuelly, Evilly, Erik, Ryan, Leonardo, Noemia, Orion,</tspan></text>
+  <text class="nm" transform="translate(53.2 387.7)"><tspan x="0" y="0">Otoniel, Raissa, Michael, Michel, Mikael, Samuel, Edson, Erivaldo,</tspan></text>
+  <text class="nm" transform="translate(53.2 395.2)"><tspan x="0" y="0">Edelson, Edna, Eidina, Eliana, Erbeson, Clebson, Gleikson, Jakeline,</tspan></text>
+  <text class="nm" transform="translate(53.2 402.7)"><tspan x="0" y="0">Jéssica, Vanderlei, Daniel e Felipe.</tspan></text>
+</svg>
