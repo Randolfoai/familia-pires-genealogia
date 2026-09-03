@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320.3 168">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320.3 182">
   <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
@@ -74,10 +74,10 @@
       }
     </style>
     <clipPath id="clippath">
-      <rect class="st9" x="94.6" y="77.5" width="68.6" height="76.7"/>
+      <rect class="st9" x="94.6" y="91.5" width="68.6" height="76.7"/>
     </clipPath>
     <clipPath id="clippath-1">
-      <rect class="st9" x="177.5" y="77.5" width="57" height="76.7"/>
+      <rect class="st9" x="177.5" y="91.5" width="57" height="76.7"/>
     </clipPath>
   </defs>
   <rect class="st6" x="94.2" y="7" width="62" height="8"/>
@@ -94,7 +94,7 @@
   </g>
   <path class="st8" d="M125.2,15v4l35,2"/>
   <path class="st8" d="M195.2,15v4l-35,2"/>
-  <path class="st8" d="M160.2,21v4H28.8v41.5"/>
+  <path class="st8" d="M160.2,21v4H28.8v55.4"/>
   <g>
     <line class="st8" x1="28.8" y1="38.5" x2="43.4" y2="38.5"/>
     <rect class="st5" x="43.4" y="34.3" width="256.9" height="8.5"/>
@@ -112,10 +112,10 @@
     <rect class="st5" x="43.4" y="48.2" width="256.9" height="8.5"/>
     <g class="st4">
       <g class="st4">
-        <text class="st2" transform="translate(53.2 54.2)"><tspan x="0" y="0">Carmozina Campos Parente</tspan></text>
+        <text class="st2" transform="translate(53.2 54.2)"><tspan x="0" y="0">Raimundo Pires Campos</tspan></text>
       </g>
       <g class="st4">
-        <text class="st3" transform="translate(123.7 54.2)"><tspan x="0" y="0" xml:space="preserve"> / José Pereira de Brito</tspan></text>
+        <text class="st3" transform="translate(115.8 54.2)"><tspan x="0" y="0" xml:space="preserve"> / Maria</tspan></text>
       </g>
     </g>
   </g>
@@ -124,32 +124,44 @@
     <rect class="st5" x="43.4" y="62.2" width="256.9" height="8.5"/>
     <g class="st4">
       <g class="st4">
-        <text class="st2" transform="translate(53.2 68.1)"><tspan x="0" y="0">Aldenor Campos Parente</tspan></text>
+        <text class="st2" transform="translate(53.2 68.1)"><tspan x="0" y="0">Carmozina Campos Parente</tspan></text>
       </g>
       <g class="st4">
-        <text class="st3" transform="translate(116.3 68.1)"><tspan x="0" y="0" xml:space="preserve"> / Iranete Batista</tspan></text>
+        <text class="st3" transform="translate(123.7 68.1)"><tspan x="0" y="0" xml:space="preserve"> / José Pereira de Brito</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <line class="st8" x1="28.8" y1="80.4" x2="43.4" y2="80.4"/>
+    <rect class="st5" x="43.4" y="76.2" width="256.9" height="8.5"/>
+    <g class="st4">
+      <g class="st4">
+        <text class="st2" transform="translate(53.2 82.1)"><tspan x="0" y="0">Aldenor Campos Parente</tspan></text>
+      </g>
+      <g class="st4">
+        <text class="st3" transform="translate(116.3 82.1)"><tspan x="0" y="0" xml:space="preserve"> / Iranete Batista</tspan></text>
       </g>
     </g>
   </g>
   <g>
     <g>
-      <rect class="st7" x="94.6" y="77.5" width="68.6" height="76.7"/>
+      <rect class="st7" x="94.6" y="91.5" width="68.6" height="76.7"/>
       <g class="st11">
-        <image class="st4" width="1157" height="1296" transform="translate(94 75.9) scale(0)" xlink:href="genogramafilhosizadoraseveriano-1.png"/>
+        <image class="st4" width="1157" height="1296" transform="translate(94 89.9) scale(0)" xlink:href="genogramafilhosizadoraseveriano-1.png"/>
       </g>
     </g>
-    <rect class="st7" x="177.5" y="77.5" width="57" height="76.7"/>
+    <rect class="st7" x="177.5" y="91.5" width="57" height="76.7"/>
     <g class="st10">
-      <image class="st4" width="133" height="179" transform="translate(177.5 77.5) scale(.4)" xlink:href="genogramafilhosizadoraseveriano-2.png"/>
+      <image class="st4" width="133" height="179" transform="translate(177.5 91.5) scale(.4)" xlink:href="genogramafilhosizadoraseveriano-2.png"/>
     </g>
     <g class="st4">
       <g class="st4">
-        <text class="st0" transform="translate(105.2 162.1)"><tspan x="0" y="0">Raimundo Pires Campos</tspan></text>
+        <text class="st0" transform="translate(105.2 176.1)"><tspan x="0" y="0">Raimundo Pires Campos</tspan></text>
       </g>
     </g>
     <g class="st4">
       <g class="st4">
-        <text class="st0" transform="translate(179 162.1)"><tspan x="0" y="0">Carmozina Campos Parente</tspan></text>
+        <text class="st0" transform="translate(179 176.1)"><tspan x="0" y="0">Carmozina Campos Parente</tspan></text>
       </g>
     </g>
   </g>
