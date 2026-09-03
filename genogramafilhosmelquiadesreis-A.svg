@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 109.95">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 7.4px;
+      }
+
+      .st0, .st1 {
+        font-family: AGaramondPro-Bold, 'Adobe Garamond Pro';
+        font-weight: 700;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        font-size: 7.6px;
+      }
+
+      .st3 {
+        fill: #fff;
+        stroke-width: .5px;
+      }
+
+      .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 11.3;
+      }
+
+      .st4 {
+        fill: none;
+        stroke-width: .9px;
+      }
+    </style>
+  </defs>
+  <rect class="st3" x="129.2" y="5.2" width="62" height="11"/>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st1" transform="translate(142.35 13.3)"><tspan x="0" y="0">Melquiades</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st4" d="M160.2,16.2v8.47"/>
+  <path class="st4" d="M160.2,24.21H28.8v68.5"/>
+  <line class="st4" x1="28.8" y1="44.26" x2="43.4" y2="44.26"/>
+  <rect class="st3" x="43.4" y="36.16" width="256.9" height="16.1"/>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st0" transform="translate(53.2 46.46)"><tspan x="0" y="0">Raimundo Pires dos Reis</tspan></text>
+      </g>
+    </g>
+  </g>
+  <line class="st4" x1="28.8" y1="68.26" x2="43.4" y2="68.26"/>
+  <rect class="st3" x="43.4" y="60.26" width="256.9" height="16.1"/>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st0" transform="translate(53.2 70.46)"><tspan x="0" y="0">Agostina Pires dos Reis</tspan></text>
+      </g>
+    </g>
+  </g>
+  <line class="st4" x1="28.8" y1="92.26" x2="43.4" y2="92.26"/>
+  <rect class="st3" x="43.4" y="84.26" width="256.9" height="16.1"/>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st0" transform="translate(53.2 94.46)"><tspan x="0" y="0">Nair Pires dos Reis</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

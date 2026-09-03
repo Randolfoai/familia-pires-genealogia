@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 100">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320.3 83.7">
   <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
   <defs>
     <style>
@@ -29,43 +29,46 @@
       }
     </style>
   </defs>
-  <rect class="st2" x="94.2" y="8" width="62" height="12"/>
+  <rect class="st2" x="94.2" y="5.63" width="62" height="12"/>
   <g class="st1">
-    <text class="st0" transform="translate(108.9 16.6)"><tspan x="0" y="0">Raimunda</tspan></text>
+    <g class="st1">
+      <text class="st0" transform="translate(108.9 14.23)"><tspan x="0" y="0">Raimunda</tspan></text>
+    </g>
   </g>
-  <rect class="st2" x="164.2" y="8" width="62" height="12"/>
+  <rect class="st2" x="164.2" y="5.63" width="62" height="12"/>
   <g class="st1">
-    <text class="st0" transform="translate(183.4 16.6)"><tspan x="0" y="0">Manoel</tspan></text>
-  </g>
-  <path class="st3" d="M125.2,20v2l35,2"/>
-  <path class="st3" d="M195.2,20v2l-35,2"/>
-  <path class="st3" d="M160.2,24v4H28.8v61"/>
-  <g>
-    <line class="st3" x1="28.8" y1="41" x2="43.4" y2="41"/>
-    <rect class="st2" x="43.4" y="35" width="256.9" height="12"/>
     <g class="st1">
-      <text class="st0" transform="translate(53.2 43.3)"><tspan x="0" y="0">Antônio Pires</tspan></text>
+      <text class="st0" transform="translate(183.4 14.23)"><tspan x="0" y="0">Manoel</tspan></text>
+    </g>
+  </g>
+  <path class="st3" d="M125.2,17.63v2l35,2"/>
+  <path class="st3" d="M195.2,17.63v2l-35,2"/>
+  <path class="st3" d="M160.2,21.63v4H28.8v45.5"/>
+  <g>
+    <line class="st3" x1="28.8" y1="38.63" x2="43.4" y2="38.63"/>
+    <rect class="st2" x="43.4" y="32.63" width="256.9" height="12"/>
+    <g class="st1">
+      <g class="st1">
+        <text class="st0" transform="translate(53.2 40.93)"><tspan x="0" y="0">Antônio Pires</tspan></text>
+      </g>
     </g>
   </g>
   <g>
-    <line class="st3" x1="28.8" y1="57" x2="43.4" y2="57"/>
-    <rect class="st2" x="43.4" y="51" width="256.9" height="12"/>
+    <line class="st3" x1="28.8" y1="54.63" x2="43.4" y2="54.63"/>
+    <rect class="st2" x="43.4" y="48.63" width="256.9" height="12"/>
     <g class="st1">
-      <text class="st0" transform="translate(53.2 59.3)"><tspan x="0" y="0">Diolina Pires</tspan></text>
+      <g class="st1">
+        <text class="st0" transform="translate(53.2 56.93)"><tspan x="0" y="0">Diolina Pires</tspan></text>
+      </g>
     </g>
   </g>
   <g>
-    <line class="st3" x1="28.8" y1="73" x2="43.4" y2="73"/>
-    <rect class="st2" x="43.4" y="67" width="256.9" height="12"/>
+    <line class="st3" x1="28.8" y1="70.63" x2="43.4" y2="70.63"/>
+    <rect class="st2" x="43.4" y="64.63" width="256.9" height="12"/>
     <g class="st1">
-      <text class="st0" transform="translate(53.2 75.3)"><tspan x="0" y="0">Sebastião Pires</tspan></text>
-    </g>
-  </g>
-  <g>
-    <line class="st3" x1="28.8" y1="89" x2="43.4" y2="89"/>
-    <rect class="st2" x="43.4" y="83" width="256.9" height="12"/>
-    <g class="st1">
-      <text class="st0" transform="translate(53.2 91.3)"><tspan x="0" y="0">Veronilia Pires</tspan></text>
+      <g class="st1">
+        <text class="st0" transform="translate(53.2 72.93)"><tspan x="0" y="0">Sebastião Pires</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
